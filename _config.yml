@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ryan McWay / Personal Website"
-title_separator          : "-"
+title                    : "Personal Website"
+title_separator          : "~"
 name                     : &name "Ryan McWay"
 description              : &description "Microeconomics and Development Economics Researcher"
 url                      : https://mcwayrm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -83,10 +83,10 @@ author:
   bio              : "Microeconomics and Development Economics Researcher"
   location         : "Ann Arbor, MI"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "ryan.mcway@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Ryan_Mcway"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,25 +94,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mcwayrm"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/ryan-mcway/"
+  orcid            : "https://orcid.org/0000-0003-4492-7804"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@Prof__Quackers"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  osf              : "https://osf.io/s93vq/"
 
 
 # Reading Files
@@ -176,16 +177,18 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  fieldwork:
     output: true
     permalink: /:collection/:path/
-  talks:
+  datapackages:
     output: true
     permalink: /:collection/:path/
-
+  media:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -216,28 +219,37 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _fieldwork
   - scope:
       path: ""
-      type: portfolio
+      type: fieldwork
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _datapackages
   - scope:
       path: ""
-      type: talks
+      type: datapackages
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _media
+  - scope:
+      path: ""
+      type: media
     values:
       layout: talk
       author_profile: true
