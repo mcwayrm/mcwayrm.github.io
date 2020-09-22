@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-*[CV](/files/McWay-Curriculum-Vitae.pdf)
-
-Try to make populate pdf within page
+![Ryan McWay CV](/files/McWay-Curriculum-Vitae.pdf)
