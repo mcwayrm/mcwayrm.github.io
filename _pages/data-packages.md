@@ -12,7 +12,7 @@ A MLA version is provided for each dataframe. For dataframes used in replicating
 
 Additionally, this page houses statistical packages I have created. None are perfect, so feel free to email me feedback as well as feel free to log an issue on the source code housed on my [GitHub page](https://github.com/mcwayrm).
 
-Include Title, Data updated, Version, Quick description, link to source, Codebook or Metadata as neccessary. An MLA citation is provided for each package if you ever feel you need to cite them.
+Include Title, Data updated, Version, Quick description, link to sources to create dataframe, link to access dataframe, Codebook or Metadata as neccessary. An MLA citation is provided for each package if you ever feel you need to cite them.
 
 Dataframes
 ------
@@ -24,6 +24,6 @@ Dataframes
 
 Statistical Packages
 ------
-Stata package for bounds
-R package for bounds
+- Stata package for bounds
+- R package for bounds
 
