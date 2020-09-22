@@ -7,41 +7,48 @@ author_profile: true
 
 Org., timespan, project, involvement, places, pictures, links to organizations
 
-Mozambique
+Beira, Mozambique
 ========
+_________________________________________________
 FCC, PEPFAR
 
-Uganda
+Kampala, Uganda
 ========
+_________________________________________________
 BRAC Uganda
 May through Aug.
 Targeting the Ultra Poor (TUP)
 (SMU)
 Kampala and the districts
 
-Spain
+Madrid, Spain
 ======
+_________________________________________________
 Bocatalk
 Madrid
 Pyschological effects of homelessness
 
 Saint Louis, MO
 =======
+_________________________________________________
 Love the Lou
 
-Honduras
+Buena Vista, Honduras
 ========
+_________________________________________________
 Global Brigades Microfinance
 Caja Reales (VLSA)
 Buena Vista
 
-Italy
+Bologna, Italy
 =======
+_________________________________________________
 Piazza Grande, Happy Center
 Migrant assimilation, Social and Mental rehabilitation for homeless
 
-Belize
+Belize City, Belize
 ========
+_________________________________________________
 Service Leadership Program
 Impacts of Gang violence on primary education attendance, learning and retention.
 Saint Martin de Porres
