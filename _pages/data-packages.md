@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Data and Packages"
-permalink: /datapackages/
+permalink: /data-packages/
 author_profile: true
 ---
 
