@@ -1,13 +1,14 @@
 ---
 layout: archive
 title: "Fieldwork"
-permalink: /research/
+permalink: /fieldwork/
 author_profile: true
 ---
 
 
 Fieldwork
 --------
-Uganda
-Honduras
-Belize
+* Mozambique
+* Uganda
+* Honduras
+* Belize
