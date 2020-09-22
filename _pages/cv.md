@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Ciriculum Vitae](McWay-Curriculum-Vitae.pdf)
+[Ciriculum Vitae](/files/McWay-Curriculum-Vitae.pdf)
 ======
 
