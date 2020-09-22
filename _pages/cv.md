@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Ciriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Ciriculum Vitae](/files/McWay-Curriculum-Vitae.pdf)
-======
+*[CV](/files/McWay-Curriculum-Vitae.pdf)
 
+Try to make populate pdf within page
