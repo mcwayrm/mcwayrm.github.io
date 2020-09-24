@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<!-- Title, Coauthors, Abstract, Paper link, preprint researchgate link, twitter thread, video explanation, replication code, replication data, media coverage -->
+<!-- Title, Coauthors, Abstract, Paper link, preprint researchgate link, LaTeX presentation, twitter thread, video explanation, replication code, replication data, media coverage -->
 
 <!--
 Publications
