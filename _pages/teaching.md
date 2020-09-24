@@ -10,7 +10,7 @@ Teaching Assistant
 
 - - - - - - 
 
-University of San Francisco
+**University of San Francisco**
 * ECON 111 Principles of Microeconomics
   * Instructor: [Norman Lo](https://normanlo4319.github.io/Norman_Lo_Web/)
   * [Course Link](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186538)
@@ -35,8 +35,8 @@ Tutoring
 
 - - - - - - 
 
-University of San Francisco
-* Athletics Department | Tutored student athletes in the following subjects:
+**University of San Francisco**
+* Athletics Department: Tutored student athletes in the following subjects:
   * [Algebra and Trigonometry](https://catalog.usfca.edu/preview_course_nopop.php?catoid=35&coid=531753)
   * [Buseiness Statistics](https://catalog.usfca.edu/preview_program.php?catoid=22&poid=34872&returnto=3104)
   * [Development Economics](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186554)
