@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-
 Short Bio
 ----
 micro and dev economist. Work at UM ISR and PSC with Dean Yang. Undergraduate at SLU and masters at USF. Current research project. Link to recent work. pictures of me in the field. reserach interests.
+
+[**Ryan's CV**](/cv/)
 
 Work Timeline
 ----
