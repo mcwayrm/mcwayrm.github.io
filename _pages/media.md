@@ -24,4 +24,6 @@ Features
 > Selected to represent the USF MS IDEC program in the new 2019 promotional video
 * [SLU-Madrid](https://myusf.usfca.edu/arts-sciences/economics/idec/jacquesartusaward)
 > Recognized for distinction in graduating cumulative GPA
+* [Motely Fools College Competition](https://www.fool.com/investing/2018/07/05/meet-the-winners-of-the-motley-fool-college-compet.aspx)
+> Runner-up in an essay competition on financial economics
 
