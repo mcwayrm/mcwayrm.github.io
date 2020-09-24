@@ -16,16 +16,17 @@ Additionally, this page houses statistical packages I have created. None are per
 
 Dataframes
 ------
-- Cruise Ships Activity at Port
- - Abstract: Estimated Cruise ship activity by matching cruise ship GPS locations to port geocodes within a 15 KM radius. Covers XX ports in XX countries globally from 2009 - 2019. Port Geocodes are a combination of ... three main sources... geocoded through [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/overview). Cruise ship GPS acitvity was estimated through [Sail WX's](https://www.sailwx.info/shiptrack/) metadata.
- - [Dataset]()
- - [Codebook]() 
- - Last Updated: 
-- Forca a Comunidade e Crincas (FCC)
- - Abstract: This is the publically avaliable dataset for the "Strengthing Communities and Children" (FCC) dataset conducted by [Dean Yang](https://sites.lsa.umich.edu/deanyang/) and his team starting in 2016 to present. As a member of his team, starting in 2020, I helped develop parts of this publically avaliable dataset. In monitors an RCT of HIV testing and various humanitrian aid related programs in Mozambique following the evaluation of the U.S.'s [PEPFAR](https://www.hiv.gov/federal-response/pepfar-global-aids/pepfar) program to address HIV/AIDS in Sub-Saharran Africa. 
-  - [Dataset]()
-  - [Codebook]() 
-  - Last Updated: 
+* Cruise Ships Activity at Port
+ * Abstract: Estimated Cruise ship activity by matching cruise ship GPS locations to port geocodes within a 15 KM radius. Covers XX ports in XX countries globally from 2009 - 2019. Port Geocodes are a combination of ... three main sources... geocoded through [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/overview). Cruise ship GPS acitvity was estimated through [Sail WX's](https://www.sailwx.info/shiptrack/) metadata.
+ * [Dataset]()
+ * [Codebook]() 
+ * Last Updated:
+ 
+* Forca a Comunidade e Crincas (FCC)
+ * Abstract: This is the publically avaliable dataset for the "Strengthing Communities and Children" (FCC) dataset conducted by [Dean Yang](https://sites.lsa.umich.edu/deanyang/) and his team starting in 2016 to present. As a member of his team, starting in 2020, I helped develop parts of this publically avaliable dataset. In monitors an RCT of HIV testing and various humanitrian aid related programs in Mozambique following the evaluation of the U.S.'s [PEPFAR](https://www.hiv.gov/federal-response/pepfar-global-aids/pepfar) program to address HIV/AIDS in Sub-Saharran Africa. 
+  * [Dataset]()
+  * [Codebook]() 
+  * Last Updated: 
 
 
 <!-- Statistical Packages
