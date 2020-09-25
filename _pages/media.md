@@ -8,7 +8,7 @@ author_profile: true
 Talks
 ====
 **2021**
-  * [ASSA Annual Meeting](https://www.aeaweb.org/conference/2021/preliminary/1968?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwTcyUdpZLUolxcIBvISkmshDBKMnNTIayyzNRykAFFBQVAAVMDpdpaXDBjaBvD)
+  * [American Economic Association ASSA Annual Meeting](https://www.aeaweb.org/conference/2021/preliminary/1968?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwTcyUdpZLUolxcIBvISkmshDBKMnNTIayyzNRykAFFBQVAAVMDpdpaXDBjaBvD)
 
 **2020**
   * [10th Annual Creative Activity & Research Day (CARD)](https://myusf.usfca.edu/arts-sciences/card/schedule)
