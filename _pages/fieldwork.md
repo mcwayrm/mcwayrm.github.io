@@ -31,23 +31,37 @@ Madrid, Spain
 
 Pyschological effects of homelessness, mental health, provide conversations
 
+![](pics from madrid)
+
 Saint Louis, MO
 =======
 
-Love the Lou
+[Love the Lou](https://myusf.usfca.edu/arts-sciences/economics/clubs)
+
+STL | LIVE rehabilitating apartments in north STL to provide subsidized housing for low income, and poor-credit rated individuals and families struggling for stable housing. 
+STL | LIFT Additionally assisted in local program engaging vulenarble youth with skill building and mentoring.
+
+![](pic of Love the Lou or from my gallery)
 
 Buena Vista, Honduras
 ========
 
-Global Brigades Microfinance
+[Global Brigades Microfinance](https://business.globalbrigades.org/business-brigades-select-type/business-brigades/honduras/) (recently renamed Global Brigades Business)
 Caja Reales (VLSA)
+Used qualitative household surveys to build the local VLSA around the members needs and helping redistribute resources to local businesses with the highest potential and households in the direst financial need.
 Buena Vista
+
+![](Any pics from Buena Vista)
 
 Bologna, Italy
 =======
 
-Piazza Grande, Happy Center
-Migrant assimilation, Social and Mental rehabilitation for homeless
+[Piazza Grande, Happy Center](http://www.piazzagrande.it/blog/tag/happy-center/)
+Providing services to both the local homelessness population and migrants arriving in Bologna as a result of the [European Migrant Crisis](http://www.piazzagrande.it/blog/tag/happy-center/)
+Migrant assimilation, Social and Mental rehabilitation for homeless. Many sub-saharran Africa migrants make their way to northern cities such as Bologna in search of employment. 
+Humanities internship under Carlo Salmaso 
+
+![](Carlo pic or piazza grande pics)
 
 Belize City, Belize
 ========
@@ -56,5 +70,6 @@ Service Leadership Program
 Impacts of Gang violence on primary education attendance, learning and retention.
 Saint Martin de Porres
 
+![](pics from the community and the school)
 
 
