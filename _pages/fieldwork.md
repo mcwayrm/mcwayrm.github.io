@@ -24,23 +24,24 @@ Kampala, Uganda
 ![](Picture in the field) ![](Picture of BRAC team)
 ![](Picture of Ester) 
 
+<!--
 Madrid, Spain
 ======
-
+<!--
 > While studying abroard in Madrid, Spain at Saint Louis University - Madrid, Ryan worked with [Bocatalk](https://www.slu.edu/news/2017/december/boca-talk.php). The aim of this organization is to provide both hot meals and conversation with the local homeless population primarly around Puerta del Sul and Gran Via.
-
+<!--
 Pyschological effects of homelessness, mental health, provide conversations
-
+<!--
 ![](pics from madrid)
-
+<!--
 Saint Louis, MO
 =======
-
+<!--
 [Love the Lou](https://myusf.usfca.edu/arts-sciences/economics/clubs)
-
+<!--
 STL | LIVE rehabilitating apartments in north STL to provide subsidized housing for low income, and poor-credit rated individuals and families struggling for stable housing. 
 STL | LIFT Additionally assisted in local program engaging vulenarble youth with skill building and mentoring.
-
+<!--
 ![](pic of Love the Lou or from my gallery)
 
 Buena Vista, Honduras
