@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Short Bio
+About
 ----
 Ryan is an economic researcher. He currently works at the University of Michigan [Insitute for Social Research](https://isr.umich.edu/) and [Populations Study Center](https://www.psc.isr.umich.edu/) under Prof. [Dean Yang](https://sites.lsa.umich.edu/deanyang/). With more than three years of research and analytic experience, his [research](/research/) aims are focused on improving development outcomes in regional and global settings. Ryan has conducted household and phone surveys in a variety of [countries](/fieldwork/). Ryan's research interests focus on Development Economics, Applied Microeconomics, Enivronmental Economics, Experimental Economics and Spatial Economics. Ryan completed his MS in International and Development Economics at the University of San Francisco (USF), and his BS in Economics and BS in International Business at Saint Louis University (SLU).
 
@@ -19,7 +19,7 @@ Ryan is an economic researcher. He currently works at the University of Michigan
 * **Survey Design:** *ODK, SurveyCTO, Qualtrics*
 * **Survey Implementation:** *Household Surveys, Phone Surveys, Digital Surveys*
 
-[**Ryan's CV**](/cv/)
+## [Ryan's CV](/cv/)
 
 <div class="container-xl px-5">
         <h2>Timeline Visualization</h2>
