@@ -5,7 +5,7 @@ permalink: /fieldwork/
 author_profile: true
 ---
 
-Ryan has conducted research fieldwork in four countries either for research or supporting NGO operations. While all are not developing nations, the aims and focus of the fieldwork center on improving lives and developing economies. As a practioner in the field, it is his strong belief that development outcomes are not solely limited to those living in developing countries. Many people in developed nations need assistance in overcoming the barriers that impede their [opportunity set](https://en.wikipedia.org/wiki/Capability_approach).
+I have conducted research fieldwork in four countries either for research or supporting NGO operations. While all are not developing nations, the aims and focus of the fieldwork center on improving lives and developing economies. As a practioner in the field, it is my strong belief that development outcomes are not solely limited to those living in developing countries. Many people in developed nations need assistance in overcoming the barriers that impede their [opportunity set](https://en.wikipedia.org/wiki/Capability_approach).
 
 <!-- Org., timespan, project, involvement, places, pictures, links to organizations -->
 
@@ -19,7 +19,7 @@ FCC, PEPFAR
 Kampala, Uganda
 ========
 
-> From May through August of 2019, Ryan worked with [BRAC Uganda](https://bracresearch.net/aboutus.php) Independent Evaluation and Research Center (IERC) based out of Kampala, Uganda under [Danish Us Salam](https://ie.linkedin.com/in/danishussalam?challengeId=AQG1Kmziif-QgQAAAXTG8Z2HzGv6Aj0xkc5MaZvbZewt7yqwHv1i1qdOxjBWbetV8EHylU5P-bH53xHPRLMlLw2mg4zCgRN3SA&submissionId=8cd09d2f-a420-3816-c5bb-804bf174d268). During this time, he contributed to two randomized control trails (RCT) in the field. The first being BRAC's flagship program [Targeting the Ultra-Poor Graduation Program](https://www.poverty-action.org/study/variations-ultra-poor-graduation-programming-uganda) (TUP) made famous for its success in helping the poorest members of already poor communities. Ryan assisted on the endline household survey following-up on households in Luwero, Bombo, Zirobwe, Kigumba and Bweyale districts in Central Uganda. The focus of TUP is to provide the most vulnerable households in already vulnerable communities, with job training and unconditional asset transfers (eg. livestock). Additionally, this endline survey piloted the effects of the newly developed Village Savings and Lending Associations (VSLA) starting to be developed by BRAC adjacent to it's already established microfinance program. Ryan also assisted in the baseline household survey RCT for Strong Minds - Mental Health & Adolescent Empowerment (SMU) aimed at adolescent girls within Kampala. This RCT focuses on improving the mental health and wellbeing of depressed adolescent girls living in households where they are provided little agency. This is incentivized through both a unconditional cash transfer as well as local therapy groups. While living in Kampala, Ryan bought three chickens who we decided to name after economists: Ester Dufluff (Ester Duflo), Elenor Eggstrom (Elenor Ostrom), and Petra Lorenzhen (Peter Lorentzen). Ester is missed dearly.
+> From May through August of 2019, I worked with [BRAC Uganda](https://bracresearch.net/aboutus.php) Independent Evaluation and Research Center (IERC) based out of Kampala, Uganda under [Danish Us Salam](https://ie.linkedin.com/in/danishussalam?challengeId=AQG1Kmziif-QgQAAAXTG8Z2HzGv6Aj0xkc5MaZvbZewt7yqwHv1i1qdOxjBWbetV8EHylU5P-bH53xHPRLMlLw2mg4zCgRN3SA&submissionId=8cd09d2f-a420-3816-c5bb-804bf174d268). During this time, I contributed to two randomized control trails (RCT) in the field. The first being BRAC's flagship program [Targeting the Ultra-Poor Graduation Program](https://www.poverty-action.org/study/variations-ultra-poor-graduation-programming-uganda) (TUP) made famous for its success in helping the poorest members of already poor communities. I assisted on the endline household survey following-up on households in Luwero, Bombo, Zirobwe, Kigumba and Bweyale districts in Central Uganda. The focus of TUP is to provide the most vulnerable households in already vulnerable communities, with job training and unconditional asset transfers (eg. livestock). Additionally, this endline survey piloted the effects of the newly developed Village Savings and Lending Associations (VSLA) starting to be developed by BRAC adjacent to it's already established microfinance program. I also assisted in the baseline household survey RCT for Strong Minds - Mental Health & Adolescent Empowerment (SMU) aimed at adolescent girls within Kampala. This RCT focuses on improving the mental health and wellbeing of depressed adolescent girls living in households where they are provided little agency. This is incentivized through both a unconditional cash transfer as well as local therapy groups. While living in Kampala, I bought three chickens who we decided to name after economists: Ester Dufluff (Ester Duflo), Elenor Eggstrom (Elenor Ostrom), and Petra Lorhenzen (Peter Lorentzen). Ester is missed dearly.
 
 ![](Picture in the field) ![](Picture of BRAC team)
 ![](Picture of Ester) 
@@ -49,30 +49,22 @@ STL | LIFT Additionally assisted in local program engaging vulenarble youth with
 Buena Vista, Honduras
 ========
 
-[Global Brigades Microfinance](https://business.globalbrigades.org/business-brigades-select-type/business-brigades/honduras/) (recently renamed Global Brigades Business)
-Caja Reales (VLSA)
-Used qualitative household surveys to build the local VLSA around the members needs and helping redistribute resources to local businesses with the highest potential and households in the direst financial need.
-Buena Vista
+> During the winter of 2016-2017, I worked with SLU [Global Brigades Microfinance](https://business.globalbrigades.org/business-brigades-select-type/business-brigades/honduras/) (later renamed Global Brigades Business) to establish a [Village Lending and Savings Association](https://www.vsla.net/the-vsla-methodology/) (VSLA) in Buena Vista, Honduras. VSLAs are a form of local credit union operated by the local constituent that is serves. This is an especially effective method of providing access to credit to rural communities whose barriers to financial institutions are constrained. In this particular context, farmers were struggling to payback preditory microloans provided by coyotes since this was their only lines of credit before planting seasons. Additionally, we provided financial literacy to the members of the VSLA in an effort to improve their ability to both improve their financial stability as well as reduce their likelihood of being swindled through financial jargon. We used qualitative household surveys to build the local VLSA around the members needs and helped redistribute resources to local businesses with the highest potential and households in the direst financial need. 
 
 ![](Any pics from Buena Vista)
 
 Bologna, Italy
 =======
 
-[Piazza Grande, Happy Center](http://www.piazzagrande.it/blog/tag/happy-center/)
-Providing services to both the local homelessness population and migrants arriving in Bologna as a result of the [European Migrant Crisis](http://www.piazzagrande.it/blog/tag/happy-center/)
-Migrant assimilation, Social and Mental rehabilitation for homeless. Many sub-saharran Africa migrants make their way to northern cities such as Bologna in search of employment. 
-Humanities internship under Carlo Salmaso 
+> While studying abroad in Bologna, Italy in the Fall of 2016, I took on a humanities internship with [Piazza Grande, Happy Center](http://www.piazzagrande.it/blog/tag/happy-center/) under Carlo Salmaso. This organization works to provide services to both the local homelessness population and migrants arriving in Bologna as a result of the [European Migrant Crisis](http://www.piazzagrande.it/blog/tag/happy-center/). The Happy Center is a segment of Piazza Grande focused on rehabilitation through migrant assimilation to the community, as well as social and mental health rehabilitation for the homeless. The aims of this project is to recognize that being a non-native migrant or homeless often ostracizes you from your community leading to impaired social skills and mental stabilty. 
 
-![](Carlo pic or piazza grande pics)
+![](Carlo pic or piazza grande pics, protest pictures)
 
 Belize City, Belize
 ========
 
-Service Leadership Program
-Impacts of Gang violence on primary education attendance, learning and retention.
-Saint Martin de Porres
+> As a part of the [Service Leadership Program](https://www.slu.edu/business/degrees-programs/service-leadership-program.php) at Saint Louis University, I was provided the opportunity to engage with work being done in Belize City, Belize. The focus of our work aimed at assisting a primary school in an extermely violent part of the city, Saint Martin de Porres. As a result of deportation of gang members in the 1980s and 1990s, gang violence has become a dominating factor in the lives of most Belizeans as drug trafficking through Central America became more and more lucrative. As a result, local gangs find it advantageous to recruit children at younger and younger ages. The major issue we tried to address was working with the school to find solutions to keep children in school rather than dropping out to join a local gang. This involved working directly with teachers, adminstrators and students to find methods of improving accessibility, learning in the classroom and retention at Saint Martin de Porres.  
 
-![](pics from the community and the school)
+![](pics from the community and the school) ![](pic of me working with students)
 
 
