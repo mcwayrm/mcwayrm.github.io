@@ -25,7 +25,7 @@ Dataframes
  
 *Forca a Comunidade e Crincas (FCC)*
  
-  > This is the publically avaliable dataset for the "Strengthing Communities and Children" (FCC) dataset conducted by [Dean Yang](https://sites.lsa.umich.edu/deanyang/) and his team starting in 2016 to present. As a member of his team, starting in 2020, I helped develop parts of this publically avaliable dataset. In monitors an RCT of HIV testing and various humanitrian aid related programs in Mozambique following the evaluation of the U.S.'s [PEPFAR](https://www.hiv.gov/federal-response/pepfar-global-aids/pepfar) program to address HIV/AIDS in Sub-Saharran Africa. 
+  > This is the publically avaliable dataset for the "Strengthing Communities and Children" (FCC) dataset conducted by [Dean Yang](https://sites.lsa.umich.edu/deanyang/) and his team starting in 2016 to present. As a member of his team, starting in 2020, I helped develop parts of this publically avaliable dataset. It monitors an RCT of HIV testing and various humanitrian aid related programs in Mozambique following the evaluation of the U.S.'s [PEPFAR](https://www.hiv.gov/federal-response/pepfar-global-aids/pepfar) program to address HIV/AIDS in Sub-Saharran Africa. 
   * **[Dataset]()**
   * **[Codebook]()** 
   * **Last Updated:**
