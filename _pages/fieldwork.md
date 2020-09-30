@@ -44,6 +44,8 @@ STL | LIFT Additionally assisted in local program engaging vulenarble youth with
 <!--
 ![](pic of Love the Lou or from my gallery)
 
+-->
+
 Buena Vista, Honduras
 ========
 
