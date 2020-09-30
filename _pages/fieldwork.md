@@ -5,7 +5,7 @@ permalink: /fieldwork/
 author_profile: true
 ---
 
-Ryan has conducted research fieldwork in six countries either for research or supporting NGO operations. While all are not developing nations, the aims and focus of the fieldwork center on improving lives and developing economies. As a practioner in the field, it is his strong belief that development outcomes are not solely limited to those living in developing countries. Many people in developed nations need assistance in overcoming the barriers that impede their [opportunity set](https://en.wikipedia.org/wiki/Capability_approach).
+Ryan has conducted research fieldwork in four countries either for research or supporting NGO operations. While all are not developing nations, the aims and focus of the fieldwork center on improving lives and developing economies. As a practioner in the field, it is his strong belief that development outcomes are not solely limited to those living in developing countries. Many people in developed nations need assistance in overcoming the barriers that impede their [opportunity set](https://en.wikipedia.org/wiki/Capability_approach).
 
 <!-- Org., timespan, project, involvement, places, pictures, links to organizations -->
 
