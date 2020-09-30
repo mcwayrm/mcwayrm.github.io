@@ -18,7 +18,7 @@ Talks
 
 Features
 ====
-* 
+
 <details>
   <summary> <strong> <a href="https://myusf.usfca.edu/arts-sciences/economics/idec/jacquesartusaward">Jacques Artus Award</a> </strong> </summary>
       <blockquote> 
@@ -26,13 +26,13 @@ Features
      <blockquote>
 </details>      
   
-* [MS IDEC Promotional Video](https://player.vimeo.com/video/363388307?autoplay=1)
 <details>
-  <summary> <strong> Abstract: </strong> </summary>
+  <summary> <strong> <a href="https://player.vimeo.com/video/363388307?autoplay=1">MS IDEC Promotional Video</a> </strong> </summary>
       <blockquote> 
        Selected to represent the USF MS IDEC program in the new 2019 promotional video
      <blockquote>
 </details>
+       
 * [SLU-Madrid](https://myusf.usfca.edu/arts-sciences/economics/idec/jacquesartusaward)
 > Recognized for distiguished graduating cumulative GPA
 * [Motely Fools College Competition](https://www.fool.com/investing/2018/07/05/meet-the-winners-of-the-motley-fool-college-compet.aspx)
