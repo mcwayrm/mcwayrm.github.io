@@ -66,7 +66,7 @@ Belize City, Belize
 
 > As a part of the [Service Leadership Program](https://www.slu.edu/business/degrees-programs/service-leadership-program.php) at Saint Louis University, I was provided the opportunity to engage with work being done in Belize City, Belize. The focus of our work aimed at assisting a primary school in an extermely violent part of the city, Saint Martin de Porres. As a result of deportation of gang members in the 1980s and 1990s, gang violence has become a dominating factor in the lives of most Belizeans as drug trafficking through Central America became more and more lucrative. As a result, local gangs find it advantageous to recruit children at younger and younger ages. The major issue we tried to address was working with the school to find solutions to keep children in school rather than dropping out to join a local gang. This involved working directly with teachers, adminstrators and students to find methods of improving accessibility, learning in the classroom and retention at Saint Martin de Porres.  
 
-![Working with students in the classroom](/images/ryan_teaching_st_martin_porres.png) ![Saint Martin de Porres](/images/saint_martin_de_porres.jpg)
-![Downtown Belize City](/images/belize_city.jpg)
+![Working with students in the classroom](/images/ryan_teaching_st_martin_porres.png) ![Saint Martin de Porres](/images/saint_martin_de_porres.JPG)
+![Downtown Belize City](/images/belize_city.JPG)
 
 
