@@ -32,9 +32,19 @@ Features
        Selected to represent the USF MS IDEC program in the new 2019 promotional video
      </blockquote>
 </details>
+
+<details>
+  <summary> <strong> <a href="https://www.slu.edu/madrid/news/2018/2018-pre-commencement-awards-ceremony.php">SLU-Madrid Recognition</a> </strong> </summary>
+      <blockquote> 
+      Recognized for distiguished graduating cumulative GPA
+     </blockquote>
+</details>
        
-* [SLU-Madrid](https://myusf.usfca.edu/arts-sciences/economics/idec/jacquesartusaward)
-> Recognized for distiguished graduating cumulative GPA
-* [Motely Fools College Competition](https://www.fool.com/investing/2018/07/05/meet-the-winners-of-the-motley-fool-college-compet.aspx)
-> Runner-up in an essay competition on financial economics
+<details>
+  <summary> <strong> <a href="https://www.fool.com/investing/2018/07/05/meet-the-winners-of-the-motley-fool-college-compet.aspxp">Motely Fools College Competition</a> </strong> </summary>
+      <blockquote> 
+      Runner-up in an essay competition on financial economics
+     </blockquote>
+</details>
+
 
