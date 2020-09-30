@@ -51,8 +51,6 @@ Buena Vista, Honduras
 
 > During the winter of 2016-2017, I worked with SLU [Global Brigades Microfinance](https://business.globalbrigades.org/business-brigades-select-type/business-brigades/honduras/) (later renamed Global Brigades Business) to establish a [Village Lending and Savings Association](https://www.vsla.net/the-vsla-methodology/) (VSLA) in Buena Vista, Honduras. VSLAs are a form of local credit union operated by the local constituent that is serves. This is an especially effective method of providing access to credit to rural communities whose barriers to financial institutions are constrained. In this particular context, farmers were struggling to payback preditory microloans provided by coyotes since this was their only lines of credit before planting seasons. Additionally, we provided financial literacy to the members of the VSLA in an effort to improve their ability to both improve their financial stability as well as reduce their likelihood of being swindled through financial jargon. We used qualitative household surveys to build the local VLSA around the members needs and helped redistribute resources to local businesses with the highest potential and households in the direst financial need. 
 
-![](Any pics from Buena Vista)
-
 Bologna, Italy
 =======
 
