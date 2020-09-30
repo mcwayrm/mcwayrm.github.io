@@ -23,14 +23,14 @@ Features
   <summary> <strong> <a href="https://myusf.usfca.edu/arts-sciences/economics/idec/jacquesartusaward">Jacques Artus Award</a> </strong> </summary>
       <blockquote> 
        Excellence in research in the MS IDEC program at the University of San Francisco
-     <blockquote>
+     </blockquote>
 </details>      
   
 <details>
   <summary> <strong> <a href="https://player.vimeo.com/video/363388307?autoplay=1">MS IDEC Promotional Video</a> </strong> </summary>
       <blockquote> 
        Selected to represent the USF MS IDEC program in the new 2019 promotional video
-     <blockquote>
+     </blockquote>
 </details>
        
 * [SLU-Madrid](https://myusf.usfca.edu/arts-sciences/economics/idec/jacquesartusaward)
