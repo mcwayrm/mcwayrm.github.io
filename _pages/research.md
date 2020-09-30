@@ -15,7 +15,6 @@ Publications
 Working Papers
 ========
 
-- - - - - 
 *Contrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms*
   with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Mauricio Jara Bertin](https://scholar.google.com.sg/citations?user=A48L9BMAAAAJ&hl=en)
 <details>
@@ -31,8 +30,6 @@ Working Papers
 
 Works in Progress
 ========
-
-- - - - - 
 
 *General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education*
 
