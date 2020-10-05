@@ -25,8 +25,12 @@ Working Papers
    
   * **Open Access:** [Research Gate](https://www.researchgate.net/publication/338165813_Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms)
   
+Keywords: `Earnings Managment` `Remuneration` `Spain`
+  
 *Does Board Gender Diversity and Remuneration Impact Earnings Quality? Evidence from Spanish Firms*
   with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Pablo San Martin]()
+  
+Keywords: `Earnings Managment` `Board Gender Diversity` `Remuneration` `Spain`
 
 Works in Progress
 ========
