@@ -19,6 +19,14 @@ Talks
 Features
 ====
 
+
+<details>
+  <summary> <strong> <a href="https://www.dropbox.com/s/r8uuyq7d34wei5u/Econ%20Newsletter%20Fall%20Issue%20Vol.%2020.pdf?dl=0">USF Economics Newsletter Fall Issue Vol. 20</a> </strong> </summary>
+      <blockquote> 
+       Recognized for Jacques Artus Award and CARD presentation
+     </blockquote>
+</details>  
+
 <details>
   <summary> <strong> <a href="https://myusf.usfca.edu/arts-sciences/economics/idec/jacquesartusaward">Jacques Artus Award</a> </strong> </summary>
       <blockquote> 
