@@ -23,8 +23,16 @@ Kampala, Uganda
 
 Keywords: `BRAC` `RCT` `Mental Health` `VSLA` `Uganda`
 
-![In the Field with Field Supervisor Ronald](/images/ronald_in_field.jpg =250x250) ![Central Market Place in Kampala](/images/kampala_market_place.jpg =250x250)
-![Picture of Ester](/images/ester_dufluff.jpg =250x250) 
+<div class="row">
+  <div class="column">
+    <img src="/images/ronald_in_field.jpg" width="350" height="350">
+  </div>
+  <div class="column">
+    <img src="/images/kampala_market_place.jpg" width="350" height="350">
+  </div>    
+</div>
+
+<img src="/images/ester_dufluff.jpg" width="350" height="350" class="center">
 
 <!--
 Madrid, Spain
@@ -55,7 +63,7 @@ Buena Vista, Honduras
 
 Keywords: `Global Brigages` `Financial Literacy` `VSLA` `Honduras`
 
-![Mountains near Buena Vista](/images/landscape_buena_vista.jpg)
+<img src="/images/landscape_buena_vista.jpg" width="350" height="350" class="center">
 
 Bologna, Italy
 =======
@@ -64,8 +72,16 @@ Bologna, Italy
 
 Keywords: `Piazza Grande` `Migration` `Homelessness` `Mental Health` `Italy`
 
-![Happy Center Sign](/images/happy_center_sign.jpg) ![Happy Center Community](/images/happy_center_party.jpg)
-![Main Activities Room](/images/happy_center_room.jpg)
+<div class="row">
+  <div class="column">
+    <img src="/images/happy_center_sign.jpg" width="350" height="350">
+  </div>
+  <div class="column">
+    <img src="/images/happy_center_party.jpg" width="350" height="350">
+  </div>    
+</div>
+
+<img src="/images/happy_center_room.jpg" width="350" height="350" class="center">
 
 Belize City, Belize
 ========
@@ -74,7 +90,15 @@ Belize City, Belize
 
 Keywords: `Service Leadership` `Education` `Gang Violence` `Belize`
 
-![Working with students in the classroom](/images/ryan_teaching_st_martin_porres.png) ![Saint Martin de Porres](/images/saint_martin_de_porres.JPG)
-![Downtown Belize City](/images/belize_city.JPG)
+<div class="row">
+  <div class="column">
+    <img src="/images/ryan_teaching_st_martin_porres.png" width="350" height="350">
+  </div>
+  <div class="column">
+    <img src="/images/saint_martin_de_porres.JPG" width="350" height="350">
+  </div>    
+</div>
+
+<img src="/images/belize_city.JPG" width="350" height="350" class="center">
 
 
