@@ -23,8 +23,8 @@ Kampala, Uganda
 
 Keywords: `BRAC` `RCT` `Mental Health` `VSLA` `Uganda`
 
-![In the Field with Field Supervisor Ronald](/images/ronald_in_field.jpg) ![Central Market Place in Kampala](/images/kampala_market_place.jpg)
-![Picture of Ester](/images/ester_dufluff.jpg) 
+![In the Field with Field Supervisor Ronald](/images/ronald_in_field.jpg =250x250) ![Central Market Place in Kampala](/images/kampala_market_place.jpg =250x250)
+![Picture of Ester](/images/ester_dufluff.jpg =250x250) 
 
 <!--
 Madrid, Spain
