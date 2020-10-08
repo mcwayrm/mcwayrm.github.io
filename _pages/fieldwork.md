@@ -67,7 +67,7 @@ Buena Vista, Honduras
 
 > During the winter of 2015-2016, I worked with SLU [Global Brigades Microfinance](https://business.globalbrigades.org/business-brigades-select-type/business-brigades/honduras/) (later renamed Global Brigades Business) to establish a [Village Lending and Savings Association](https://www.vsla.net/the-vsla-methodology/) (VSLA) in Buena Vista, Honduras. VSLAs are a form of local credit union operated by the local constituents that is serves. This is an especially effective method of providing access to credit to rural communities whose barriers to financial institutions are constrained. In this particular context, farmers were struggling to payback preditory microloans provided by Coyotes (Loan Sharks) since this was their only lines of credit before planting seasons. Additionally, we provided financial literacy to the members of the VSLA in an effort to improve their ability to both improve their financial stability as well as reduce their likelihood of being swindled through financial jargon. We used qualitative household surveys to build the local VLSA around the members needs and helped redistribute resources to local businesses with the highest potential and households in the direst financial need. 
 
-Keywords: `Global Brigages` `Financial Literacy` `VSLA` `Honduras`
+**Keywords:** `Global Brigages` `Financial Literacy` `VSLA` `Honduras`
 
 <img src="/images/landscape_buena_vista.jpg" width="350" height="350" class="center">
 
@@ -76,7 +76,7 @@ Bologna, Italy
 
 > While studying abroad in Bologna, Italy in the Fall of 2015, I took on a humanities internship with [Piazza Grande, Happy Center](http://www.piazzagrande.it/) under Carlo Salmaso. This organization works to provide services to both the local homelessness population and migrants arriving in Bologna as a result of the [European Migrant Crisis](https://en.wikipedia.org/wiki/European_migrant_crisis). The Happy Center is a segment of Piazza Grande focused on rehabilitation through migrant assimilation to the community, as well as social and mental health rehabilitation for the homeless. The aims of this project is to recognize that being a non-native migrant or homeless often ostracizes you from your community leading to impaired social skills and mental stabilty. 
 
-Keywords: `Piazza Grande` `Migration` `Homelessness` `Mental Health` `Italy`
+**Keywords:** `Piazza Grande` `Migration` `Homelessness` `Mental Health` `Italy`
 
 <div class="row">
   <div class="column">
@@ -94,7 +94,7 @@ Belize City, Belize
 
 > As a part of the [Service Leadership Program](https://www.slu.edu/business/degrees-programs/service-leadership-program.php) at Saint Louis University, I was provided the opportunity to engage with work being done in Belize City, Belize. The focus of our work aimed at assisting a primary school, Saint Martin de Porres, in an extermely violent part of the city. As a result of deportation of gang members in the 1980s and 1990s from the United States, gang violence has become a dominating factor in the lives of most Belizeans as drug trafficking through Central America became more and more lucrative. As a result, local gangs find it advantageous to recruit children at younger and younger ages. The major issue we tried to address was working with the school to find solutions to keep children in school rather than dropping out to join a local gang. This involved working directly with teachers, adminstrators and students to find methods of improving accessibility, learning in the classroom and retention at Saint Martin de Porres.  
 
-Keywords: `Service Leadership` `Education` `Gang Violence` `Belize`
+**Keywords:** `Service Leadership` `Education` `Gang Violence` `Belize`
 
 <div class="row">
   <div class="column">
