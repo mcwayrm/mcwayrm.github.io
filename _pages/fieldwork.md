@@ -32,7 +32,7 @@ Keywords: `BRAC` `RCT` `Mental Health` `VSLA` `Uganda`
   </div>    
 </div>
 
-<img src="/images/ester_dufluff.jpg" width="350" height="350" class="center">
+<img src="/images/ester_dufluff.jpg" width="350" height="350">
 
 <!--
 Madrid, Spain
@@ -81,7 +81,7 @@ Keywords: `Piazza Grande` `Migration` `Homelessness` `Mental Health` `Italy`
   </div>    
 </div>
 
-<img src="/images/happy_center_room.jpg" width="350" height="350" class="center">
+<img src="/images/happy_center_room.jpg" width="350" height="350">
 
 Belize City, Belize
 ========
@@ -99,6 +99,6 @@ Keywords: `Service Leadership` `Education` `Gang Violence` `Belize`
   </div>    
 </div>
 
-<img src="/images/belize_city.JPG" width="350" height="350" class="center">
+<img src="/images/belize_city.JPG" width="350" height="350">
 
 
