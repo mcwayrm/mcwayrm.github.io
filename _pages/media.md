@@ -34,7 +34,7 @@ Recognitions
 </details>
 
 <details>
-  <summary> <strong> <a>Eagle Scout</a> </strong> </summary>
+  <summary> <strong>Eagle Scout</strong> </summary>
       <blockquote> 
       Earned rank of Eagle Scout with 3 Palms with Troop 496 for the Boy Scouts
      </blockquote>
