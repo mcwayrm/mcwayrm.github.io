@@ -69,7 +69,7 @@ Tutoring
 **University of San Francisco**
 * Athletics Department: Tutored student athletes in the following subjects:
   * [MATH 104 Algebra and Trigonometry](https://catalog.usfca.edu/preview_course_nopop.php?catoid=35&coid=531753)
-  * [MATH 106 Buseiness Statistics](https://catalog.usfca.edu/preview_program.php?catoid=22&poid=34872&returnto=3104)
+  * [MATH 106 Business Statistics](https://catalog.usfca.edu/preview_program.php?catoid=22&poid=34872&returnto=3104)
   * [ECON 372 Development Economics](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186554)
   * [ECON 312 Intermediate Macroeconomics](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186549)
   * [SOC 150 Introduction to Sociology](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=188652)
