@@ -19,4 +19,4 @@ Ryan is an economic researcher. He currently works at the University of Michigan
 * **Survey Design:** *ODK, SurveyCTO, Qualtrics*
 * **Survey Implementation:** *Household Surveys, Phone Surveys, Digital Surveys*
 
-## [Ryan's CV](/cv/)
+## [Curriculum Vitae](/cv/)
