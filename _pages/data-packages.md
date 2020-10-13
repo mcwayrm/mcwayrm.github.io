@@ -51,9 +51,22 @@ Statistical Packages
 -->
 
 <!-- 
-- Stata package for lee bounds
+*leebounds2*
+  > Stata package for lee bounds
+  * **[Documentation]**
+  * **[Slides]**
+  * **[Source Code]**
+  * **Last Updated:** 
+
 **Keywords:** `Lee Bounds` `Continous Variable` `STATA`
-- R package for lee bounds, manski bounds, oster bounds 
+
+*boundbutunbroken*
+  > R package for lee bounds, manski bounds, oster bounds 
+  * **[Documentation]**
+  * **[Slides]**
+  * **[Source Code]**
+  * **Last Updated:** 
+  
 **Keywords:** `Lee Bounds` `Manski Bounds` `Oster Bounds` `R`
 -->
  
