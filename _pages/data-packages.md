@@ -30,6 +30,8 @@ Dataframes
   * **[Dataset]()**
   * **[Codebook]()** 
   * **Last Updated:**
+  
+**Keywords:** `Cruise Ships` `Cruise Tourism` `Passengers`
 -->
  
 <!--
