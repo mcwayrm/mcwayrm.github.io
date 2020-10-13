@@ -4,11 +4,7 @@ title: "Data and Packages"
 permalink: /data-packages/
 author_profile: true
 ---
-This page provides the publically avaliable datasets that I have created. Feel free to use them at your disposal, but if you would please cite your sources as (Example in MLA):
-
-> McWay, Ryan. *Name of the Dataframe*. *Version #*. *Year Updated*. *Date Extracted*. *URL*
-
-A MLA version is provided for each dataframe. Note that some of the data listed below is not created by myself soley. Rather, some are datasets to which I have contributed towards. For these, please acknowledge all parties involved in the development of these datasets. For dataframes used in replicating my previous work, please refer to my [research page](/research/) where I try to provide access to the replication code and data for my work.
+This page provides the publically avaliable datasets that I have created. Feel free to use them at your disposal, but if you would please cite your sources. A MLA version is provided for each dataframe. Note that some of the data listed below is not created by myself soley. Rather, some are datasets to which I have contributed towards. For these, please acknowledge all parties involved in the development of these datasets. For dataframes used in replicating my previous work, please refer to my [research page](/research/) where I try to provide access to the replication code and data for my work.
 
 Additionally, this page houses statistical packages I have created. None are perfect, so feel free to email me feedback as well as feel free to log an issue on the source code housed on my [GitHub page](https://github.com/mcwayrm).
 
@@ -25,6 +21,7 @@ Dataframes
 
 **Keywords:** `Ports` `Cruise Ships` `Global` `AIS`
  
+<!--
 *Forca a Comunidade e Crincas (FCC)*
  
   > This is the publically avaliable dataset for the "Strengthing Communities and Children" (FCC) dataset conducted by [Dean Yang](https://sites.lsa.umich.edu/deanyang/) and his team starting in 2016 to present. As a member of his team, starting in 2020, I helped develop parts of this publically avaliable dataset. It monitors an RCT of HIV testing and various humanitrian aid related programs in Mozambique following the evaluation of the U.S.'s [PEPFAR](https://www.hiv.gov/federal-response/pepfar-global-aids/pepfar) program to address HIV/AIDS in Sub-Saharran Africa. Additionally, it measures the impacts of Cyclone Idai and Covid-19's impact on affected study areas.
@@ -33,9 +30,12 @@ Dataframes
   * **Last Updated:** 
 
 **Keywords:** `FCC` `HIV/AIDS` `Cyclone Idai` `Covid-19` `Mozambique`
+  -->
 
+<!--
 Statistical Packages
 ------
+-->
 
 <!-- 
 - Stata package for lee bounds
