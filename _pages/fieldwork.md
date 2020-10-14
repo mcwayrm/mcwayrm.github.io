@@ -29,14 +29,10 @@ Kampala, Uganda
 
 **Keywords:** `BRAC` `RCT` `Mental Health` `VSLA` `Uganda`
 
-<div class="row">
-  <div class="column">
-    <img src="/images/ronald_in_field.jpg" width="350" height="350">
-  </div>
-  <div class="column">
-    <img src="/images/kampala_market_place.jpg" width="350" height="350">
-  </div>    
-</div>
+
+<img src="/images/ronald_in_field.jpg" width="350" height="350">
+
+<img src="/images/kampala_market_place.jpg" width="350" height="350">
 
 <img src="/images/ester_dufluff.jpg" width="350" height="350">
 
@@ -78,14 +74,9 @@ Bologna, Italy
 
 **Keywords:** `Piazza Grande` `Migration` `Homelessness` `Mental Health` `Italy`
 
-<div class="row">
-  <div class="column">
-    <img src="/images/happy_center_sign.jpg" width="350" height="350">
-  </div>
-  <div class="column">
-    <img src="/images/happy_center_party.jpg" width="350" height="350">
-  </div>    
-</div>
+<img src="/images/happy_center_sign.jpg" width="350" height="350">
+
+<img src="/images/happy_center_party.jpg" width="350" height="350">
 
 <img src="/images/happy_center_room.jpg" width="350" height="350">
 
@@ -96,14 +87,9 @@ Belize City, Belize
 
 **Keywords:** `Service Leadership` `Education` `Gang Violence` `Belize`
 
-<div class="row">
-  <div class="column">
-    <img src="/images/ryan_teaching_st_martin_porres.png" width="350" height="350">
-  </div>
-  <div class="column">
-    <img src="/images/saint_martin_de_porres.JPG" width="350" height="350">
-  </div>    
-</div>
+<img src="/images/ryan_teaching_st_martin_porres.png" width="350" height="350">
+
+<img src="/images/saint_martin_de_porres.JPG" width="350" height="350">
 
 <img src="/images/belize_city.JPG" width="350" height="350">
 
