@@ -45,11 +45,18 @@ Features
 
 
 <details>
-  <summary> <strong> <a href="https://www.dropbox.com/s/r8uuyq7d34wei5u/Econ%20Newsletter%20Fall%20Issue%20Vol.%2020.pdf?dl=0">USF Economics Newsletter Fall Issue Vol. 20</a> </strong> </summary>
+  <summary> <strong> <a href="https://www.dropbox.com/s/r8uuyq7d34wei5u/Econ%20Newsletter%20Fall%20Issue%20Vol.%2020.pdf?dl=0" target="_blank">USF Economics Newsletter Fall Issue Vol. 20</a> </strong> </summary>
       <blockquote> 
        Recognized for Jacques Artus Award and CARD presentation
      </blockquote>
-</details>       
+</details>     
+
+<details>
+  <summary> <strong> <a href="https://www.linkedin.com/pulse/idecinterviewseries-jacques-artus-award-winner-2020-zumel-dumlao/?trackingId=r0MpoGcHSdR1jEircJs2Fw%3D%3D">MS IDEC Interview Series</a> </strong> </summary>
+      <blockquote> 
+       Featured in the 2020 MS IDEC Interview Series
+     </blockquote>
+</details>
   
 <details>
   <summary> <strong> <a href="https://player.vimeo.com/video/363388307?autoplay=1">MS IDEC Promotional Video</a> </strong> </summary>
