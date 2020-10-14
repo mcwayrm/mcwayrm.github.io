@@ -4,7 +4,7 @@ title: "Data and Packages"
 permalink: /data-packages/
 author_profile: true
 ---
-This page provides the publically avaliable datasets that I have created. Feel free to use them at your disposal, but if you would please cite your sources. A citation is provided for each dataframe. Note that some of the data listed below is not created by myself soley. Rather, some are datasets to which I have contributed towards. For these, please acknowledge all parties involved in the development of these datasets. For dataframes used in replicating my previous work, please refer to my [research page](/research/) where I try to provide access to the replication code and data for my work.
+This page provides the publically avaliable datasets that I have created. Feel free to use them at your disposal, but if you would please cite your sources. A citation is provided for each dataframe. Note that some of the data listed below is not created by myself soley. Rather, some are datasets to which I have contributed towards. For these, please acknowledge all parties involved in the development of these datasets. For dataframes used in replicating my previous work, please refer to my [research page](/research/) where I try to provide access to the replication code and data for published work.
 
 Additionally, this page houses statistical packages I have created. None are perfect, so feel free to email me feedback as well as feel free to log an issue on the source code housed on my [GitHub page](https://github.com/mcwayrm).
 
@@ -14,6 +14,19 @@ Additionally, this page houses statistical packages I have created. None are per
 
 Dataframes
 ------
+
+*Census of Active Cruise Ships*
+
+  > This dataframe provides a crosssection of the characteristics of cruise ship vessels currently in operation. This covers 525 vessels as the beginning of 2020. This information was collected by combining info from [Wikidepida](https://en.wikipedia.org/wiki/List_of_cruise_ships) and [Vessel Finder](https://www.vesselfinder.com/vessels). The primary application of this data is for cruise tourism or cruise ship activity.
+  * **[Dataset](https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info.csv)**
+  * **[Codebook](https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info_metadata.pdf)** 
+  * **Last Updated:** Oct. 14th 2020
+  
+  McWay, Ryan. (2020). Cruise Ship Characteristics Information. Version 1. https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info.csv. Extracted: [Date of Extraction].
+  
+**Keywords:** `Cruise Ships` `Cruise Tourism` `Crew` `Passengers`
+
+<!--
 *Cruise Ships Activity at Port*
 
   > This dataframe estimates cruise ship activity by matching cruise ship GPS locations to port city geocodes within a 15 KM radius. The panel covers XX ports in XX countries globally from 2009 - 2019. Port Geocodes are a combination of ... three main sources... geocoded through [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/overview). Cruise ship GPS acitvity was estimated through [Sail WX's](https://www.sailwx.info/shiptrack/) metadata.
@@ -22,17 +35,8 @@ Dataframes
   * **Last Updated:**
 
 **Keywords:** `Ports` `Cruise Ships` `Global` `AIS`
- 
-<!--
-*Census of Active Cruise Ships*
-
-  > This dataframe provides a crosssection of the characteristics of cruise ship vessels currently in operation. This covers XX vessels in operation. This information was collected by combing info from Wikidepida and Cruise something. 
-  * **[Dataset]()**
-  * **[Codebook]()** 
-  * **Last Updated:**
-  
-**Keywords:** `Cruise Ships` `Cruise Tourism` `Passengers`
 -->
+
  
 <!--
 *Forca a Comunidade e Crincas (FCC)*
