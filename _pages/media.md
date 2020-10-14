@@ -20,14 +20,14 @@ Recognitions
 ====
 
 <details>
-  <summary> <strong> <a href="https://myusf.usfca.edu/arts-sciences/economics/idec/jacquesartusaward">Jacques Artus Award</a> </strong> </summary>
+  <summary> <strong> <a href="https://myusf.usfca.edu/arts-sciences/economics/idec/jacquesartusaward" target="_blank">Jacques Artus Award</a> </strong> </summary>
       <blockquote> 
        Excellence in research in the MS IDEC program at the University of San Francisco
      </blockquote>
 </details> 
 
 <details>
-  <summary> <strong> <a href="https://www.fool.com/investing/2018/07/05/meet-the-winners-of-the-motley-fool-college-compet.aspxp">Motely Fools College Competition</a> </strong> </summary>
+  <summary> <strong> <a href="https://www.fool.com/investing/2018/07/05/meet-the-winners-of-the-motley-fool-college-compet.aspxp" target="_blank">Motely Fools College Competition</a> </strong> </summary>
       <blockquote> 
       Runner-up in an essay competition on financial economics
      </blockquote>
@@ -52,21 +52,21 @@ Features
 </details>     
 
 <details>
-  <summary> <strong> <a href="https://www.linkedin.com/pulse/idecinterviewseries-jacques-artus-award-winner-2020-zumel-dumlao/?trackingId=r0MpoGcHSdR1jEircJs2Fw%3D%3D">MS IDEC Interview Series</a> </strong> </summary>
+  <summary> <strong> <a href="https://www.linkedin.com/pulse/idecinterviewseries-jacques-artus-award-winner-2020-zumel-dumlao/?trackingId=r0MpoGcHSdR1jEircJs2Fw%3D%3D" target="_blank">MS IDEC Interview Series</a> </strong> </summary>
       <blockquote> 
        Featured in the 2020 MS IDEC Interview Series
      </blockquote>
 </details>
   
 <details>
-  <summary> <strong> <a href="https://player.vimeo.com/video/363388307?autoplay=1">MS IDEC Promotional Video</a> </strong> </summary>
+  <summary> <strong> <a href="https://player.vimeo.com/video/363388307?autoplay=1" target="_blank">MS IDEC Promotional Video</a> </strong> </summary>
       <blockquote> 
        Selected to represent the USF MS IDEC program in the new 2019 promotional video
      </blockquote>
 </details>
 
 <details>
-  <summary> <strong> <a href="https://www.slu.edu/madrid/news/2018/2018-pre-commencement-awards-ceremony.php">SLU-Madrid Recognition</a> </strong> </summary>
+  <summary> <strong> <a href="https://www.slu.edu/madrid/news/2018/2018-pre-commencement-awards-ceremony.php" target="_blank">SLU-Madrid Recognition</a> </strong> </summary>
       <blockquote> 
       Recognized for distiguished graduating cumulative GPA
      </blockquote>
