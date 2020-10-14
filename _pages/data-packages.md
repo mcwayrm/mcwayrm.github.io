@@ -17,7 +17,7 @@ Dataframes
 
 *Census of Active Cruise Ships*
 
-  > This dataframe provides a crosssection of the characteristics of cruise ship vessels currently in operation. This covers 525 vessels as the beginning of 2020. This information was collected by combining info from [Wikidepida](https://en.wikipedia.org/wiki/List_of_cruise_ships) and [Vessel Finder](https://www.vesselfinder.com/vessels). The primary application of this data is for cruise tourism or cruise ship activity.
+  > This dataframe provides a crosssection of the characteristics of cruise ship vessels currently in operation. This covers 525 vessels as the beginning of 2020. This information was collected by combining information from [Wikidepida](https://en.wikipedia.org/wiki/List_of_cruise_ships) and [Vessel Finder](https://www.vesselfinder.com/vessels). The primary application of this data is for cruise tourism or cruise ship activity.
   * **[Dataset](https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info.csv)**
   * **[Codebook](https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info_metadata.pdf)** 
   * **Last Updated:** Oct. 14th 2020
