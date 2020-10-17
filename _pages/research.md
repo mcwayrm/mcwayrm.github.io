@@ -25,7 +25,7 @@ Working Papers
      </blockquote>
 </details>
    
-  * **Open Access:** [Research Gate](https://www.researchgate.net/publication/338165813_Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3710966)
+  * **Open Access:** [Research Gate](https://www.researchgate.net/publication/338165813_Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3710966), [OSF](https://osf.io/xgn3y/)
   
 **Keywords:** `Earnings Managment` `Remuneration` `Spain`
   
