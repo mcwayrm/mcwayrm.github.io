@@ -19,6 +19,6 @@ Ryan is an economic researcher. He currently works at the University of Michigan
 * **Financial:** *Bloomberg Marketing Concepts (BMC), Thompson Reuters' Eikon*
 * **Statistical:** *ArcGIS, Earth Engine, Python, R, STATA, SQL, Tableau*
 * **Survey Design:** *ODK, SurveyCTO, Qualtrics*
-* **Survey Implementation:** *Household Surveys, Phone Surveys, Digital Surveys*
+* **Survey Implementation:** *Household Surveys, Phone Surveys, Digital Surveys, SMS Surveys*
 
 ## [Curriculum Vitae](/cv/)
