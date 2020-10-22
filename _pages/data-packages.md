@@ -21,10 +21,8 @@ Dataframes
   * **[Dataset](https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info.csv)**
   * **[Codebook](https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info_metadata.pdf)** 
   * **Last Updated:** Oct. 14th 2020
-  
-  McWay, Ryan. (2020). *Cruise Ship Characteristics Information*. Version 1. https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info.csv. Extracted: [Date of Extraction].
-  
-**Keywords:** `Cruise Ships` `Cruise Tourism` `Crew` `Passengers`
+  > McWay, Ryan. (2020). *Cruise Ship Characteristics Information*. Version 1. https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info.csv. Extracted: [Date of Extraction]. \
+  > **Keywords:** `Cruise Ships` `Cruise Tourism` `Crew` `Passengers`
 
 <!--
 *Cruise Ships Activity at Port*
@@ -33,10 +31,8 @@ Dataframes
   * **[Dataset]()**
   * **[Codebook]()** 
   * **Last Updated:**
-  
-  McWay, Ryan. (2020). *Cruise Ship Activity at Port*. Version 1. [URL]. Extracted: [Date of Extraction].
-
-**Keywords:** `Ports` `Cruise Ships` `Global` `AIS`
+  > McWay, Ryan. (2020). *Cruise Ship Activity at Port*. Version 1. [URL]. Extracted: [Date of Extraction]. \
+  > **Keywords:** `Ports` `Cruise Ships` `Global` `AIS`
 -->
 
  
@@ -47,8 +43,8 @@ Dataframes
   * **[Dataset](fordschool.umich.edu/mozambique-research)**
   * **[Codebook]()** 
   * **Last Updated:** 
-
-**Keywords:** `FCC` `HIV/AIDS` `Cyclone Idai` `Covid-19` `Mozambique`
+  > 
+  > **Keywords:** `FCC` `HIV/AIDS` `Cyclone Idai` `Covid-19` `Mozambique`
   -->
 
 <!--
