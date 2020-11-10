@@ -24,6 +24,7 @@ Dataframes
   > **Keywords:** `Cruise Ships` `Cruise Tourism` `Crew` `Passengers`
   * **[Dataset](https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info.csv)**
   * **[Codebook](https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info_metadata.pdf)** 
+  * **[DOI](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.13528.52488?_sg%5B0%5D=uTNiTKN0BKIHPsJdpiUN-6H4OlVyI97IsaI9c6JNMl5SjGjo1jDz3CbCdXAcxx3LJWcKw4z19ENvi-gnJwg_skpplg.w4v3T6walsSH0crhAPVrTV1T4PFkG9HxCE2hkz6HWro9TDOYsa-73PVpjYqwClg3lV2m_B2xBoSuDBhCx79G4w):** 10.13140/RG.2.2.13528.52488
   * **Last Updated:** Oct. 14th 2020 
   
 <!--
