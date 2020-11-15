@@ -71,10 +71,8 @@ Dataframes
   
  <!-- 
 *Earnings Management for European Firms*
-
   Talk with Paolo about highlighting this
   >  and the data concerning board features, including the information regarding remuneration, was manually collected from the Annual Report of Corporate Governance published by the Spanish Stock Exchange Commission
-  
   -->
 
 <!--
