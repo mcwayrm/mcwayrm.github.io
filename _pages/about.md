@@ -22,3 +22,10 @@ Ryan is an economic researcher. He currently works at the University of Michigan
 * **Survey Implementation:** *Household Surveys, Phone Surveys, Digital Surveys, SMS Surveys*
 
 ## [Curriculum Vitae](/cv/)
+
+
+##  My Research Addresses Questions Such As:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Tourism***: How do cruise ship arrivals effect the female labor force and educational attainment in developing nations? 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Corporate Governance***: Do female board of directors improve earnings management? Can optimizing board members' compensation packages improve the quality of earnings?
