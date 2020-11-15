@@ -9,14 +9,6 @@ author_profile: true
 
 I am interested in research related broadly to Development Economics, Applied Microeconomics, Environmental Economics and Spatial Economics. 
 
-<!-- 
-  My research addresses questions such as:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Tourism**: How do cruise ship arrivals effect the female labor force and educational attainment in developing nations? 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Corporate Governance**: Do female board of directors improve earnings management? Can optimizing board members compensation packages improve the quality of earnings?
---> 
-
 <!--
 Publications
 ======= 
