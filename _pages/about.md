@@ -17,7 +17,7 @@ Ryan is an economic researcher. He currently works at the University of Michigan
 ### Skills
 * **Administrative:** *G Suite, Git, LaTeX, Microsoft Office Suite, Prezi*
 * **Financial:** *Bloomberg Marketing Concepts (BMC), Thompson Reuters' Eikon*
-* **Languages:** *Italian (Conversant) | Latin (Proficient) | Spanish (Conversant)*
+* **Languages:** *Italian (Conversant), Latin (Proficient), Spanish (Conversant)*
 * **Statistical:** *ArcGIS, Earth Engine, Python, R, STATA, SQL, Tableau*
 * **Survey Design:** *ODK, SurveyCTO, Qualtrics*
 * **Survey Implementation:** *Household Surveys, Phone Surveys, Digital Surveys, SMS Surveys*
