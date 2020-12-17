@@ -26,7 +26,7 @@ Working Papers
    
   * **Open Access:** [USF Repository](https://repository.usfca.edu/thes/1298/)
 
-**Keywords:** `Regional Development` `Cruise Tourism` `Employment` `Education`
+  * **Keywords:** `Regional Development` `Cruise Tourism` `Employment` `Education`
 
 &nbsp;&nbsp;&nbsp; 2\. *Contrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms*
   
@@ -39,18 +39,18 @@ Working Papers
    
   * **Open Access:** [Research Gate](https://www.researchgate.net/publication/338165813_Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3710966), [OSF](https://osf.io/xgn3y/)
   
-**Keywords:** `Earnings Management` `Remuneration` `Spain`
+  * **Keywords:** `Earnings Management` `Remuneration` `Spain`
   
 &nbsp;&nbsp;&nbsp; 3\. *Does Board Gender Diversity and Remuneration Impact Earnings Quality? Evidence from Spanish Firms*
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Pablo San Martin]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Pablo San Martin](https://www.facea.ucsc.cl/persona/pablo-san-martin/)
 <details>
   <summary> <strong> Abstract: </strong> </summary>
       <blockquote> A key function of the board of directors is ensuring earnings quality (EQ) to signal firm performance to investors and stakeholders. Using a panel of 105 non-financial Spanish listed firms from 2013 to 2018, we investigate how gender diversity on the board of directors and board remuneration influence earnings quality. The empirical method uses a Tobit semiparametric estimator with firm-industry level fixed effects and an innovative set of measures for earnings quality developed by StarMine. Our results exhibit a consistent and positive correlation of increased gender diversity on earnings quality of a firm, suggesting that a gender-balanced board of directors is associated with more transparent financial reporting and informative earnings. We also find a non-monotonic, inverse U-shaped relationship between board remuneration and earnings quality. This indicates that at a certain point, excessive board compensations lead to more opportunistic manipulation of financial reporting with the subsequent dilution of earnings quality. Increasing female representation on the board of directors and optimizing board compensation subsequently improve earnings quality. Majority of Spanish firms are both lacking in board gender diversity as well as sub-optimally remunerating their board regarding maximizing earnings quality. Policy recommendations are derived from these findings.  
      </blockquote>
 </details>
   
-**Keywords:** `Earnings Quality` `Board Gender Diversity` `Board Remuneration` `Spain`
+  * **Keywords:** `Earnings Quality` `Board Gender Diversity` `Board Remuneration` `Spain`
 
 Works in Progress
 ========
@@ -59,20 +59,32 @@ Works in Progress
 
 1. *Sex and Sexual Orientation in Economic Preferences* with Alessandra Cassar
 
-<!--
+
 Technical Reports
 ========
 
-Covid-19 Summary Report: Round 2
+&nbsp;&nbsp;&nbsp; 1\. *Combating COVID-19 in Mozambique: Round 2 Summary Report*
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  with [James Allen IV](https://sites.google.com/view/jamesalleniv), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), and [Hang Yu](https://www.econhangyu.com/home) 
+<details>
+  <summary> <strong> Abstract: </strong> </summary>
+      <blockquote> We compare how COVID-19 knowledge and behavior as well as economic conditions have changed over time in Mozambique. We conducted three rounds of phone interviews across 76 communities in Sofala, Manica, and Zambezia provinces of central Mozambique between July 10th and November 18th, 2020. We find gradual improvements in COVID-19 knowledge, persistence of some hazardous behaviors, further declines in income, and continued high levels of food insecurity.
+     </blockquote>
+</details>
+   
+  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/mozambique-research), [Research Gate](https://www.researchgate.net/publication/347440820_Combating_COVID-19_in_Mozambique_Round_2_Summary_Report) 
+  
+  * **Keywords:** `COVID-19 Knowledge` `Income` `Food Insecurity` `Mozambique`
 
-Covid-19 Summary Report: Round 3
+<!--
+Combating COVID-19 in Mozambique: Round 3 Summary Report techinical report
 
-Mozambique Education Summary Report
+Primary and Secondary Education in Mozambique working paper
 
-FCC Summary Report: Wave 1
+HIV/AIDs Prevelance, Testing and Attitudes in Mozambique working paper
 
-FCC Summary Report: Wave 2
+Enumerator Quality Index working paper 
 
-FCC Summary Report: Wave 3
+COVID-19 in Mozambique: Economic and Behavioral Changes working paper
 
 -->
