@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- Title, Coauthors, Abstract, Paper link, preprint researchgate link, LaTeX presentation, twitter thread, video explanation, replication code, replication data, media coverage -->
 
-I am interested in research related broadly to Development Economics, Applied Microeconomics, Environmental Economics and Spatial Economics. 
+I am interested in research related broadly to Development Economics, Applied Microeconomics, Environmental Economics and Urban Economics. 
 
 <!--
 Publications
