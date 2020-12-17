@@ -28,9 +28,9 @@ Working Papers
 
   * **Keywords:** `Regional Development` `Cruise Tourism` `Employment` `Education`
 
-&nbsp;&nbsp;&nbsp; 2\. *Contrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms*
+2\. *Contrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms*
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Mauricio Jara Bertin](https://scholar.google.com.sg/citations?user=A48L9BMAAAAJ&hl=en)
+&nbsp;&nbsp;&nbsp;  with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Mauricio Jara Bertin](https://scholar.google.com.sg/citations?user=A48L9BMAAAAJ&hl=en)
 <details>
   <summary> <strong> Abstract: </strong> </summary>
       <blockquote> We analyze the effect board activity and board remuneration has on earnings management (EM). Our results show that more active boards are inefficient in preventing earnings manipulation. Regarding board compensation, we find a U-shaped relation indicating that excessive remuneration will lead to more earnings management. Policy recommendations are derived from the findings. 
