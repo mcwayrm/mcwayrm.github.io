@@ -15,8 +15,5 @@ main:
   - title: "Talks"
     url: /media/
     
-  - title: "Data Viz"
-    url: /dataviz/
-    
   - title: "CV"
     url: /cv/
