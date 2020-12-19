@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+I have some experience teaching working as a teaching assistant and as an academic tutor in courses related to economics and mathematics.
+
 Teaching Assistant
 ========
 
