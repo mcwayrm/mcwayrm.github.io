@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and Features"
+title: ""
 permalink: /media/
 author_profile: true
 ---
