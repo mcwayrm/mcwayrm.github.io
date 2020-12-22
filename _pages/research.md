@@ -73,6 +73,7 @@ Technical Reports
 </details>
    
   * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2020-12/covid-mozambique-round2v3_0.pdf), [Research Gate](https://www.researchgate.net/publication/347440820_Combating_COVID-19_in_Mozambique_Round_2_Summary_Report) 
+  * **Twitter Thread:** [Ryan's Thread](https://twitter.com/Prof__Quackers/status/1340041734059900931)
   
   * **Keywords:** `COVID-19 Knowledge` `Income` `Food Insecurity` `Mozambique`
 
