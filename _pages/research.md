@@ -17,7 +17,7 @@ Publications
 Working Papers
 ========
 
-1\. *Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education*
+3\. *Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education*
 <details>
   <summary> <strong> Abstract: </strong> </summary>
       <blockquote> Cruise ship tourism has been the fastest growing branch of the tourism sector since the turn of the century. As a result, cruise tourism’s increased port traffic has garnered attention as a development strategy for port cities of developing nations over the past two decades. I utilize 10.6 million automatic identification system (AIS) locations from 517 cruise ships to estimate granular city by year cruise ship arrivals in 5,644 port destinations over 220 nations and territories from 2009 to 2018. Matched with 355,463 individual Demographic and Health Survey (DHS) women’s surveys in 23 countries from 2009 to 2016, this study examines cruise tourism’s relationship to female labor participation and associated human capital attainment in destination port cities of developing nations. Using fixed effects to identify this relationship, I find positive general equilibrium effects from cruise tourism on labor participation and educational attainment with strong age dynamics. For each 1% increase in cruise ship arrivals to a port city, female labor participation increase 7% and women gain around a 1/3 more years of education. Additionally, this study employs a Kaplan Meier survivorship model as well as Cox Proportional Hazard Ratios to understand the dynamic change in educational attainment related to age from a cruise tourism shock. Older women respond to an expanding service sector by seizing job opportunities, while younger women acquire a near secondary level of education in anticipation of employment opportunities. The mechanism behind tourism led growth may be the result of improvements in human capital attainment by women. Rhetoric regarding tourism’s role as a development strategy appears to be more nuanced than previously attributed when considering educational choice. This study contributes a novel micro-dataset and a novel measure for cruise tourism at a global scale to examine a broader scope of tourism’s impact on regional development and welfare effects. 
@@ -41,7 +41,7 @@ Working Papers
   
   * **Keywords:** `Earnings Management` `Remuneration` `Spain`
   
-3\. *Does Board Gender Diversity and Remuneration Impact Earnings Quality? Evidence from Spanish Firms*
+1\. *Does Board Gender Diversity and Remuneration Impact Earnings Quality? Evidence from Spanish Firms*
   
 &nbsp;&nbsp;&nbsp;  with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Pablo San Martin](https://www.facea.ucsc.cl/persona/pablo-san-martin/)
 <details>
@@ -55,9 +55,9 @@ Working Papers
 Works in Progress
 ========
 
-1. *American Tornadoes: Tornado Shocks on U.S. Metropolises* with Jesse Antilla-Hughes and Lilla Szini
+2\. *American Tornadoes: Tornado Shocks on U.S. Metropolises* with Jesse Antilla-Hughes and Lilla Szini
 
-1. *Sex and Sexual Orientation in Economic Preferences* with Alessandra Cassar
+1\. *Sex and Sexual Orientation in Economic Preferences* with Alessandra Cassar
 
 
 Technical Reports
@@ -73,7 +73,7 @@ Technical Reports
 </details>
    
   * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2020-12/covid-mozambique-round2v3_0.pdf), [Research Gate](https://www.researchgate.net/publication/347440820_Combating_COVID-19_in_Mozambique_Round_2_Summary_Report) 
-  * **Twitter Thread:** [Ryan's Thread](https://twitter.com/Prof__Quackers/status/1340041734059900931)
+  * **Features:** [Ryan's Twitter Thread](https://twitter.com/Prof__Quackers/status/1340041734059900931)
   
   * **Keywords:** `COVID-19 Knowledge` `Income` `Food Insecurity` `Mozambique`
 
