@@ -8,7 +8,7 @@ author_profile: true
 Talks
 ====
 **2021**
-  * [American Economic Association ASSA Annual Meeting](https://www.aeaweb.org/conference/2021/preliminary/1968?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwTcyUdpZLUolxcIBvISkmshDBKMnNTIayyzNRykAFFBQVAAVMDpdpaXDBjaBvD)
+  * [American Economic Association ASSA Annual Meeting](https://www.aeaweb.org/conference/2021/preliminary/1968?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwTcyUdpZLUolxcIBvISkmshDBKMnNTIayyzNRykAFFBQVAAVMDpdpaXDBjaBvD), [Michigan University-Wide Sustainability & Environment (MUSE) Conference]()
 
 **2020**
   * [10th Annual Creative Activity & Research Day (CARD)](https://myusf.usfca.edu/arts-sciences/card/schedule)
@@ -18,6 +18,13 @@ Talks
 
 Recognitions
 ====
+
+<details>
+  <summary> <strong> <a href="http://www.omicrondeltaepsilon.org/award-winners.html" target="_blank">Irving Fisher Graduate Research Paper Prize</a> </strong> </summary>
+      <blockquote> 
+       Awarded the best article presented by a graduate student at the ODE Graduate Student Session during the annual ASSA meetings for my thesis "Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education."
+     </blockquote>
+</details> 
 
 <details>
   <summary> <strong> <a href="https://myusf.usfca.edu/arts-sciences/economics/idec/jacquesartusaward" target="_blank">Jacques Artus Award</a> </strong> </summary>
