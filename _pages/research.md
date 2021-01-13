@@ -25,7 +25,7 @@ Working Papers
 </details>
    
   * **Open Access:** [USF Repository](https://repository.usfca.edu/thes/1298/)
-  * **Slides:** [ASSA 2021 Slides]()
+  * **Slides:** [ASSA 2021 Slides](/files/mcway_ASSA_2021_prez.pdf)
 
   * **Keywords:** `Regional Development` `Cruise Tourism` `Employment` `Education`
 
