@@ -74,9 +74,9 @@ Technical Reports
 </details>
    
   * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2020-12/covid-mozambique-round2v3_0.pdf), [Research Gate](https://www.researchgate.net/publication/347440820_Combating_COVID-19_in_Mozambique_Round_2_Summary_Report) 
-  * **Features:** [Ryan's Twitter Thread](https://twitter.com/Prof__Quackers/status/1340041734059900931)
+  * **Features:** [LSA Economics Department University of Michigan](https://lsa.umich.edu/econ/news-events/all-news/faculty-news/-mozambique-covid-19-summary-report-is-now-available.html), [Ryan's Twitter Thread](https://twitter.com/Prof__Quackers/status/1340041734059900931)
   
-  * **Keywords:** `COVID-19 Knowledge` `Income` `Food Insecurity` `Mozambique`
+  * **Keywords:** `COVID-19` `Knowledge` `Income` `Food Insecurity` `Mozambique`
 
 <!--
 Combating COVID-19 in Mozambique: Round 3 Summary Report techinical report
