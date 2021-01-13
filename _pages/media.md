@@ -16,6 +16,12 @@ Talks
 **2019**
   * [10th Annual Conference of Innovation, Entrepreneurship and Knowledge Academy (INEKA)](https://ent.aom.org/events/eventdescription?CalendarEventKey=a0ed7310-e374-4875-bb8d-0d2c64fe7eb9&CommunityKey=fe00dbd4-230d-471e-a0ed-420a47166316&Home=/ent/events/recentcommunityeventsdashboard)
 
+
+<!-- 
+Editorials/Op-Eds
+====
+-->
+
 Recognitions
 ====
 
