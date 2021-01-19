@@ -40,7 +40,7 @@ Dataframes
   * **Last Updated:** Jan. 19th 2021 
   
 <!--
-2. *Cruise Ships Activity at Port*
+3. *Cruise Ships Activity at Port*
 
   > This dataframe estimates cruise ship activity by matching cruise ship GPS locations to port city geocodes within a 15 KM radius. The panel covers XX ports in XX countries globally from 2009 - 2019. Port Geocodes are a combination of ... three main sources... geocoded through [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/overview). Cruise ship GPS acitvity was estimated through [Sail WX's](https://www.sailwx.info/shiptrack/) metadata.
   > 
@@ -54,7 +54,7 @@ Dataframes
 -->
 
 <!--
-3. *Tornado Activity at the Metropolitian Statistical Area in the United States*
+4. *Tornado Activity at the Metropolitian Statistical Area in the United States*
  
   > Combination of NOAA National Weather Service tornado information and MSA geographic polygons. Aggregated to the annunal level, estimates the tornado activity for all 6 categories at the MSA level from 1950 to 2018. This is useful for studying tornado impacts at the MSA level
   >  
