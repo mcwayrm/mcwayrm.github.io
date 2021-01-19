@@ -70,10 +70,12 @@ Tutoring
 
 **University of San Francisco**
 * Athletics Department: Tutored student athletes in the following subjects:
-  * [MATH 104 Algebra and Trigonometry](https://catalog.usfca.edu/preview_course_nopop.php?catoid=35&coid=531753)
-  * [MATH 106 Business Statistics](https://catalog.usfca.edu/preview_program.php?catoid=22&poid=34872&returnto=3104)
-  * [ECON 372 Development Economics](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186554)
-  * [ECON 312 Intermediate Macroeconomics](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186549)
-  * [SOC 150 Introduction to Sociology](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=188652)
   * [BUS 302 Marketing Principles](https://catalog.usfca.edu/preview_course_nopop.php?catoid=35&coid=530317)
   * [ECON 112 Principles of Macroeconomics](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186539)
+  * [ECON 312 Intermediate Macroeconomics](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186549)
+  * [ECON 372 Development Economics](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186554)
+  * [MATH 104 Algebra and Trigonometry](https://catalog.usfca.edu/preview_course_nopop.php?catoid=35&coid=531753)
+  * [MATH 106 Business Statistics](https://catalog.usfca.edu/preview_program.php?catoid=22&poid=34872&returnto=3104)
+  * [SOC 150 Introduction to Sociology](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=188652)
+
+
