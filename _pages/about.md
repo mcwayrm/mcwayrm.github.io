@@ -16,6 +16,10 @@ Ryan is an economic researcher. He currently works at the University of Michigan
 
 ## [Curriculum Vitae](/cv/)
 
+<!--
+  field photo with me in it (ideally mozambique) with a wide frame
+-->
+
 Skills
 ----
 * **Administrative:** *G Suite, Git, LaTeX, LyX, Microsoft Office Suite, Prezi*
