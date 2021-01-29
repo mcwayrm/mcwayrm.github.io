@@ -5,22 +5,16 @@ permalink: /fieldwork/
 author_profile: true
 ---
 
-I have conducted fieldwork in four countries either for research or supporting NGO operations. While all are not developing nations, the aims and focus of the fieldwork center on improving lives and developing economies. As a practioner in the field, it is my strong belief that development outcomes are not solely limited to those living in developing countries. Many people in developed nations need assistance in overcoming the barriers that impede their [opportunity set](https://en.wikipedia.org/wiki/Capability_approach).
+I have conducted fieldwork in five countries either for research or supporting NGO operations. While all are not developing nations, the aims and focus of the fieldwork center on improving lives and developing economies. As a practioner in the field, it is my strong belief that development outcomes are not solely limited to those living in developing countries. Many people in developed nations need assistance in overcoming the barriers that impede their [opportunity set](https://en.wikipedia.org/wiki/Capability_approach).
 
 <!-- Org., timespan, project, involvement, places, pictures, links to organizations -->
 
-<!--
 Beira, Mozambique
 ========
-_________________________________________________
-HIV/AIDS, FCC, PEPFAR
-Covid Survey
-Cyclone Idai impacts
-Wave 3 followup survey
-Starting in June, evaulation headed by Dean Yang
-https://fordschool.umich.edu/mozambique-research
 
--->
+> Starting in June 2020, I began working for [Dean Yang](https://sites.lsa.umich.edu/deanyang/) at the University of Michigan on ongoing fieldwork and the RCTs in northern and central [Mozmabique](https://fordschool.umich.edu/mozambique-research). Following the endline survey evaluating an [PEPFAR's](https://www.hiv.gov/federal-response/pepfar-global-aids/pepfar) HIV testing and ART adherence intervention in 2019, our team proceeded with three rounds of over-the-phone [health interventions](https://www.socialscienceregistry.org/trials/5862/history/69197) and surveys to adjust for the survey restrictions imposed by the onset of the Covid-19 Pandemic. The aim of the five treatment arms involved in these over-the-phone interventions were to increase support and practice of social distancing along with increase knowledge about Covid-19 and Covid-19 related policies. This resulted in papers covering the [social distancing interventions](), the [knowledge interventions](), and [household-level descriptives]() as a result of the Pandemic. 
+
+> This is ongoing work and I will provide updates as this ongoing research develops.
 
 Kampala, Uganda
 ========
