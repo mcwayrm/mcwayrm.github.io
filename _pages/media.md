@@ -8,7 +8,7 @@ author_profile: true
 Talks
 ====
 **2021**
-  * [5th Annual Michigan University-Wide Sustainability & Environment (MUSE) Conference](/files/MUSE_Program_2021.pdf/)
+  * [5th Annual Michigan University-Wide Sustainability & Environment (MUSE) Conference](/files/MUSE_Program_2021.pdf)
   * [American Economic Association ASSA Annual Meeting](https://www.aeaweb.org/conference/2021/preliminary/1968?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwTcyUdpZLUolxcIBvISkmshDBKMnNTIayyzNRykAFFBQVAAVMDpdpaXDBjaBvD)
 
 **2020**
