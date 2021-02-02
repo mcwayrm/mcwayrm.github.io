@@ -15,18 +15,6 @@ Additionally, this page houses statistical packages I have created. None are per
 Dataframes
 ------
 
-1\. *Cruise Ship Characteristics Information*
-
-  > This dataframe provides a crosssection of the characteristics of cruise ship vessels currently in operation. This covers 525 vessels as the beginning of 2020. This information was collected by combining information from [Wikidepida](https://en.wikipedia.org/wiki/List_of_cruise_ships) and [Vessel Finder](https://www.vesselfinder.com/vessels). The primary application of this data is for cruise tourism or cruise ship activity.
-  >  
-  > 
-  > McWay, Ryan. (2020). *Cruise Ship Characteristics Information*. Version 1. https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info.csv. Extracted: [Date of Extraction]. \
-  > **Keywords:** `Cruise Ships` `Cruise Tourism` `Crew` `Passengers`
-  * **[Dataset](https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info.csv)**
-  * **[Codebook](https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info_metadata.pdf)** 
-  * **[DOI](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.13528.52488?_sg%5B0%5D=uTNiTKN0BKIHPsJdpiUN-6H4OlVyI97IsaI9c6JNMl5SjGjo1jDz3CbCdXAcxx3LJWcKw4z19ENvi-gnJwg_skpplg.w4v3T6walsSH0crhAPVrTV1T4PFkG9HxCE2hkz6HWro9TDOYsa-73PVpjYqwClg3lV2m_B2xBoSuDBhCx79G4w):** 10.13140/RG.2.2.13528.52488
-  * **Last Updated:** Oct. 14th 2020 
-  
 2\. *Global Ports*
 
   > This dataframe provides a crosssection of the characteristics of port cities currently in operation. This covers 5,644 port cities globally as of 2020. This information was collected by combining information from [Wikidepida](https://en.wikipedia.org/wiki/List_of_cruise_ships), [Natrual Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/ports/) and [Central Intelligence Agency](https://www.cia.gov/library/publications/the-world-factbook/fields/388.html). The primary application of this data is for analyses that involve port level attributes.
@@ -38,6 +26,19 @@ Dataframes
   * **[Codebook](https://github.com/mcwayrm/data_port_cities/blob/main/global_ports_metadata.pdf)** 
   * **[DOI](https://www.researchgate.net/publication/348607255_Global_Ports_Metadata):** 10.13140/RG.2.2.17074.43208
   * **Last Updated:** Jan. 19th 2021 
+
+1\. *Cruise Ship Characteristics Information*
+
+  > This dataframe provides a crosssection of the characteristics of cruise ship vessels currently in operation. This covers 525 vessels as the beginning of 2020. This information was collected by combining information from [Wikidepida](https://en.wikipedia.org/wiki/List_of_cruise_ships) and [Vessel Finder](https://www.vesselfinder.com/vessels). The primary application of this data is for cruise tourism or cruise ship activity.
+  >  
+  > 
+  > McWay, Ryan. (2020). *Cruise Ship Characteristics Information*. Version 1. https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info.csv. Extracted: [Date of Extraction]. \
+  > **Keywords:** `Cruise Ships` `Cruise Tourism` `Crew` `Passengers`
+  * **[Dataset](https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info.csv)**
+  * **[Codebook](https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info_metadata.pdf)** 
+  * **[DOI](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.13528.52488?_sg%5B0%5D=uTNiTKN0BKIHPsJdpiUN-6H4OlVyI97IsaI9c6JNMl5SjGjo1jDz3CbCdXAcxx3LJWcKw4z19ENvi-gnJwg_skpplg.w4v3T6walsSH0crhAPVrTV1T4PFkG9HxCE2hkz6HWro9TDOYsa-73PVpjYqwClg3lV2m_B2xBoSuDBhCx79G4w):** 10.13140/RG.2.2.13528.52488
+  * **Last Updated:** Oct. 14th 2020 
+
   
 <!--
 3. *Cruise Ships Activity at Port*
