@@ -38,7 +38,7 @@ Recognitions
 </details> 
 
 <details>
-  <summary> <strong> <a href="https://www.fool.com/investing/2018/07/05/meet-the-winners-of-the-motley-fool-college-compet.aspxp" target="_blank">Motely Fools College Competition</a> </strong> </summary>
+  <summary> <strong> <a href="https://www.fool.com/investing/2018/07/05/meet-the-winners-of-the-motley-fool-college-compet.aspx" target="_blank">Motely Fools College Competition</a> </strong> </summary>
       <blockquote> 
       Runner-up in an essay competition on financial economics
      </blockquote>
