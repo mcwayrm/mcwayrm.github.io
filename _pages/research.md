@@ -58,6 +58,8 @@ Works in Progress
 
 2\. *American Tornadoes: Tornado Shocks on U.S. Metropolises* with Jesse Antilla-Hughes and Lilla Szini
 
+  * **Slides:** [MUSE 2021 Slides](/files/MUSE_prez.pdf)
+
 1\. *Sex and Sexual Orientation in Economic Preferences* with Alessandra Cassar
 
 
