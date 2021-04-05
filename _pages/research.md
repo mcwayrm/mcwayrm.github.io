@@ -17,7 +17,7 @@ Publications
 Working Papers
 ========
 
-3\. *Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education*
+3\. *Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education* (Under Review)
 <details>
   <summary> <strong> Abstract: </strong> </summary>
       <blockquote> Cruise ship tourism has been the fastest growing branch of the tourism sector since the turn of the century. As a result, cruise tourism’s increased port traffic has garnered attention as a development strategy for port cities of developing nations over the past two decades. I utilize 10.6 million automatic identification system (AIS) locations from 517 cruise ships to estimate granular city by year cruise ship arrivals in 5,644 port destinations over 220 nations and territories from 2009 to 2018. Matched with 355,463 individual Demographic and Health Survey (DHS) women’s surveys in 23 countries from 2009 to 2016, this study examines cruise tourism’s relationship to female labor participation and associated human capital attainment in destination port cities of developing nations. Using fixed effects to identify this relationship, I find positive general equilibrium effects from cruise tourism on labor participation and educational attainment with strong age dynamics. For each 1% increase in cruise ship arrivals to a port city, female labor participation increase 7% and women gain around a 1/3 more years of education. Additionally, this study employs a Kaplan Meier survivorship model as well as Cox Proportional Hazard Ratios to understand the dynamic change in educational attainment related to age from a cruise tourism shock. Older women respond to an expanding service sector by seizing job opportunities, while younger women acquire a near secondary level of education in anticipation of employment opportunities. The mechanism behind tourism led growth may be the result of improvements in human capital attainment by women. Rhetoric regarding tourism’s role as a development strategy appears to be more nuanced than previously attributed when considering educational choice. This study contributes a novel micro-dataset and a novel measure for cruise tourism at a global scale to examine a broader scope of tourism’s impact on regional development and welfare effects. 
@@ -42,7 +42,7 @@ Working Papers
   
   * **Keywords:** `Earnings Management` `Remuneration` `Spain`
   
-1\. *Does Board Gender Diversity and Remuneration Impact Earnings Quality? Evidence from Spanish Firms*
+1\. *Does Board Gender Diversity and Remuneration Impact Earnings Quality? Evidence from Spanish Firms* (Under Review)
   
 &nbsp;&nbsp;&nbsp;  with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Pablo San Martin](https://www.facea.ucsc.cl/persona/pablo-san-martin/)
 <details>
@@ -66,6 +66,19 @@ Works in Progress
 Technical Reports
 ========
 
+2\. *Combatting COVID-19 in Mozambique: Round 3 Summary Report*
+
+&nbsp;&nbsp;&nbsp;  with [James Allen IV](https://sites.google.com/view/jamesalleniv), Maggie Barnard, Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), Erik Tiersten-Nyman, [Dean Yang](https://sites.lsa.umich.edu/deanyang/), and [Hang Yu](https://www.econhangyu.com/home) 
+<details>
+  <summary> <strong> Abstract: </strong> </summary>
+      <blockquote> We analyze how Mozambican families are coping with the economic and educational impacts of COVID-19. We conducted 3 rounds of phone interviews across 76 communities in Sofala, Manica, and Zambezia provinces of central Mozambique between July 2020 and November 2020. We find a signifcant number of families, including children, have taken on additional paid work and increased household food production to cope with the economic effects of the pandemic. Further, children have fallen behind in school, underscoring the multi-faceted burden COVID-19 has placed on children. Despite these hardships, households exhibit altruistic behavior to their neighbors.
+     </blockquote>
+</details>
+
+  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2021-04/covid-mozambique-round3.pdf),
+  
+  * **Keywords:** `COVID-19` `Additional Employment` `Altruism` `School`  `Mozambique`
+
 1\. *Combating COVID-19 in Mozambique: Round 2 Summary Report*
   
 &nbsp;&nbsp;&nbsp;  with [James Allen IV](https://sites.google.com/view/jamesalleniv), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), and [Hang Yu](https://www.econhangyu.com/home) 
@@ -81,7 +94,14 @@ Technical Reports
   * **Keywords:** `COVID-19` `Knowledge` `Income` `Food Insecurity` `Mozambique`
 
 <!--
-Combating COVID-19 in Mozambique: Round 3 Summary Report techinical report
+
+SD and K Policy Brief
+
+Round 4 Summary Report 
+
+COVID-19 in Mozambique: 1 year later paper
+
+FCC White Paper
 
 Primary and Secondary Education in Mozambique working paper
 
@@ -89,6 +109,6 @@ HIV/AIDs Prevelance, Testing and Attitudes in Mozambique working paper
 
 Enumerator Quality Index working paper 
 
-COVID-19 in Mozambique: Economic and Behavioral Changes working paper
+ECD Health Meta paper
 
 -->
