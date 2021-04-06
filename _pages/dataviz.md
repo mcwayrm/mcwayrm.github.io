@@ -12,24 +12,24 @@ These are a colleciton of graphics I have made over time that I am proud of. I a
 
 <!-- Gallery: Row 6 ->
 
-<img src="cyclone_idai_nih_proposal_figure_1.png" width="50%"></img> <img src="thesis_DHS_KM_Cruise_Country_Activity.png" width="50%"></img>
+<img src="/images/cyclone_idai_nih_proposal_figure_1.png" width="50%"></img> <img src="/images/thesis_DHS_KM_Cruise_Country_Activity.png" width="50%"></img>
 
 <!-- Gallery: Row 5 ->
 
-<img src="thesis_DHS_Cox_age.png" width="50%"></img> <img src="fcc_randomization_schematic_timeline.png" width="50%"></img>
+<img src="/images/thesis_DHS_Cox_age.png" width="50%"></img> <img src="/images/fcc_randomization_schematic_timeline.png" width="50%"></img>
 
 <!-- Gallery: Row 4 ->
 
-<img src="thesis_DHS_COX_Cruise_Activity.png" width="50%"></img> <img src="thesis_global_density_2009_2019.png" width="50%"></img>
+<img src="/images/thesis_DHS_COX_Cruise_Activity.png" width="50%"></img> <img src="/images/thesis_global_density_2009_2019.png" width="50%"></img>
 
 <!-- Gallery: Row 3 ->
 
-<img src="thesis_global_ports_status.png" width="50%"></img> <img src="fcc_stigma_dhs_time_trend.png" width="50%"></img>
+<img src="/images/thesis_global_ports_status.png" width="50%"></img> <img src="/images/fcc_stigma_dhs_time_trend.png" width="50%"></img>
 
 <!-- Gallery: Row 2 ->
 
-<img src="gender_remuneration_boards_figure1.png" width="50%"></img> <img src="fcc_communities_treatment.png" width="50%"></img>
+<img src="/images/gender_remuneration_boards_figure1.png" width="50%"></img> <img src="/images/fcc_communities_treatment.png" width="50%"></img>
 
 <!-- Gallery: Row 1 ->
 
-<img src="/images/time_trend_ship_arrivals.png" width="50%"></img> <img src="thesis_DHS_country_lpolyci_distance.png" width="50%"></img>
+<img src="/images/time_trend_ship_arrivals.png" width="50%"></img> <img src="/images/thesis_DHS_country_lpolyci_distance.png" width="50%"></img>
