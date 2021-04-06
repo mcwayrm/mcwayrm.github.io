@@ -16,7 +16,7 @@ main:
     url: /media/
     
   - title: "Data Viz"
-    url: /data_viz/
+    url: /dataviz/
     
   - title: "CV"
     url: /cv/
