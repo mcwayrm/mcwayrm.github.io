@@ -54,6 +54,15 @@ Recognitions
 Features
 ====
 
+**2021**
+
+<details>
+  <summary> <strong> <a href="https://www.dropbox.com/s/bz0t4m2fx8hvg4p/Econ%20Newsletter%20Spring%20Issue%20Vol.%2021.pdf?dl=0">USF Economics Newsletter Spring Issue Vol. 21</a> </strong> <a> April </a> </summary>
+      <blockquote> 
+       Recognized for earning the Irving Fisher Award
+     </blockquote>
+</details>  
+
 **2020**
 
 <details>
