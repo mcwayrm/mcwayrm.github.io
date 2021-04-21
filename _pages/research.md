@@ -66,6 +66,7 @@ Works in Progress
 Technical Reports
 ========
 
+<a id="moz_summary_report_3"></a>
 2\. *Combating COVID-19 in Mozambique: Round 3 Summary Report*
 
 &nbsp;&nbsp;&nbsp;  with [James Allen IV](https://sites.google.com/view/jamesalleniv), Maggie Barnard, Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), Erik Tiersten-Nyman, [Dean Yang](https://sites.lsa.umich.edu/deanyang/), and [Hang Yu](https://www.econhangyu.com/home) 
