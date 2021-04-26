@@ -76,7 +76,7 @@ Technical Reports
      </blockquote>
 </details>
 
-  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2021-04/covid-mozambique-round3.pdf),
+  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2021-04/covid-mozambique-round3.pdf), [Research Gate](https://www.researchgate.net/publication/351094473_Combating_COVID-19_in_Mozambique_Round_3_Summary_Report) 
   * **Features:** [Ryan's Twitter Thread](https://twitter.com/RyanMcWay/status/1380625003029336071)
   
   * **Keywords:** `COVID-19` `Additional Employment` `Altruism` `School`  `Mozambique`
