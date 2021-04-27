@@ -57,6 +57,13 @@ Features
 **2021**
 
 <details>
+  <summary> <strong> <a href="https://lsa.umich.edu/urop/news-events/all-news/search-news/ryan-mcway--research-area-specialist-associate.html">UROP Research Mentor Spotlight</a> </strong> <a> April </a> </summary>
+      <blockquote> 
+       Spotlighted by the Undegraduate Research Opportunities Program (UROP) for my role as a UROP research mentor for Chenhao Yu
+     </blockquote>
+</details>  
+
+<details>
   <summary> <strong> <a href="https://www.dropbox.com/s/bz0t4m2fx8hvg4p/Econ%20Newsletter%20Spring%20Issue%20Vol.%2021.pdf?dl=0">USF Economics Newsletter Spring Issue Vol. 21</a> </strong> <a> April </a> </summary>
       <blockquote> 
        Recognized for earning the Irving Fisher Award
