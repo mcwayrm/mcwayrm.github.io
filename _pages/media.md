@@ -14,7 +14,7 @@ Seminars & Presentations
 **2020**
   * [10th Annual Creative Activity & Research Day (CARD)](https://myusf.usfca.edu/arts-sciences/card/schedule)
 
-
+---------------------------------------
  
 Editorials & Podcasts
 ====
@@ -27,6 +27,8 @@ Editorials & Podcasts
        Discussed my research about the general equilibrium effects of cruise ship arrivals on women's employment and education in destination locations of developing countries. 
      </blockquote>
 </details> 
+
+---------------------------------------
 
 Recognitions
 ====
@@ -58,6 +60,8 @@ Recognitions
       Earned rank of Eagle Scout with 3 Palms with Troop 496 for the Boy Scouts
      </blockquote>
 </details>
+
+---------------------------------------
 
 Features
 ====
