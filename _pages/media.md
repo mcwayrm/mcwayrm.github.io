@@ -5,7 +5,7 @@ permalink: /media/
 author_profile: true
 ---
 
-Talks
+Seminars & Presentations
 ====
 **2021**
   * [5th Annual Michigan University-Wide Sustainability & Environment (MUSE) Conference](/files/MUSE_Program_2021.pdf)
@@ -15,10 +15,18 @@ Talks
   * [10th Annual Creative Activity & Research Day (CARD)](https://myusf.usfca.edu/arts-sciences/card/schedule)
 
 
-<!-- 
-Editorials/Op-Eds
+ 
+Editorials & Podcasts
 ====
--->
+
+**2021**
+
+<details>
+  <summary> <strong> <a href="https://soundcloud.com/user-494455196/episode-6-cruise-ships-and-empowerment">ICPSR Data Brunch Podcast</a> </strong> <a> May </a> </summary>
+      <blockquote> 
+       Discussed my research about the general equilibrium effects of cruise ship arrivals on women's employment and education in destination locations of developing countries. 
+     </blockquote>
+</details> 
 
 Recognitions
 ====
