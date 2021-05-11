@@ -9,6 +9,8 @@ author_profile: true
 
 I am interested in research related broadly to Development Economics, Applied Microeconomics, Environmental Economics and Urban Economics. 
 
+---------------------------------------
+
 <!--
 Publications
 ======= 
@@ -54,6 +56,8 @@ Working Papers
   
   * **Keywords:** `Earnings Quality` `Board Gender Diversity` `Board Remuneration` `Spain`
 
+---------------------------------------
+
 Works in Progress
 ========
 
@@ -65,6 +69,8 @@ Works in Progress
 
 1\. *Sex and Sexual Orientation in Economic Preferences* (with Alessandra Cassar)
 
+
+---------------------------------------
 
 Technical Reports
 ========
@@ -108,12 +114,12 @@ COVID-19 in Mozambique: 1 year later paper
 
 FCC White Paper
 
+ART Clinics Paper
+
 Primary and Secondary Education in Mozambique working paper
 
 HIV/AIDs Prevelance, Testing and Attitudes in Mozambique working paper
 
 Enumerator Quality Index working paper 
-
-ECD Health Meta paper
 
 -->
