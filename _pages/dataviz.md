@@ -7,6 +7,8 @@ author_profile: true
 
 These are a colleciton of graphics I have made over time that I am proud of. I am not providing any context to any of them. Rather, I just want to show off (mostly a catalogue for myself) figures that I am happy with. I do not express in anyway to being a master of the art that is data visualization. Rather, the majority of the graphics I create a designed to be aimed at academic audiences where flair is often a distraction from the content. Nonetheless, I have found an appreciation for the journal publicaiton aesthic. Hope you enjoy and think, "Hey, Cool graph!"
 
+---------------------------------------
+
 Data Visualization
 ======
 
