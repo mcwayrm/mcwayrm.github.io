@@ -9,6 +9,8 @@ I have conducted fieldwork in five countries either for research or supporting N
 
 <!-- Org., timespan, project, involvement, places, pictures, links to organizations -->
 
+---------------------------------------
+
 Beira, Mozambique
 ========
 
@@ -17,6 +19,8 @@ Beira, Mozambique
 **Keywords:** `Public Health` `RCT` `HIV/AIDS` `COVID-19` `Social Distancing` `Knowledge` `Stigma` `Vaccination` `Mozambique`
 
 > I will provide updates as this ongoing research develops.
+
+---------------------------------------
 
 Kampala, Uganda
 ========
@@ -54,6 +58,8 @@ STL | LIFT Additionally assisted in local program engaging vulenarble youth with
 
 -->
 
+---------------------------------------
+
 Buena Vista, Honduras
 ========
 
@@ -62,6 +68,8 @@ Buena Vista, Honduras
 **Keywords:** `Global Brigades` `Financial Literacy` `VSLA` `Honduras`
 
 <img src="/images/landscape_buena_vista.jpg" width="350" height="350" class="center">
+
+---------------------------------------
 
 Bologna, Italy
 =======
@@ -75,6 +83,8 @@ Bologna, Italy
 <img src="/images/happy_center_party.jpg" width="350" height="350">
 
 <img src="/images/happy_center_room.jpg" width="350" height="350">
+
+---------------------------------------
 
 Belize City, Belize
 ========
