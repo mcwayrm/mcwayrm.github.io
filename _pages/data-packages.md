@@ -12,6 +12,8 @@ Additionally, this page houses statistical packages I have created. None are per
 
 <!-- Should work to link the data to https://datadryad.org/stash so that I can get citations on the data -->
 
+---------------------------------------
+
 Dataframes
 ------
 
@@ -88,7 +90,7 @@ Dataframes
   -->
   
   
-
+---------------------------------------
 
 <!--
 Statistical Packages
