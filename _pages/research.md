@@ -86,7 +86,7 @@ Technical Reports
 </details>
 
   * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2021-04/covid-mozambique-round3.pdf), [Research Gate](https://www.researchgate.net/publication/351094473_Combating_COVID-19_in_Mozambique_Round_3_Summary_Report), [China Center for Economic Research Working Paper Series](http://nsd.pku.edu.cn/docs/20210505144255463204.pdf)
-  * **Features:** [Innovation for Poverty Action (IPA)](https://www.poverty-action.org/recovr-study/accelerating-changes-norms-about-social-distancing-combat-covid-19-mozambique), [Ryan's Twitter Thread](https://twitter.com/RyanMcWay/status/1380625003029336071)
+  * **Features:** [Innovation for Poverty Action (IPA)](https://www.poverty-action.org/recovr-study/accelerating-changes-norms-about-social-distancing-combat-covid-19-mozambique), [Twitter Thread](https://twitter.com/RyanMcWay/status/1380625003029336071)
   
   * **Keywords:** `COVID-19` `Additional Employment` `Altruism` `School`  `Mozambique`
 
@@ -100,7 +100,7 @@ Technical Reports
 </details>
    
   * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2020-12/covid-mozambique-round2v3_0.pdf), [Research Gate](https://www.researchgate.net/publication/347440820_Combating_COVID-19_in_Mozambique_Round_2_Summary_Report), [China Center for Economic Research Working Paper Series](http://nsd.pku.edu.cn/docs/20210505201536465030.pdf)
-  * **Features:** [Innovation for Poverty Action (IPA)](https://www.poverty-action.org/recovr-study/accelerating-changes-norms-about-social-distancing-combat-covid-19-mozambique), [LSA Economics Department University of Michigan](https://lsa.umich.edu/econ/news-events/all-news/faculty-news/-mozambique-covid-19-summary-report-is-now-available.html), [Ryan's Twitter Thread](https://twitter.com/Prof__Quackers/status/1340041734059900931)
+  * **Features:** [Innovation for Poverty Action (IPA)](https://www.poverty-action.org/recovr-study/accelerating-changes-norms-about-social-distancing-combat-covid-19-mozambique), [LSA Economics Department University of Michigan](https://lsa.umich.edu/econ/news-events/all-news/faculty-news/-mozambique-covid-19-summary-report-is-now-available.html), [Twitter Thread](https://twitter.com/Prof__Quackers/status/1340041734059900931)
   
   * **Keywords:** `COVID-19` `Knowledge` `Income` `Food Insecurity` `Mozambique`
 
