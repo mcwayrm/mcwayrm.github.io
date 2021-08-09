@@ -8,6 +8,7 @@ author_profile: true
 Seminars & Presentations
 ====
 **2021**
+  * [9th Annual International Conference on Sustainable Development (ICSD)](https://virtual.oxfordabstracts.com/#/event/1990/submission/185)
   * [5th Annual Michigan University-Wide Sustainability & Environment (MUSE) Conference](/files/MUSE_Program_2021.pdf)
   * [American Economic Association ASSA Annual Meeting](https://www.aeaweb.org/conference/2021/preliminary/1968?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwTcyUdpZLUolxcIBvISkmshDBKMnNTIayyzNRykAFFBQVAAVMDpdpaXDBjaBvD)
 
@@ -110,7 +111,7 @@ Features
 **2018**
 
 <details>
-  <summary> <strong> <a href="https://www.slu.edu/madrid/news/2018/2018-pre-commencement-awards-ceremony.php" target="_blank">SLU-Madrid Recognition</a> </strong> <a> May </a> </summary>
+  <summary> <strong> <a href="https://www.slu.edu/madrid/news/2018/2018-pre-commencement-awards-ceremony.php" target="_blank">SLU-Madrid News</a> </strong> <a> May </a> </summary>
       <blockquote> 
       Recognized for distiguished graduating cumulative GPA
      </blockquote>
