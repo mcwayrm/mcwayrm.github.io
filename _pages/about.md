@@ -12,7 +12,7 @@ redirect_from:
 
 About
 ----
-Ryan is an economic researcher. He currently works at the University of Michigan, [Institute for Social Research](https://isr.umich.edu/) and [Population Studies Center](https://www.psc.isr.umich.edu/) alongside Prof. [Dean Yang](https://sites.lsa.umich.edu/deanyang/). His [research](/research/) aims are focused on improving development outcomes in regional and global settings.  Ryan's research interests focus on Applied Microeconomics with specific consideration to Development Economics, Natural Disasters, and Urban Economics. Ryan has conducted household and over-the-phone field surveys in a variety of [countries](/fieldwork/). Ryan completed his MS in International and Development Economics at the University of San Francisco (USF), and his BS in Economics and BS in International Business at Saint Louis University (SLU).
+Ryan is an economic researcher. He currently works at the University of Michigan, [Institute for Social Research](https://isr.umich.edu/) and [Population Studies Center](https://www.psc.isr.umich.edu/) alongside Prof. [Dean Yang](https://sites.lsa.umich.edu/deanyang/). His [research](/research/) aims are focused on improving development outcomes in regional and global settings.  Ryan's research interests focus on Applied Microeconomics with specific concentrations in Development Economics, Natural Disasters, and Urban Economics. Ryan has conducted household and over-the-phone field surveys in a variety of [countries](/fieldwork/). Ryan completed his MS in International and Development Economics at the University of San Francisco (USF), and his BS in Economics and BS in International Business at Saint Louis University (SLU).
 
 ## [Curriculum Vitae](/cv/)
 
