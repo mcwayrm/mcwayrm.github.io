@@ -28,7 +28,7 @@ Skills
 * **Survey Implementation:** *Household Surveys, Phone Surveys, Digital Surveys, SMS Surveys*
 
 
-##  My Research Addresses Questions Such As:
+##  Ryan's Research Addresses Questions Such As:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Corporate Governance***: Do female board of directors improve earnings management? Can optimizing board members' compensation packages improve the quality of earnings?
 
