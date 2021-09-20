@@ -63,6 +63,8 @@ Works in Progress
 
 3\. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* (with Palavi Prabhakar, Danish Us Salam, Rakesh Pandey and Ayo Ellis)
 
+  * **Slides:** [ICSD 2021 Slides](/files/presentation_ICSD_210920.pdf)
+
 2\. *American Tornadoes: Tornado Shocks on U.S. Metropolises* (with Jesse Antilla-Hughes and Lilla Szini)
 
   * **Slides:** [MUSE 2021 Slides](/files/MUSE_prez.pdf)
