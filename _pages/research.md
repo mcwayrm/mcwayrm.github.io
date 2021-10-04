@@ -19,6 +19,17 @@ Publications
 Working Papers
 ========
 
+4\. *Setting Up a Dofile for Team Research* 
+<details>
+  <summary> <strong> Abstract: </strong> </summary>
+      <blockquote> Co-authoring Dofiles can be challenging as most Stata users have idiosyncratic preferences and methods for organizing and writing Dofiles. Which standards and practices can research teams adopt to improve the cohesion of this group work? This article proposes some best practices to overcome team research coordination issues adapting methods from software engineering and data science along with personal experience with group research. We prioritize improvements that increase efficiency of the team workflow by establishing global parameters and directories, standardizing communication between team members, and enabling reproducibility of results. 
+     </blockquote>
+</details>
+   
+  * **Open Access:** [Github](/files/McWay_Allen_Yu_Stata_Dofile.pdf)
+
+  * **Keywords:** `Team Research` `Workflow` `Reproducibility` `Dofile` `Stata`
+
 3\. *Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education* [Under Review]
 <details>
   <summary> <strong> Abstract: </strong> </summary>
