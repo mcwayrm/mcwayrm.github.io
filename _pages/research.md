@@ -33,6 +33,8 @@ Working Papers
 ========
 
 3\. *Setting Up a Dofile for Team Research* [Under Review]
+
+&nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), and [Hang Yu](https://www.econhangyu.com/home))
 <details>
   <summary> <strong> Abstract: </strong> </summary>
       <blockquote> Co-authoring Dofiles can be challenging as most Stata users have idiosyncratic preferences and methods for organizing and writing Dofiles. Which standards and practices can research teams adopt to improve the cohesion of this group work? This article proposes some best practices to overcome team research coordination issues adapting methods from software engineering and data science along with personal experience with group research. We prioritize improvements that increase efficiency of the team workflow by establishing global parameters and directories, standardizing communication between team members, and enabling reproducibility of results. 
@@ -111,7 +113,7 @@ Technical Reports
       <blockquote> We compare how COVID-19 knowledge and behavior as well as economic conditions have changed over time in Mozambique. We conducted three rounds of phone interviews across 76 communities in Sofala, Manica, and Zambezia provinces of central Mozambique between July 10th and November 18th, 2020. We find gradual improvements in COVID-19 knowledge, persistence of some hazardous behaviors, further declines in income, and continued high levels of food insecurity.
      </blockquote>
 </details>
-   
+
   * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2020-12/covid-mozambique-round2v3_0.pdf), [Research Gate](https://www.researchgate.net/publication/347440820_Combating_COVID-19_in_Mozambique_Round_2_Summary_Report), [China Center for Economic Research Working Paper Series](http://nsd.pku.edu.cn/docs/20210505201536465030.pdf)
   * **Features:** [Innovation for Poverty Action (IPA)](https://www.poverty-action.org/recovr-study/accelerating-changes-norms-about-social-distancing-combat-covid-19-mozambique), [LSA Economics Department University of Michigan](https://lsa.umich.edu/econ/news-events/all-news/faculty-news/-mozambique-covid-19-summary-report-is-now-available.html), [Twitter Thread](https://twitter.com/Prof__Quackers/status/1340041734059900931)
   
