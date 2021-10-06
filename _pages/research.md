@@ -7,19 +7,32 @@ author_profile: true
 
 <!-- Title, Coauthors, Abstract, Paper link, preprint researchgate link, LaTeX presentation, twitter thread, video explanation, replication code, replication data, media coverage -->
 
-I am interested in research related broadly to Applied Microeconomics with concentrations in Development Economics, Natural Disasters and Urban Economics. 
+I am interested in research related broadly to Applied Microeconomics with concentrations in Development Economics, Natural Disasters, Social Networks, and Urban Economics. 
 
 ---------------------------------------
 
-<!--
+
 Publications
 ======= 
--->
+
+1\. *Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education* [Accepted at The American Economist]
+<details>
+  <summary> <strong> Abstract: </strong> </summary>
+      <blockquote> Cruise ship tourism has been the fastest growing branch of the tourism sector since the turn of the century. As a result, cruise tourism’s increased port traffic has garnered attention as a development strategy for port cities of developing nations over the past two decades. I utilize 10.6 million automatic identification system (AIS) locations from 517 cruise ships to estimate granular city by year cruise ship arrivals in 5,644 port destinations over 220 nations and territories from 2009 to 2018. Matched with 355,463 individual Demographic and Health Survey (DHS) women’s surveys in 23 countries from 2009 to 2016, this study examines cruise tourism’s relationship to female labor participation and associated human capital attainment in destination port cities of developing nations. Using fixed effects to identify this relationship, I find positive general equilibrium effects from cruise tourism on labor participation and educational attainment with strong age dynamics. For each 1% increase in cruise ship arrivals to a port city, female labor participation increase 7% and women gain around a 1/3 more years of education. Additionally, this study employs a Kaplan Meier survivorship model as well as Cox Proportional Hazard Ratios to understand the dynamic change in educational attainment related to age from a cruise tourism shock. Older women respond to an expanding service sector by seizing job opportunities, while younger women acquire a near secondary level of education in anticipation of employment opportunities. The mechanism behind tourism led growth may be the result of improvements in human capital attainment by women. Rhetoric regarding tourism’s role as a development strategy appears to be more nuanced than previously attributed when considering educational choice. This study contributes a novel micro-dataset and a novel measure for cruise tourism at a global scale to examine a broader scope of tourism’s impact on regional development and welfare effects. 
+     </blockquote>
+</details>
+   
+  * **Open Access:** [USF Repository](https://repository.usfca.edu/thes/1298/)
+  * **Slides:** [ASSA 2021 Slides](/files/mcway_ASSA_2021_prez.pdf)
+  * **Replication:** [Code](), [Data](), [README]()
+  * **Features:** [ICPSR Data Brunch](https://soundcloud.com/user-494455196/episode-6-cruise-ships-and-empowerment)
+
+  * **Keywords:** `Regional Development` `Cruise Tourism` `Employment` `Education`
 
 Working Papers
 ========
 
-4\. *Setting Up a Dofile for Team Research* 
+3\. *Setting Up a Dofile for Team Research* [Under Review]
 <details>
   <summary> <strong> Abstract: </strong> </summary>
       <blockquote> Co-authoring Dofiles can be challenging as most Stata users have idiosyncratic preferences and methods for organizing and writing Dofiles. Which standards and practices can research teams adopt to improve the cohesion of this group work? This article proposes some best practices to overcome team research coordination issues adapting methods from software engineering and data science along with personal experience with group research. We prioritize improvements that increase efficiency of the team workflow by establishing global parameters and directories, standardizing communication between team members, and enabling reproducibility of results. 
@@ -29,19 +42,6 @@ Working Papers
   * **Open Access:** [Github](/files/McWay_Allen_Yu_Stata_Dofile.pdf)
 
   * **Keywords:** `Team Research` `Workflow` `Reproducibility` `Dofile` `Stata`
-
-3\. *Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education* [Under Review]
-<details>
-  <summary> <strong> Abstract: </strong> </summary>
-      <blockquote> Cruise ship tourism has been the fastest growing branch of the tourism sector since the turn of the century. As a result, cruise tourism’s increased port traffic has garnered attention as a development strategy for port cities of developing nations over the past two decades. I utilize 10.6 million automatic identification system (AIS) locations from 517 cruise ships to estimate granular city by year cruise ship arrivals in 5,644 port destinations over 220 nations and territories from 2009 to 2018. Matched with 355,463 individual Demographic and Health Survey (DHS) women’s surveys in 23 countries from 2009 to 2016, this study examines cruise tourism’s relationship to female labor participation and associated human capital attainment in destination port cities of developing nations. Using fixed effects to identify this relationship, I find positive general equilibrium effects from cruise tourism on labor participation and educational attainment with strong age dynamics. For each 1% increase in cruise ship arrivals to a port city, female labor participation increase 7% and women gain around a 1/3 more years of education. Additionally, this study employs a Kaplan Meier survivorship model as well as Cox Proportional Hazard Ratios to understand the dynamic change in educational attainment related to age from a cruise tourism shock. Older women respond to an expanding service sector by seizing job opportunities, while younger women acquire a near secondary level of education in anticipation of employment opportunities. The mechanism behind tourism led growth may be the result of improvements in human capital attainment by women. Rhetoric regarding tourism’s role as a development strategy appears to be more nuanced than previously attributed when considering educational choice. This study contributes a novel micro-dataset and a novel measure for cruise tourism at a global scale to examine a broader scope of tourism’s impact on regional development and welfare effects. 
-     </blockquote>
-</details>
-   
-  * **Open Access:** [USF Repository](https://repository.usfca.edu/thes/1298/)
-  * **Slides:** [ASSA 2021 Slides](/files/mcway_ASSA_2021_prez.pdf)
-  * **Features:** [ICPSR Data Brunch](https://soundcloud.com/user-494455196/episode-6-cruise-ships-and-empowerment)
-
-  * **Keywords:** `Regional Development` `Cruise Tourism` `Employment` `Education`
 
 2\. *Contrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms*
   
@@ -80,7 +80,7 @@ Works in Progress
 
   * **Slides:** [MUSE 2021 Slides](/files/MUSE_prez.pdf)
 
-1\. *Sex and Sexual Orientation in Economic Preferences* (with Alessandra Cassar)
+1\. *Sex and Sexual Orientation in Economic Preferences* (with Alessandra Cassar and Elizabeth Pillsworth)
 
 
 ---------------------------------------
