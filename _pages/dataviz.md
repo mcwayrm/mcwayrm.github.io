@@ -28,7 +28,7 @@ Data Visualization
 
 <img src="/images/fcc_stigma_dhs_time_trend.png" width="75%">
 
-<img src="/images/gender_remuneration_boards_figure1.png" width="75%">
+<img src="/images/figure_fem_rep_over_time.png" width="75%">
 
 <img src="/images/fcc_communities_treatment.png" width="75%">
 
