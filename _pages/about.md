@@ -26,7 +26,7 @@ Ryan is an economic researcher. He currently works at the University of Michigan
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Labor***: How do cruise ship arrivals effect the female labor force in developing nations? 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Natural Disasters***: What are the aggregate economic growth effects of damages resulting from tornadoes? Can exposure to the effects of a cyclone impact behavioral preferences and sexual behavior?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Natural Disasters***: What are the aggregate economic growth effects of damages resulting from tornadoes? Can exposure to the affects of a cyclone impact behavioral preferences and sexual behavior?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Public Health***: Do board humanitarian aid programs exacerbate misinformation and stigmitizing attitudes amongst HIV+ and HIV vulnerable communities? Can endorsement from local leaders, financial incentives, and feedback on misinformation increase social distancing practices and improve COVID-19 related knowledge? Which early childhood development internventions are effective at improving children's health?
 
