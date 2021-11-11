@@ -22,7 +22,7 @@ Publications
      </blockquote>
 </details>
    
-  * **Open Access:** [USF Repository](https://repository.usfca.edu/thes/1298/)
+  * **Open Access:** [USF Repository](https://repository.usfca.edu/thes/1298/), [Research Gate](https://www.researchgate.net/publication/356002253_Cruising_Through_School_General_Equilibrium_Effects_of_Cruise_Ship_Arrivals_on_Employment_and_Education)
   * **Slides:** [ASSA 2021 Slides](/files/mcway_ASSA_2021_prez.pdf)
   * **Replication:** [Code](), [Data](), [README]()
   * **Features:** [ICPSR Data Brunch](https://soundcloud.com/user-494455196/episode-6-cruise-ships-and-empowerment)
