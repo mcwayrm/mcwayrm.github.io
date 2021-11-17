@@ -18,7 +18,7 @@ Beira, Mozambique
 
 **Keywords:** `Public Health` `RCT` `HIV/AIDS` `COVID-19` `Social Distancing` `Knowledge` `Stigma` `Vaccination` `Mozambique`
 
-> I will provide updates as this is ongoing research develops.
+> I will provide updates as this ongoing research develops.
 
 ---------------------------------------
 
