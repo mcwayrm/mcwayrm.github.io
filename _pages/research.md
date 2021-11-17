@@ -41,7 +41,7 @@ Working Papers
      </blockquote>
 </details>
    
-  * **Open Access:** [Github](/files/McWay_Allen_Yu_Stata_Dofile.pdf)
+  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965114), [Github](/files/McWay_Allen_Yu_Stata_Dofile.pdf)
 
   * **Keywords:** `Team Research` `Workflow` `Reproducibility` `Dofile` `Stata`
 
@@ -66,6 +66,8 @@ Working Papers
       <blockquote> A key function of the board of directors is ensuring earnings quality (EQ) to signal firm performance to investors and stakeholders. Using a panel of 105 non-financial Spanish listed firms from 2013 to 2018, we investigate how gender diversity on the board of directors and board remuneration influence earnings quality. The empirical method uses a Tobit semiparametric estimator with firm-industry level fixed effects and an innovative set of measures for earnings quality developed by StarMine. Our results exhibit a consistent and positive correlation of increased gender diversity on earnings quality of a firm, suggesting that a gender-balanced board of directors is associated with more transparent financial reporting and informative earnings. We also find a non-monotonic, inverse U-shaped relationship between board remuneration and earnings quality. This indicates that at a certain point, excessive board compensations lead to more opportunistic manipulation of financial reporting with the subsequent dilution of earnings quality. Increasing female representation on the board of directors and optimizing board compensation subsequently improve earnings quality. Majority of Spanish firms are both lacking in board gender diversity as well as sub-optimally remunerating their board regarding maximizing earnings quality. Policy recommendations are derived from these findings.  
      </blockquote>
 </details>
+
+  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965107)
   
   * **Keywords:** `Earnings Quality` `Board Gender Diversity` `Board Remuneration` `Spain`
 
