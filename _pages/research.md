@@ -106,8 +106,7 @@ Technical Reports
      </blockquote>
 </details>
 
-  * **Open Access:** [FCC Project Website](), [Research Gate](https://www.researchgate.net/publication/356815869_Combatting_COVID-19_in_Mozambique_Round_4_Summary_Report), [China Center for Economic Research Working Paper Series]()
-  * **Features:** [Innovation for Poverty Action (IPA)](https://www.poverty-action.org/recovr-study/accelerating-changes-norms-about-social-distancing-combat-covid-19-mozambique), [Twitter Thread]()
+  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2021-12/covid-mozambique-round4-summary-report..pdf), [Research Gate](https://www.researchgate.net/publication/356815869_Combatting_COVID-19_in_Mozambique_Round_4_Summary_Report), 
   
   * **Keywords:** `COVID-19` `Vaccination` `Mozambique`
 
