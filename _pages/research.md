@@ -43,7 +43,7 @@ Working Papers
      </blockquote>
 </details>
    
-  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965114), [Research Gate](https://www.researchgate.net/publication/356365674_Setting_Up_a_Dofile_for_Team_Research), [Github](/files/McWay_Allen_Yu_Stata_Dofile.pdf)
+  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965114), [Research Gate](https://www.researchgate.net/publication/356365674_Setting_Up_a_Dofile_for_Team_Research), [Github](/files/McWay_Allen_Yu_Stata_Dofile.pdf), [Academia](https://www.academia.edu/66119958/Setting_Up_a_Dofile_for_Team_Research)
 
   * **Keywords:** `Team Research` `Workflow` `Reproducibility` `Dofile` `Stata`
 
@@ -69,7 +69,7 @@ Working Papers
      </blockquote>
 </details>
    
-  * **Open Access:** [Research Gate](https://www.researchgate.net/publication/338165813_Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3710966), [OSF](https://osf.io/xgn3y/)
+  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3710966), [Research Gate](https://www.researchgate.net/publication/338165813_Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms), [OSF](https://osf.io/xgn3y/), [Academia](https://www.academia.edu/66119435/Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms)
   
   * **Keywords:** `Earnings Management` `Remuneration` `Spain`
   
