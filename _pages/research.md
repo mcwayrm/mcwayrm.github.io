@@ -24,20 +24,20 @@ Publications
      </blockquote>
 </details>
    
-  * **Open Access:** [USF Repository](https://repository.usfca.edu/thes/1298/), [Research Gate](https://www.researchgate.net/publication/356002253_Cruising_Through_School_General_Equilibrium_Effects_of_Cruise_Ship_Arrivals_on_Employment_and_Education)
-  * **Slides:** [ASSA 2021 Slides](/files/mcway_ASSA_2021_prez.pdf)
-  * **Replication:** [Code](), [Data](), [README]()
-  * **Features:** [ICPSR Data Brunch](https://soundcloud.com/user-494455196/episode-6-cruise-ships-and-empowerment)
-
-  * **Keywords:** `Regional Development` `Cruise Tourism` `Employment` `Education`
+>  * **Open Access:** [USF Repository](https://repository.usfca.edu/thes/1298/), [Research Gate](https://www.researchgate.net/publication/356002253_Cruising_Through_School_General_Equilibrium_Effects_of_Cruise_Ship_Arrivals_on_Employment_and_Education)
+>  * **Slides:** [ASSA 2021 Slides](/files/mcway_ASSA_2021_prez.pdf)
+>  * **Replication:** [Code](), [Data](), [README]()
+>  * **Features:** [ICPSR Data Brunch](https://soundcloud.com/user-494455196/episode-6-cruise-ships-and-empowerment)
+>
+>  * **Keywords:** `Regional Development` `Cruise Tourism` `Employment` `Education`
 
 Working Papers
 ========
 
 4\. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* (with Palavi Prabhakar, Danish Us Salam, Rakesh Pandey and Ayo Ellis)
 
-  * **Slides:** [ICSD 2021 Slides](/files/presentation_ICSD_210920.pdf)
-  * **Replication:** [Article Search Tracker](files/McWay_et_al_2022_ECD_Search_Tracker.xlsx)
+>  * **Slides:** [ICSD 2021 Slides](/files/presentation_ICSD_210920.pdf)
+>  * **Replication:** [Article Search Tracker](files/McWay_et_al_2022_ECD_Search_Tracker.xlsx)
 
 3\. *Setting Up a Dofile for Team Research* [Under Review]
 
@@ -48,9 +48,9 @@ Working Papers
      </blockquote>
 </details>
    
-  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965114), [Research Gate](https://www.researchgate.net/publication/356365674_Setting_Up_a_Dofile_for_Team_Research), [Github](/files/McWay_Allen_Yu_Stata_Dofile.pdf), [Academia](https://www.academia.edu/66119958/Setting_Up_a_Dofile_for_Team_Research)
-
-  * **Keywords:** `Team Research` `Workflow` `Reproducibility` `Dofile` `Stata`
+>  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965114), [Research Gate](https://www.researchgate.net/publication/356365674_Setting_Up_a_Dofile_for_Team_Research), [Github](/files/McWay_Allen_Yu_Stata_Dofile.pdf), [Academia](https://www.academia.edu/66119958/Setting_Up_a_Dofile_for_Team_Research)
+>
+>  * **Keywords:** `Team Research` `Workflow` `Reproducibility` `Dofile` `Stata`
 
 2\. *Does Board Gender Diversity and Remuneration Impact Earnings Quality? Evidence from Spanish Firms* [Under Review]
   
@@ -61,9 +61,9 @@ Working Papers
      </blockquote>
 </details>
 
-  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965107), [Research Gate](https://www.researchgate.net/publication/356381356_Does_Board_Gender_Diversity_and_Remuneration_Impact_Earnings_Quality_Evidence_from_Spanish_Firms)
-  
-  * **Keywords:** `Earnings Quality` `Board Gender Diversity` `Board Remuneration` `Spain`
+>  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965107), [Research Gate](https://www.researchgate.net/publication/356381356_Does_Board_Gender_Diversity_and_Remuneration_Impact_Earnings_Quality_Evidence_from_Spanish_Firms)
+>  
+>  * **Keywords:** `Earnings Quality` `Board Gender Diversity` `Board Remuneration` `Spain`
 
 1\. *Contrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms*
   
@@ -74,9 +74,9 @@ Working Papers
      </blockquote>
 </details>
    
-  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3710966), [Research Gate](https://www.researchgate.net/publication/338165813_Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms), [OSF](https://osf.io/xgn3y/), [Academia](https://www.academia.edu/66119435/Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms)
-  
-  * **Keywords:** `Earnings Management` `Remuneration` `Spain`
+>  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3710966), [Research Gate](https://www.researchgate.net/publication/338165813_Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms), [OSF](https://osf.io/xgn3y/), [Academia](https://www.academia.edu/66119435/Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms)
+>  
+>  * **Keywords:** `Earnings Management` `Remuneration` `Spain`
   
 
 
@@ -87,7 +87,7 @@ Works in Progress
 
 2\. *American Tornadoes: Tornado Shocks on U.S. Metropolises* (with Jesse Antilla-Hughes and Lilla Szini)
 
-  * **Slides:** [MUSE 2021 Slides](/files/MUSE_prez.pdf)
+>  * **Slides:** [MUSE 2021 Slides](/files/MUSE_prez.pdf)
 
 1\. *Sex and Sexual Orientation in Economic Preferences* (with Alessandra Cassar and Elizabeth Pillsworth)
 
@@ -107,9 +107,9 @@ Technical Reports
      </blockquote>
 </details>
 
-  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2021-12/covid-mozambique-round4-summary-report..pdf), [Research Gate](https://www.researchgate.net/publication/356815869_Combatting_COVID-19_in_Mozambique_Round_4_Summary_Report), 
-  
-  * **Keywords:** `COVID-19` `Vaccination` `Mozambique`
+>  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2021-12/covid-mozambique-round4-summary-report..pdf), [Research Gate](https://www.researchgate.net/publication/356815869_Combatting_COVID-19_in_Mozambique_Round_4_Summary_Report), 
+>  
+>  * **Keywords:** `COVID-19` `Vaccination` `Mozambique`
 
 2\. *Combating COVID-19 in Mozambique: Round 3 Summary Report*
 
@@ -120,10 +120,10 @@ Technical Reports
      </blockquote>
 </details>
 
-  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2021-04/covid-mozambique-round3.pdf), [Research Gate](https://www.researchgate.net/publication/351094473_Combating_COVID-19_in_Mozambique_Round_3_Summary_Report), [China Center for Economic Research Working Paper Series](http://nsd.pku.edu.cn/docs/20210505144255463204.pdf)
-  * **Features:** [Innovation for Poverty Action (IPA)](https://www.poverty-action.org/recovr-study/accelerating-changes-norms-about-social-distancing-combat-covid-19-mozambique), [Twitter Thread](https://twitter.com/RyanMcWay/status/1380625003029336071)
-  
-  * **Keywords:** `COVID-19` `Additional Employment` `Altruism` `School`  `Mozambique`
+>  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2021-04/covid-mozambique-round3.pdf), [Research Gate](https://www.researchgate.net/publication/351094473_Combating_COVID-19_in_Mozambique_Round_3_Summary_Report), [China Center for Economic Research Working Paper Series](http://nsd.pku.edu.cn/docs/20210505144255463204.pdf)
+>  * **Features:** [Innovation for Poverty Action (IPA)](https://www.poverty-action.org/recovr-study/accelerating-changes-norms-about-social-distancing-combat-covid-19-mozambique), [Twitter Thread](https://twitter.com/RyanMcWay/status/1380625003029336071)
+>  
+>  * **Keywords:** `COVID-19` `Additional Employment` `Altruism` `School`  `Mozambique`
 
 1\. *Combating COVID-19 in Mozambique: Round 2 Summary Report*
   
@@ -134,26 +134,20 @@ Technical Reports
      </blockquote>
 </details>
 
-  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2020-12/covid-mozambique-round2v3_0.pdf), [Research Gate](https://www.researchgate.net/publication/347440820_Combating_COVID-19_in_Mozambique_Round_2_Summary_Report), [China Center for Economic Research Working Paper Series](http://nsd.pku.edu.cn/docs/20210505201536465030.pdf)
-  * **Features:** [Innovation for Poverty Action (IPA)](https://www.poverty-action.org/recovr-study/accelerating-changes-norms-about-social-distancing-combat-covid-19-mozambique), [LSA Economics Department University of Michigan](https://lsa.umich.edu/econ/news-events/all-news/faculty-news/-mozambique-covid-19-summary-report-is-now-available.html), [Twitter Thread](https://twitter.com/Prof__Quackers/status/1340041734059900931)
-  
-  * **Keywords:** `COVID-19` `Knowledge` `Income` `Food Insecurity` `Mozambique`
+>  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2020-12/covid-mozambique-round2v3_0.pdf), [Research Gate](https://www.researchgate.net/publication/347440820_Combating_COVID-19_in_Mozambique_Round_2_Summary_Report), [China Center for Economic Research Working Paper Series](http://nsd.pku.edu.cn/docs/20210505201536465030.pdf)
+>  * **Features:** [Innovation for Poverty Action (IPA)](https://www.poverty-action.org/recovr-study/accelerating-changes-norms-about-social-distancing-combat-covid-19-mozambique), [LSA Economics Department University of Michigan](https://lsa.umich.edu/econ/news-events/all-news/faculty-news/-mozambique-covid-19-summary-report-is-now-available.html), [Twitter Thread](https://twitter.com/Prof__Quackers/status/1340041734059900931)
+>  
+>  * **Keywords:** `COVID-19` `Knowledge` `Income` `Food Insecurity` `Mozambique`
 
 <!--
 
 SD and K Policy Brief
-
-Round 4 Summary Report 
-
-COVID-19 in Mozambique: 1 year later paper
 
 FCC White Paper
 
 ART Clinics Paper
 
 Primary and Secondary Education in Mozambique working paper
-
-HIV/AIDs Prevelance, Testing and Attitudes in Mozambique working paper
 
 Enumerator Quality Index working paper 
 
