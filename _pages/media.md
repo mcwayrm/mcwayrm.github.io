@@ -7,6 +7,9 @@ author_profile: true
 
 Seminars & Presentations
 ====
+**2022**
+  * [6th Annual Michigan University-Wide Sustainability & Environment (MUSE) Conference](/files/MUSE_2022_Program.pdf)
+
 **2021**
   * [9th Annual International Conference on Sustainable Development (ICSD)](https://virtual.oxfordabstracts.com/#/event/public/1990/program)
   * [5th Annual Michigan University-Wide Sustainability & Environment (MUSE) Conference](/files/MUSE_Program_2021.pdf)
