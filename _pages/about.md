@@ -6,9 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
-header:
-  image: /images/brac_fieldwork.jpg
 ---
 
 <!-- Should add a cover photo. Maybe from the field -->
