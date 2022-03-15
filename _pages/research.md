@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- Title, Coauthors, Abstract, Paper link, preprint researchgate link, LaTeX presentation, twitter thread, video explanation, replication code, replication data, media coverage -->
 
-I am interested in research related broadly to Applied Microeconomics with concentrations in Development Economics, Impact Evaluations, Natural Disasters, Social Networks, and Urban Economics. To respond to the replication crisis as well as calls for open access and transparency, where applicable I try to provide materials related to each research item regarding working papers, replication data and code, appendix materials, survey instruments, and presentation slides. I have placed keywords alongside the research for easier navigation for specific themes in my research.
+I am interested in research related broadly to Applied Microeconomics with concentrations in Development Economics, Impact Evaluations, Natural Disasters, Decision-making, and Urban Economics. To respond to the replication crisis as well as calls for open access and transparency, where applicable I try to provide materials related to each research item regarding working papers, replication data and code, appendix materials, survey instruments, and presentation slides. I have placed keywords alongside the research for easier navigation for specific themes in my research.
 
 ---------------------------------------
 
@@ -27,7 +27,7 @@ Publications
 >  * **Open Access:** [USF Repository](https://repository.usfca.edu/thes/1298/), [Research Gate](https://www.researchgate.net/publication/356002253_Cruising_Through_School_General_Equilibrium_Effects_of_Cruise_Ship_Arrivals_on_Employment_and_Education)
 >  * **Slides:** [ASSA 2021 Slides](/files/mcway_ASSA_2021_prez.pdf)
 >  * **Replication:** [Code](), [Data](), [README]()
->  * **Features:** [ICPSR Data Brunch](https://soundcloud.com/user-494455196/episode-6-cruise-ships-and-empowerment)
+>  * **Features:** [ICPSR Data Brunch](https://soundcloud.com/user-494455196/episode-6-cruise-ships-and-empowerment), [Twitter Thread](https://twitter.com/RyanMcWay/status/1503556137739763715?cxt=HHwWhoCyneqV2t0pAAAA)
 >
 >  * **Keywords:** `Regional Development` `Cruise Tourism` `Employment` `Education`
 
