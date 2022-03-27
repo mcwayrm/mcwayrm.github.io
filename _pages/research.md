@@ -34,10 +34,19 @@ Publications
 Working Papers
 ========
 
-4\. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* (with Palavi Prabhakar, Danish Us Salam, Rakesh Pandey and Ayo Ellis)
+4\. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* 
 
->  * **Slides:** [ICSD 2021 Slides](/files/presentation_ICSD_210920.pdf)
+&nbsp;&nbsp;&nbsp;  (with [Palavi Prabhakar](https://ug.linkedin.com/in/pallavi-prabhakar-55b48485), and [Ayo Ellis](https://www.pasrc.org/members/individuals/ayo-d-ellis))
+<details>
+  <summary> <strong> Abstract: </strong> </summary>
+      <blockquote> Investing in a child's early years can have long lasting effects in eliminating extreme poverty and boosting economic productivity. Yet, 250 million children are at risk of not reaching their full development potential in low-and-middle income countries due to inadequate nutrition and a lack of early stimulation. While substantial evidence exists on why intervening in early years is important, limited knowledge exists on which types of interventions generate substantial impact. We conduct a comprehensive review of 39 randomized controlled trials evaluating early childhood development interventions for improving children's physical health. We find that interventions including nutrition or cash based incentives work best for improving children's growth outcomes. We identify gaps in the literature, quality of evidence and intervention types for achieving Sustainable Development Goals 2, 3, and 6, as part of 2030 development agenda. 
+     </blockquote>
+</details>
+
+>  * **Slides:** [NHH 2022 Slides](/files/presentation_NHH_220321.pdf), [ICSD 2021 Slides](/files/presentation_ICSD_210920.pdf)
 >  * **Replication:** [Article Search Tracker](files/McWay_et_al_2022_ECD_Search_Tracker.xlsx)
+>  
+>  * **Keywords:** `Early Childhood Development` `Health` `Meta-anlaysis` `Systematic Review`
 
 3\. *Setting Up a Dofile for Team Research* [Under Review]
 
