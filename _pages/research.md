@@ -34,7 +34,7 @@ Publications
 Working Papers
 ========
 
-4\. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* 
+4\. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* [Under Review]
 
 &nbsp;&nbsp;&nbsp;  (with [Palavi Prabhakar](https://ug.linkedin.com/in/pallavi-prabhakar-55b48485), and [Ayo Ellis](https://www.pasrc.org/members/individuals/ayo-d-ellis))
 <details>
@@ -105,6 +105,33 @@ Works in Progress
 
 Technical Reports
 ========
+
+5\. *Combatting COVID-19 in Mozambique: Correcting Misperceptions about Support for Social Distancing to Combat COVID-19*
+
+&nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), Laston Manja, [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), Kwasi Tabiri, and [Hang Yu](https://www.econhangyu.com/home)) 
+<details>
+  <summary> <strong> Abstract: </strong> </summary>
+      <blockquote> We design and test an intervention that corrects individuals' underestimates of community support for social distancing during the COVID-19 pandemic.
+     </blockquote>
+</details>
+
+>  * **Open Access:** [FCC Project Website](), [Research Gate](https://www.researchgate.net/publication/361162810_Combatting_COVID-19_in_Mozambique_Correcting_Misperceptions_about_Support_for_Social_Distancing_to_Combat_COVID-19), 
+>  
+>  * **Keywords:** `COVID-19` `Social Norm Correction` `Social Distancing` `Mozambique`
+
+
+4\. *Combatting COVID-19 in Mozambique: Combining Financial Incentives and Teaching to Improve COVID-19 Knowledge*
+
+&nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), Laston Manja, [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), Kwasi Tabiri, and [Hang Yu](https://www.econhangyu.com/home)) 
+<details>
+  <summary> <strong> Abstract: </strong> </summary>
+      <blockquote> We design and test financial incentives and a teaching intervention to improve COVID-19 knowledge soon after the onset of the pandemic.
+     </blockquote>
+</details>
+
+>  * **Open Access:** [FCC Project Website](), [Research Gate](https://www.researchgate.net/publication/361162965_Combatting_COVID-19_in_Mozambique_Combining_Financial_Incentives_and_Teaching_to_Improve_COVID-19_Knowledge), 
+>  
+>  * **Keywords:** `COVID-19` `Teaching Incentives` `Financial Incentives` `Mozambique`
 
 
 3\. *Combating COVID-19 in Mozambique: Round 4 Summary Report*
