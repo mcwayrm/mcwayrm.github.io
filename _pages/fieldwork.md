@@ -18,7 +18,15 @@ Beira, Mozambique
 
 **Keywords:** `Public Health` `RCT` `HIV/AIDS` `COVID-19` `Social Distancing` `Knowledge` `Stigma` `Vaccination` `Community Health Workers` `Mozambique`
 
-<!-- <img src="/images/ronald_in_field.jpg" width="350" height="350"> -->
+<img src="/images/interview.jpg" width="350" height="350">
+
+<img src="/images/interview_unidade_a_220520.jpg" width="350" height="350">
+
+<img src="/images/mountain_220531.jpg" width="350" height="350">
+
+<img src="/images/unidade_g_group_3_220520.jpg" width="350" height="350">
+
+<img src="/images/village_ambience_220330.JPG" width="350" height="350">
 
 
 ---------------------------------------
