@@ -5,7 +5,7 @@ permalink: /media/
 author_profile: true
 ---
 
-Seminars & Presentations
+Seminar & Conference Presentations
 ====
 **2022**
   * [6th Annual Michigan University-Wide Sustainability & Environment (MUSE) Conference](/files/MUSE_2022_Program.pdf)
@@ -69,6 +69,22 @@ Recognitions
 
 Media Features
 ====
+
+**2022**
+
+<details>
+  <summary> <strong> <a href="https://t.e2ma.net/webview/3tw3eg/cebcad2b9eac7701505d91bd94a8964e">USF Economics Newsletter Spring Issue Vol. 22</a> </strong> <a> June </a> </summary>
+      <blockquote> 
+       Announcement of starting a PhD at the University of Minnesota
+     </blockquote>
+</details>  
+
+<details>
+  <summary> <strong> <a href="https://www.linkedin.com/pulse/meet-idec-alum-ryan-mcway-20-usfeconomics/?trackingId=1tp8kxJnpvD5ZJ%2BWz7nzRA%3D%3D">USF Economics Alumni Interview Series</a> </strong> <a> April </a> </summary>
+      <blockquote> 
+       Interview discussing my IDEC experience and current research endeavours at the University of Michigan
+     </blockquote>
+</details>  
 
 **2021**
 
