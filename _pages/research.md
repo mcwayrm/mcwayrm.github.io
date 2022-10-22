@@ -10,6 +10,7 @@ author_profile: true
 I am interested in research related broadly to Applied Microeconomics with concentrations in Development Economics, Impact Evaluations, Natural Disasters, Decision-making, and Urban Economics. To respond to the replication crisis as well as calls for open access and transparency, where applicable I try to provide materials related to each research item regarding working papers, replication data and code, appendix materials, survey instruments, and presentation slides. I have placed keywords alongside the research for easier navigation for specific themes in my research.
 
 ---------------------------------------
+<hr>
 
 
 Publications
@@ -31,10 +32,13 @@ Publications
 >
 >  * **Keywords:** `Regional Development` `Cruise Tourism` `Employment` `Education`
 
+
+---------------------------------------
+
 Working Papers
 ========
 
-4\. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* [Under Review]
+2\. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* [Under Review]
 
 &nbsp;&nbsp;&nbsp;  (with [Palavi Prabhakar](https://ug.linkedin.com/in/pallavi-prabhakar-55b48485), and [Ayo Ellis](https://www.pasrc.org/members/individuals/ayo-d-ellis))
 <details>
@@ -49,20 +53,8 @@ Working Papers
 >  
 >  * **Keywords:** `Early Childhood Development` `Health` `Meta-anlaysis` `Systematic Review`
 
-3\. *Setting Up a Dofile for Team Research* [Under Review]
 
-&nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), and [Hang Yu](https://www.econhangyu.com/home))
-<details>
-  <summary> <strong> Abstract: </strong> </summary>
-      <blockquote> Co-authoring Dofiles can be challenging as most Stata users have idiosyncratic preferences and methods for organizing and writing Dofiles. Which standards and practices can research teams adopt to improve the cohesion of this group work? This article proposes some best practices to overcome team research coordination issues adapting methods from software engineering and data science along with personal experience with group research. We prioritize improvements that increase efficiency of the team workflow by establishing global parameters and directories, standardizing communication between team members, and enabling reproducibility of results. 
-     </blockquote>
-</details>
-   
->  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965114), [Research Gate](https://www.researchgate.net/publication/356365674_Setting_Up_a_Dofile_for_Team_Research), [Github](/files/McWay_Allen_Yu_Stata_Dofile.pdf), [Academia](https://www.academia.edu/66119958/Setting_Up_a_Dofile_for_Team_Research)
->
->  * **Keywords:** `Team Research` `Workflow` `Reproducibility` `Dofile` `Stata`
-
-2\. *Does Board Gender Diversity and Remuneration Impact Earnings Quality? Evidence from Spanish Firms* [Under Review]
+1\. *Does Board Gender Diversity and Remuneration Impact Earnings Quality? Evidence from Spanish Firms* [Under Review]
   
 &nbsp;&nbsp;&nbsp;  (with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Pablo San Martin](https://www.facea.ucsc.cl/persona/pablo-san-martin/))
 <details>
@@ -75,19 +67,6 @@ Working Papers
 >  
 >  * **Keywords:** `Earnings Quality` `Board Gender Diversity` `Board Remuneration` `Spain`
 
-1\. *Contrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms*
-  
-&nbsp;&nbsp;&nbsp;  (with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Mauricio Jara Bertin](https://scholar.google.com.sg/citations?user=A48L9BMAAAAJ&hl=en))
-<details>
-  <summary> <strong> Abstract: </strong> </summary>
-      <blockquote> We analyze the effect board activity and board remuneration has on earnings management (EM). Our results show that more active boards are inefficient in preventing earnings manipulation. Regarding board compensation, we find a U-shaped relation indicating that excessive remuneration will lead to more earnings management. Policy recommendations are derived from the findings. 
-     </blockquote>
-</details>
-   
->  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3710966), [Research Gate](https://www.researchgate.net/publication/338165813_Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms), [OSF](https://osf.io/xgn3y/), [Academia](https://www.academia.edu/66119435/Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms)
->  
->  * **Keywords:** `Earnings Management` `Remuneration` `Spain`
-  
 
 
 ---------------------------------------
@@ -101,6 +80,37 @@ Works in Progress
 
 1\. *Sex and Sexual Orientation in Economic Preferences* (with Alessandra Cassar and Elizabeth Pillsworth)
 
+
+---------------------------------------
+
+Permenant Working Papers
+========
+
+2\. *Setting Up a Dofile for Team Research* [Under Review]
+
+&nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), and [Hang Yu](https://www.econhangyu.com/home))
+<details>
+  <summary> <strong> Abstract: </strong> </summary>
+      <blockquote> Co-authoring Dofiles can be challenging as most Stata users have idiosyncratic preferences and methods for organizing and writing Dofiles. Which standards and practices can research teams adopt to improve the cohesion of this group work? This article proposes some best practices to overcome team research coordination issues adapting methods from software engineering and data science along with personal experience with group research. We prioritize improvements that increase efficiency of the team workflow by establishing global parameters and directories, standardizing communication between team members, and enabling reproducibility of results. 
+     </blockquote>
+</details>
+   
+>  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965114), [Research Gate](https://www.researchgate.net/publication/356365674_Setting_Up_a_Dofile_for_Team_Research), [Github](/files/McWay_Allen_Yu_Stata_Dofile.pdf), [Academia](https://www.academia.edu/66119958/Setting_Up_a_Dofile_for_Team_Research)
+>
+>  * **Keywords:** `Team Research` `Workflow` `Reproducibility` `Dofile` `Stata`
+
+1\. *Contrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms*
+  
+&nbsp;&nbsp;&nbsp;  (with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Mauricio Jara Bertin](https://scholar.google.com.sg/citations?user=A48L9BMAAAAJ&hl=en))
+<details>
+  <summary> <strong> Abstract: </strong> </summary>
+      <blockquote> We analyze the effect board activity and board remuneration has on earnings management (EM). Our results show that more active boards are inefficient in preventing earnings manipulation. Regarding board compensation, we find a U-shaped relation indicating that excessive remuneration will lead to more earnings management. Policy recommendations are derived from the findings. 
+     </blockquote>
+</details>
+   
+>  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3710966), [Research Gate](https://www.researchgate.net/publication/338165813_Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms), [OSF](https://osf.io/xgn3y/), [Academia](https://www.academia.edu/66119435/Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms)
+>  
+>  * **Keywords:** `Earnings Management` `Remuneration` `Spain`
 
 ---------------------------------------
 
@@ -178,14 +188,6 @@ Technical Reports
 
 <!--
 
-SD and K Policy Brief
-
 FCC White Paper
-
-ART Clinics Paper
-
-Primary and Secondary Education in Mozambique working paper
-
-Enumerator Quality Index working paper 
 
 -->
