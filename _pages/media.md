@@ -38,6 +38,13 @@ Recognitions
 ====
 
 <details>
+  <summary> <strong> <a href="" target="_blank">Michael Szenberg Prize for the Best Article Published in The American Economist</a> </strong> </summary>
+      <blockquote> 
+       Awarded by the editorial team of The American Economist for the best published article in the calendar year 2022. This is for the article "Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education."
+     </blockquote>
+</details> 
+
+<details>
   <summary> <strong> <a href="http://www.omicrondeltaepsilon.org/award-winners.html" target="_blank">Irving Fisher Graduate Research Paper Prize</a> </strong> </summary>
       <blockquote> 
        Awarded the best article presented by a graduate student at the ODE Graduate Student Session during the annual ASSA meetings for my thesis "Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education."
