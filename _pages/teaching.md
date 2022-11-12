@@ -7,6 +7,26 @@ author_profile: true
 
 My experience in teaching comes from my roles as a teaching assistant and as an academic tutor in courses related to economics and mathematics.
 
+<!-- Diversity, Equity, and Inclusion (DEI)
+========
+
+- - - - - - 
+
+**Knowledge and Understanding of DEI**
+
+
+**Track Record on DEI**
+
+This is my track record.[^1]
+
+
+[^1]: My reference.
+
+**Plans for Advancing DEI**
+ -->
+
+
+
 Teaching Assistant
 ========
 
