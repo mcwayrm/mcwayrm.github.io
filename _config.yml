@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Ryan McWay"
-  avatar           : "profile_umich_head_shot.jpg"
+  avatar           : "headshot_no_glasses_2022.jpg"
   bio              : "Economic Researcher"
   location         : "Saint Paul, MN"
   employer         : "Univeristy of Minnesota"
@@ -115,7 +115,7 @@ author:
   wikipedia        :
   osf              : "https://osf.io/s93vq/"
   ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4423972"
-  publons          : "https://publons.com/researcher/4861095/ryan-mcway/"
+  publons          : "https://www.webofscience.com/wos/author/record/2999401"
   academia         : "https://umich.academia.edu/RyanMcWay"
   repec            : "https://ideas.repec.org/f/pmc334.html"
 
