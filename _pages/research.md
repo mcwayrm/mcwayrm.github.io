@@ -47,7 +47,7 @@ Working Papers
      </blockquote>
 </details>
 
->  * **Open Access:** [Scandinavian Working Papers in Economics](https://swopec.hhs.se/nhheco/abs/nhheco2022_014.htm)
+>  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4240945), [Scandinavian Working Papers in Economics](https://swopec.hhs.se/nhheco/abs/nhheco2022_014.htm)
 >  * **Slides:** [NHH 2022 Slides](/files/presentation_NHH_220321.pdf), [ICSD 2021 Slides](/files/presentation_ICSD_210920.pdf)
 >  * **Replication:** [Article Search Tracker](files/McWay_et_al_2022_ECD_Search_Tracker.xlsx)
 >  
