@@ -74,7 +74,7 @@ Working Papers
 Works in Progress
 ========
 
-2\. *American Tornadoes: Tornado Shocks on U.S. Metropolises* (with Jesse Antilla-Hughes and Lilla Szini)
+2\. *American Tornadoes: Tornado Shocks on U.S. Metropolises* (with Jesse Antilla-Hughes)
 
 >  * **Slides:** [MUSE 2021 Slides](/files/MUSE_prez.pdf)
 
