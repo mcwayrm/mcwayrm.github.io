@@ -117,6 +117,22 @@ Permenant Working Papers
 Technical Reports
 ========
 
+6\. *An Evaluation of the PEPFAR-Funded Força à Comunidade e Crianças (FCC) Program in Mozamique*
+
+&nbsp;&nbsp;&nbsp;  (with [Dean Yang](https://sites.lsa.umich.edu/deanyang/), [James Allen IV](https://sites.google.com/view/jamesalleniv), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), and [Hang Yu](https://www.econhangyu.com/home)) 
+<details>
+  <summary> <strong> Abstract: </strong> </summary>
+      <blockquote> This evaluation of the PEPFAR-funded Força à Comunidade e Crianças (FCC) program was a randomized controlled trial (RCT) designed to identify and measure the program’s direct and indirect impacts on households with orphans and vulnerable children (OVCs) in Mozambique. Outcomes of interest included health care utilization, health outcomes, education outcomes, household economic conditions, the ability to cope with shocks and the extent to which any program impacts spilled over to households not directly enrolled. The results show that the FCC program in Mozambique had no positive impacts for any of its intermediate results and no observable impacts in nearly all outcomes of interest. The evaluation did find that the FCC program had negative outcomes in the form of reduced rates of HIV testing, reduced HIV- related knowledge, and an increase in stigmatizing attitudes about HIV. The evidence from this evaluation suggests that FCC and similar multifaceted programs may be ineffective at accomplishing their purpose or may be unintentionally adding to the challenge of responding to HIV/AIDS in Africa.
+     </blockquote>
+</details>
+
+>  * **Open Access:** [USAID](https://basis.ucdavis.edu/sites/g/files/dgvnsk466/files/2022-12/FCC%20Mozambique%20Impact%20Evaluation%20-%20FINAL.pdf), [Research Gate](https://www.researchgate.net/publication/366408887_An_Evaluation_of_the_PEPFAR-Funded_Forca_a_Comunidade_e_Criancas_FCC_Program_in_Mozamique)
+>  * **Features:** [USAID](https://basis.ucdavis.edu/publication/evaluation-evaluation-pepfar-funded-forca-comunidade-e-criancas-fcc-program-mozambique)
+>  
+>  * **Keywords:** `HIV/AIDS` `Community Health Workers` `Mozambique`
+
+
+
 5\. *Combatting COVID-19 in Mozambique: Correcting Misperceptions about Support for Social Distancing to Combat COVID-19*
 
 &nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), Laston Manja, [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), Kwasi Tabiri, and [Hang Yu](https://www.econhangyu.com/home)) 
@@ -126,7 +142,7 @@ Technical Reports
      </blockquote>
 </details>
 
->  * **Open Access:** [FCC Project Website](), [Research Gate](https://www.researchgate.net/publication/361162810_Combatting_COVID-19_in_Mozambique_Correcting_Misperceptions_about_Support_for_Social_Distancing_to_Combat_COVID-19), 
+>  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2022-06/Allen%20et%20al.%20%282022%29%20-%20Social%20Distancing%20for%20COVID-19%20Mozambique.pdf), [Research Gate](https://www.researchgate.net/publication/361162810_Combatting_COVID-19_in_Mozambique_Correcting_Misperceptions_about_Support_for_Social_Distancing_to_Combat_COVID-19) 
 >  
 >  * **Keywords:** `COVID-19` `Social Norm Correction` `Social Distancing` `Mozambique`
 
@@ -140,7 +156,7 @@ Technical Reports
      </blockquote>
 </details>
 
->  * **Open Access:** [FCC Project Website](), [Research Gate](https://www.researchgate.net/publication/361162965_Combatting_COVID-19_in_Mozambique_Combining_Financial_Incentives_and_Teaching_to_Improve_COVID-19_Knowledge), 
+>  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2022-06/Allen%20et%20al.%20%282022%29%20-%20Knowledge%20of%20COVID-19%20Mozambique.pdf), [Research Gate](https://www.researchgate.net/publication/361162965_Combatting_COVID-19_in_Mozambique_Combining_Financial_Incentives_and_Teaching_to_Improve_COVID-19_Knowledge)
 >  
 >  * **Keywords:** `COVID-19` `Teaching Incentives` `Financial Incentives` `Mozambique`
 
@@ -154,7 +170,7 @@ Technical Reports
      </blockquote>
 </details>
 
->  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2021-12/covid-mozambique-round4-summary-report..pdf), [Research Gate](https://www.researchgate.net/publication/356815869_Combatting_COVID-19_in_Mozambique_Round_4_Summary_Report), 
+>  * **Open Access:** [FCC Project Website](https://fordschool.umich.edu/sites/default/files/2021-12/covid-mozambique-round4-summary-report..pdf), [Research Gate](https://www.researchgate.net/publication/356815869_Combatting_COVID-19_in_Mozambique_Round_4_Summary_Report) 
 >  
 >  * **Keywords:** `COVID-19` `Vaccination` `Mozambique`
 
