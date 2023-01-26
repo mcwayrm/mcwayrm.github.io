@@ -135,7 +135,7 @@ Technical Reports
 
 5\. *Combatting COVID-19 in Mozambique: Correcting Misperceptions about Support for Social Distancing to Combat COVID-19*
 
-&nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), Laston Manja, [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), Kwasi Tabiri, and [Hang Yu](https://www.econhangyu.com/home)) 
+&nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [Laston Manja](https://laston-manja.github.io/), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), Kwasi Tabiri, and [Hang Yu](https://www.econhangyu.com/home)) 
 <details>
   <summary> <strong> Abstract: </strong> </summary>
       <blockquote> We design and test an intervention that corrects individuals' underestimates of community support for social distancing during the COVID-19 pandemic.
@@ -149,7 +149,7 @@ Technical Reports
 
 4\. *Combatting COVID-19 in Mozambique: Combining Financial Incentives and Teaching to Improve COVID-19 Knowledge*
 
-&nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), Laston Manja, [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), Kwasi Tabiri, and [Hang Yu](https://www.econhangyu.com/home)) 
+&nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [Laston Manja](https://laston-manja.github.io/), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), Kwasi Tabiri, and [Hang Yu](https://www.econhangyu.com/home)) 
 <details>
   <summary> <strong> Abstract: </strong> </summary>
       <blockquote> We design and test financial incentives and a teaching intervention to improve COVID-19 knowledge soon after the onset of the pandemic.
@@ -163,7 +163,7 @@ Technical Reports
 
 3\. *Combating COVID-19 in Mozambique: Round 4 Summary Report*
 
-&nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Maggie Barnard, [Zach Brown](http://www-personal.umich.edu/~zachb/), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), Laston Manja, [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), and [Hang Yu](https://www.econhangyu.com/home)) 
+&nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Maggie Barnard, [Zach Brown](http://www-personal.umich.edu/~zachb/), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [Laston Manja](https://laston-manja.github.io/), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), and [Hang Yu](https://www.econhangyu.com/home)) 
 <details>
   <summary> <strong> Abstract: </strong> </summary>
       <blockquote> We collected data on individual perceptions of and plans to accept COVID-19 vaccination in Mozambique. We conducted this fourth round of data collection among study participants in Sofala, Manica, and Zambezia provinces, Mozambique, between June 2021 and September 2021.* Nearly all respondents report they will take the COVID-19 vaccine when given the chance. Of those expressing hesitancy, the main concern is the perception that vaccinations can be harmful and have potentially negative side effects. Most people believe that they are less likely to contract COVID-19 than others in their community. 100% of local leaders express support for COVID-19 vaccination.
@@ -202,8 +202,3 @@ Technical Reports
 >  
 >  * **Keywords:** `COVID-19` `Knowledge` `Income` `Food Insecurity` `Mozambique`
 
-<!--
-
-FCC White Paper
-
--->
