@@ -39,7 +39,7 @@ Recognitions
 ====
 
 <details>
-  <summary> <strong> <a href="" target="_blank">Michael Szenberg Prize for the Best Article Published in The American Economist</a> </strong> </summary>
+  <summary> <strong> <a href="https://journals.sagepub.com/doi/10.1177/05694345231154682" target="_blank">Michael Szenberg Prize for the Best Article Published in The American Economist</a> </strong> </summary>
       <blockquote> 
        Awarded by the editorial team of The American Economist for the best published article in the calendar year 2022. This is for the article "Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education."
      </blockquote>
