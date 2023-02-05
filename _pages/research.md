@@ -27,7 +27,7 @@ Publications
    
 >  * **Open Access:** [USF Repository](https://repository.usfca.edu/thes/1298/), [Research Gate](https://www.researchgate.net/publication/356002253_Cruising_Through_School_General_Equilibrium_Effects_of_Cruise_Ship_Arrivals_on_Employment_and_Education), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4278737)
 >  * **Slides:** [ASSA 2021 Slides](/files/mcway_ASSA_2021_prez.pdf)
->  * **Replication:** [Code](), [Data](), [README]()
+>  * **Replication:** [OpenICPSR](https://www.openicpsr.org/openicpsr/project/184582/version/V1/view)
 >  * **Features:** [ICPSR Data Brunch](https://soundcloud.com/user-494455196/episode-6-cruise-ships-and-empowerment), [Twitter Thread](https://twitter.com/RyanMcWay/status/1503556137739763715?cxt=HHwWhoCyneqV2t0pAAAA)
 >
 >  * **Keywords:** `Regional Development` `Cruise Tourism` `Employment` `Education`
