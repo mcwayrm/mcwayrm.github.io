@@ -12,11 +12,8 @@ main:
   - title: "Data and Packages"
     url: /data-packages/
         
-  - title: "Talks and Features"
+  - title: "Presentations and Media"
     url: /media/
-    
-  - title: "Data Viz"
-    url: /dataviz/
     
   - title: "CV"
     url: /cv/
