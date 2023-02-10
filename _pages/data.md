@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Public Data"
-permalink: /data-packages/
+title: "Publicly Avaliable Dataframes"
+permalink: /data/
 author_profile: true
 ---
 
@@ -10,9 +10,6 @@ author_profile: true
 <!-- Should work to link the data to https://datadryad.org/stash so that I can get citations on the data -->
 
 ---------------------------------------
-
-Dataframes
-------
 
 2\. *Global Ports*
 
