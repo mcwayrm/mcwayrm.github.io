@@ -16,10 +16,17 @@ I am interested in research related broadly to Applied Microeconomics with conce
 [Publications](/publications/)
 ======= 
 
+&nbsp;
+&nbsp;
 
 [Working Papers and Works in Progress](/worksinprogress/)
 ========
 
+&nbsp;
+&nbsp;
 
 [Technical Reports](/reports/)
 ========
+
+&nbsp;
+&nbsp;
