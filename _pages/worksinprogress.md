@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Working Papers"
+title: "Working Papers and Works in Progress"
 permalink: /worksinprogress/
 author_profile: true
 ---
