@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# [Instruction](/instructing/)
+# [Instruction](/instruction/)
 
 
 &nbsp;
@@ -18,7 +18,7 @@ author_profile: true
 &nbsp;
 &nbsp;
 
-# [Mentorship](/mentoring/)
+# [Mentorship](/mentor/)
 
 
 &nbsp;
