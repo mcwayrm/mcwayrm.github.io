@@ -6,19 +6,19 @@ author_profile: true
 ---
 
 
-## [Instruction](/instructing/)
+# [Instruction](/instructing/)
 
 
 &nbsp;
 &nbsp;
 
-## [Diversity, Equity, and Inclusion (DEI)](/dei/)
+# [Diversity, Equity, and Inclusion (DEI)](/dei/)
 
 
 &nbsp;
 &nbsp;
 
-## [Mentorship](/mentoring/)
+# [Mentorship](/mentoring/)
 
 
 &nbsp;
