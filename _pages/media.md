@@ -5,38 +5,23 @@ permalink: /media/
 author_profile: true
 ---
 
-Seminar & Conference Presentations
-====
-**2022**
-  * [Community Development Branch, Federal Reserve Bank of Cleveland](https://www.clevelandfed.org/community-development)
-  * [6th Annual Michigan University-Wide Sustainability & Environment (MUSE) Conference](/files/MUSE_2022_Program.pdf)
+# [Seminars & Conference Presentations](/presentations/)
 
-**2021**
-  * [9th Annual International Conference on Sustainable Development (ICSD)](https://virtual.oxfordabstracts.com/#/event/public/1990/program)
-  * [5th Annual Michigan University-Wide Sustainability & Environment (MUSE) Conference](/files/MUSE_Program_2021.pdf)
-  * [American Economic Association ASSA Annual Meeting](https://www.aeaweb.org/conference/2021/preliminary/1968?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwTcyUdpZLUolxcIBvISkmshDBKMnNTIayyzNRykAFFBQVAAVMDpdpaXDBjaBvD)
-
-**2020**
-  * [10th Annual Creative Activity & Research Day (CARD)](https://myusf.usfca.edu/arts-sciences/card/schedule)
-
----------------------------------------
+&nbsp;
+&nbsp;
  
-Editorials & Podcasts
-====
+# [Editorials & Podcasts](/editorials/)
 
-**2021**
+&nbsp;
+&nbsp;
 
-<details>
-  <summary> <strong> <a href="https://soundcloud.com/user-494455196/episode-6-cruise-ships-and-empowerment">ICPSR Data Brunch Podcast</a> </strong> <a> May </a> </summary>
-      <blockquote> 
-       Discussed my research about the general equilibrium effects of cruise ship arrivals on women's employment and education in destination locations of developing countries. 
-     </blockquote>
-</details> 
+# [Media Features](/features/)
 
----------------------------------------
+&nbsp;
+&nbsp;
 
-Recognitions
-====
+# Recognitions
+
 
 <details>
   <summary> <strong> <a href="https://journals.sagepub.com/doi/10.1177/05694345231154682" target="_blank">Michael Szenberg Prize for the Best Article Published in The American Economist</a> </strong> </summary>
@@ -72,78 +57,5 @@ Recognitions
       Earned rank of Eagle Scout with 3 Palms with Troop 496 for the Boy Scouts
      </blockquote>
 </details>
-
----------------------------------------
-
-Media Features
-====
-
-**2022**
-
-<details>
-  <summary> <strong> <a href="https://t.e2ma.net/webview/3tw3eg/cebcad2b9eac7701505d91bd94a8964e">USF Economics Newsletter Spring Issue Vol. 22</a> </strong> <a> June </a> </summary>
-      <blockquote> 
-       Announcement of starting a PhD at the University of Minnesota
-     </blockquote>
-</details>  
-
-<details>
-  <summary> <strong> <a href="https://www.linkedin.com/pulse/meet-idec-alum-ryan-mcway-20-usfeconomics/?trackingId=1tp8kxJnpvD5ZJ%2BWz7nzRA%3D%3D">USF Economics Alumni Interview Series</a> </strong> <a> April </a> </summary>
-      <blockquote> 
-       Interview discussing my IDEC experience and current research endeavours at the University of Michigan
-     </blockquote>
-</details>  
-
-**2021**
-
-<details>
-  <summary> <strong> <a href="https://lsa.umich.edu/urop/news-events/all-news/search-news/ryan-mcway--research-area-specialist-associate.html">UROP Research Mentor Spotlight</a> </strong> <a> April </a> </summary>
-      <blockquote> 
-       Spotlighted by the Undegraduate Research Opportunities Program (UROP) for my role as a UROP research mentor for Chenhao Yu
-     </blockquote>
-</details>  
-
-<details>
-  <summary> <strong> <a href="https://www.dropbox.com/s/bz0t4m2fx8hvg4p/Econ%20Newsletter%20Spring%20Issue%20Vol.%2021.pdf?dl=0">USF Economics Newsletter Spring Issue Vol. 21</a> </strong> <a> April </a> </summary>
-      <blockquote> 
-       Recognized for earning the Irving Fisher Award
-     </blockquote>
-</details>  
-
-**2020**
-
-<details>
-  <summary> <strong> <a href="https://www.dropbox.com/s/r8uuyq7d34wei5u/Econ%20Newsletter%20Fall%20Issue%20Vol.%2020.pdf?dl=0" target="_blank">USF Economics Newsletter Fall Issue Vol. 20</a> </strong> <a> September </a> </summary>
-      <blockquote> 
-       Recognized for Jacques Artus Award and CARD presentation
-     </blockquote>
-</details>     
-
-<details>
-  <summary> <strong> <a href="https://www.linkedin.com/pulse/idecinterviewseries-jacques-artus-award-winner-2020-zumel-dumlao/?trackingId=r0MpoGcHSdR1jEircJs2Fw%3D%3D" target="_blank">MS IDEC Interview Series</a> </strong> <a> May </a> </summary>
-      <blockquote> 
-       Featured in the 2020 MS IDEC Interview Series
-     </blockquote>
-</details>
-
-**2019**
-
-<details>
-  <summary> <strong> <a href="https://player.vimeo.com/video/363388307?autoplay=1" target="_blank">MS IDEC Promotional Video</a> </strong> <a> December </a> </summary>
-      <blockquote> 
-       Selected to represent the USF MS IDEC program in the new 2019 promotional video
-     </blockquote>
-</details>
-
-**2018**
-
-<details>
-  <summary> <strong> <a href="https://www.slu.edu/madrid/news/2018/2018-pre-commencement-awards-ceremony.php" target="_blank">SLU-Madrid News</a> </strong> <a> May </a> </summary>
-      <blockquote> 
-      Recognized for distiguished graduating cumulative GPA
-     </blockquote>
-</details>
-       
-
 
 
