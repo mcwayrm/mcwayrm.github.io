@@ -1,15 +1,12 @@
 ---
 layout: archive
-title: "Reports"
+title: "Technical Reports"
 permalink: /reports/
 author_profile: true
 ---
 
 <!-- Title, Coauthors, Abstract, Paper link, preprint researchgate link, LaTeX presentation, twitter thread, video explanation, replication code, replication data, media coverage -->
 
-
-Technical Reports
-========
 
 6\. *An Evaluation of the PEPFAR-Funded Força à Comunidade e Crianças (FCC) Program in Mozamique*
 
