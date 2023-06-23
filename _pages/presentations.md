@@ -5,7 +5,8 @@ permalink: /presentations/
 author_profile: true
 ---
 
-
+**2022**
+  * [Applied Economics Seminar Series, University of Minnesota](https://apecseminar.github.io/past_schedules/schedule_2023_spring.html)
 
 **2022**
   * [Community Development Branch, Federal Reserve Bank of Cleveland](https://www.clevelandfed.org/community-development)
