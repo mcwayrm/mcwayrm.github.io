@@ -9,10 +9,10 @@ author_profile: true
 
 
 
-Working Papers
-========
+## Working Papers
 
-2\. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* [Under Review]
+
+1\. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* [Under Review]
 
 &nbsp;&nbsp;&nbsp;  (with [Palavi Prabhakar](https://ug.linkedin.com/in/pallavi-prabhakar-55b48485), and [Ayo Ellis](https://www.pasrc.org/members/individuals/ayo-d-ellis))
 <details>
@@ -28,25 +28,15 @@ Working Papers
 >  * **Keywords:** `Early Childhood Development` `Health` `Meta-anlaysis` `Systematic Review`
 
 
-1\. *Does Board Gender Diversity and Remuneration Impact Earnings Quality? Evidence from Spanish Firms* [Under Review]
-  
-&nbsp;&nbsp;&nbsp;  (with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Pablo San Martin](https://www.facea.ucsc.cl/persona/pablo-san-martin/))
-<details>
-  <summary> <strong> Abstract: </strong> </summary>
-      <blockquote> A key function of the board of directors is ensuring earnings quality (EQ) to signal firm performance to investors and stakeholders. Using a panel of 105 non-financial Spanish listed firms from 2013 to 2018, we investigate how gender diversity on the board of directors and board remuneration influence earnings quality. The empirical method uses a Tobit semiparametric estimator with firm-industry level fixed effects and an innovative set of measures for earnings quality developed by StarMine. Our results exhibit a consistent and positive correlation of increased gender diversity on earnings quality of a firm, suggesting that a gender-balanced board of directors is associated with more transparent financial reporting and informative earnings. We also find a non-monotonic, inverse U-shaped relationship between board remuneration and earnings quality. This indicates that at a certain point, excessive board compensations lead to more opportunistic manipulation of financial reporting with the subsequent dilution of earnings quality. Increasing female representation on the board of directors and optimizing board compensation subsequently improve earnings quality. Majority of Spanish firms are both lacking in board gender diversity as well as sub-optimally remunerating their board regarding maximizing earnings quality. Policy recommendations are derived from these findings.  
-     </blockquote>
-</details>
-
->  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965107), [Research Gate](https://www.researchgate.net/publication/356381356_Does_Board_Gender_Diversity_and_Remuneration_Impact_Earnings_Quality_Evidence_from_Spanish_Firms)
->  
->  * **Keywords:** `Earnings Quality` `Board Gender Diversity` `Board Remuneration` `Spain`
 
 
+## Works in Progress
 
----------------------------------------
 
-Works in Progress
-========
+4.\ *The locusts have no king, yet go they forth all of them by bands’ (Proverbs 30:27): Locust Swarms and Economic
+Damages* (with Mustafa Zahid)
+
+3.\ *The Economic Value of Protected Areas* (with Matthew Braaskma)
 
 2\. *American Tornadoes: Tornado Shocks on U.S. Metropolises* (with Jesse Antilla-Hughes)
 
@@ -55,10 +45,9 @@ Works in Progress
 1\. *Sex and Sexual Orientation in Economic Preferences* (with Alessandra Cassar and Elizabeth Pillsworth)
 
 
----------------------------------------
 
-Permenant Working Papers
-========
+## Permenant Working Papers
+
 
 2\. *Setting Up a Dofile for Team Research* [Under Review]
 

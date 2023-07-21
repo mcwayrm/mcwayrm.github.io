@@ -16,10 +16,4 @@ author_profile: true
      </blockquote>
 </details> 
 
----------------------------------------
-
-
-       
-
-
 

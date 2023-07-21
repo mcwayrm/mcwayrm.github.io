@@ -42,11 +42,11 @@ A part of my role in academia is to assist others in achieving their goals. Thro
 | [Sidi Cheng](https://wilder.vcu.edu/people/doctoral-students/sidi-cheng.html) | &rarr; | Virginia Commonwealth University |
 | Chenhao Yu | &rarr; | University of Chicago |
 
-<!--
+
 ## Mentorship Programs
 
-| [Ivan Manhique](https://www.researchgate.net/profile/Ivan-Manhique) | Service Leadership Program | &rarr; | University of Essex |
+| [Joeseph Glaser](https://www.linkedin.com/in/joseph-glaser-284455265) | Service Leadership Program | &rarr; | TBD |
 | :---        | :---        |    :----:   |          ---: |
-| [Ivan Manhique](https://www.researchgate.net/profile/Ivan-Manhique) | Service Leadership Program | &rarr; | University of Essex |
+| [Nick Parafiniuk](https://dspslu.wixsite.com/website-1/contact-us-1) | Service Leadership Program | &rarr; | TBD |
 
--->
+
