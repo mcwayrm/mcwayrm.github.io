@@ -12,7 +12,7 @@ author_profile: true
 ## Working Papers
 
 
-1\. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* [Under Review]
+1. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* [Under Review]
 
 &nbsp;&nbsp;&nbsp;  (with [Palavi Prabhakar](https://ug.linkedin.com/in/pallavi-prabhakar-55b48485), and [Ayo Ellis](https://www.pasrc.org/members/individuals/ayo-d-ellis))
 <details>
@@ -33,23 +33,23 @@ author_profile: true
 ## Works in Progress
 
 
-4.\ *The locusts have no king, yet go they forth all of them by bands’ (Proverbs 30:27): Locust Swarms and Economic
+4. *The locusts have no king, yet go they forth all of them by bands’ (Proverbs 30:27): Locust Swarms and Economic
 Damages* (with Mustafa Zahid)
 
-3.\ *The Economic Value of Protected Areas* (with Matthew Braaskma)
+3. *The Economic Value of Protected Areas* (with Matthew Braaskma)
 
-2\. *American Tornadoes: Tornado Shocks on U.S. Metropolises* (with Jesse Antilla-Hughes)
+2. *American Tornadoes: Tornado Shocks on U.S. Metropolises* (with Jesse Antilla-Hughes)
 
 >  * **Slides:** [MUSE 2021 Slides](/files/MUSE_prez.pdf)
 
-1\. *Sex and Sexual Orientation in Economic Preferences* (with Alessandra Cassar and Elizabeth Pillsworth)
+1. *Sex and Sexual Orientation in Economic Preferences* (with Alessandra Cassar and Elizabeth Pillsworth)
 
 
 
 ## Permenant Working Papers
 
 
-2\. *Setting Up a Dofile for Team Research* [Under Review]
+2. *Setting Up a Dofile for Team Research* [Under Review]
 
 &nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), and [Hang Yu](https://www.econhangyu.com/home))
 <details>
@@ -62,7 +62,7 @@ Damages* (with Mustafa Zahid)
 >
 >  * **Keywords:** `Team Research` `Workflow` `Reproducibility` `Dofile` `Stata`
 
-1\. *Contrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms*
+1. *Contrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms*
   
 &nbsp;&nbsp;&nbsp;  (with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Mauricio Jara Bertin](https://scholar.google.com.sg/citations?user=A48L9BMAAAAJ&hl=en))
 <details>

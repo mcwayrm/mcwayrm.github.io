@@ -8,7 +8,7 @@ author_profile: true
 <!-- Title, Coauthors, Abstract, Paper link, preprint researchgate link, LaTeX presentation, twitter thread, video explanation, replication code, replication data, media coverage -->
 
 
-6\. *An Evaluation of the PEPFAR-Funded Força à Comunidade e Crianças (FCC) Program in Mozamique*
+6. *An Evaluation of the PEPFAR-Funded Força à Comunidade e Crianças (FCC) Program in Mozamique*
 
 &nbsp;&nbsp;&nbsp;  (with [Dean Yang](https://sites.lsa.umich.edu/deanyang/), [James Allen IV](https://sites.google.com/view/jamesalleniv), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), and [Hang Yu](https://www.econhangyu.com/home)) 
 <details>
@@ -24,7 +24,7 @@ author_profile: true
 
 
 
-5\. *Combatting COVID-19 in Mozambique: Correcting Misperceptions about Support for Social Distancing to Combat COVID-19*
+5. *Combatting COVID-19 in Mozambique: Correcting Misperceptions about Support for Social Distancing to Combat COVID-19*
 
 &nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [Laston Manja](https://laston-manja.github.io/), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), Kwasi Tabiri, and [Hang Yu](https://www.econhangyu.com/home)) 
 <details>
@@ -38,7 +38,7 @@ author_profile: true
 >  * **Keywords:** `COVID-19` `Social Norm Correction` `Social Distancing` `Mozambique`
 
 
-4\. *Combatting COVID-19 in Mozambique: Combining Financial Incentives and Teaching to Improve COVID-19 Knowledge*
+4. *Combatting COVID-19 in Mozambique: Combining Financial Incentives and Teaching to Improve COVID-19 Knowledge*
 
 &nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [Laston Manja](https://laston-manja.github.io/), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), Kwasi Tabiri, and [Hang Yu](https://www.econhangyu.com/home)) 
 <details>
@@ -52,7 +52,7 @@ author_profile: true
 >  * **Keywords:** `COVID-19` `Teaching Incentives` `Financial Incentives` `Mozambique`
 
 
-3\. *Combating COVID-19 in Mozambique: Round 4 Summary Report*
+3. *Combating COVID-19 in Mozambique: Round 4 Summary Report*
 
 &nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Maggie Barnard, [Zach Brown](http://www-personal.umich.edu/~zachb/), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [Laston Manja](https://laston-manja.github.io/), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), and [Hang Yu](https://www.econhangyu.com/home)) 
 <details>
@@ -65,7 +65,7 @@ author_profile: true
 >  
 >  * **Keywords:** `COVID-19` `Vaccination` `Mozambique`
 
-2\. *Combating COVID-19 in Mozambique: Round 3 Summary Report*
+2. *Combating COVID-19 in Mozambique: Round 3 Summary Report*
 
 &nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Maggie Barnard, Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), Erik Tiersten-Nyman, [Dean Yang](https://sites.lsa.umich.edu/deanyang/), and [Hang Yu](https://www.econhangyu.com/home)) 
 <details>
@@ -79,7 +79,7 @@ author_profile: true
 >  
 >  * **Keywords:** `COVID-19` `Additional Employment` `Altruism` `School`  `Mozambique`
 
-1\. *Combating COVID-19 in Mozambique: Round 2 Summary Report*
+1. *Combating COVID-19 in Mozambique: Round 2 Summary Report*
   
 &nbsp;&nbsp;&nbsp;  (with [James Allen IV](https://sites.google.com/view/jamesalleniv), Patricia Freitag, [Faustino Lessitala](https://www.researchgate.net/profile/Faustino_Lessitala), [Arlete Mahumane](https://basis.ucdavis.edu/people/arlete-mahumane), [James Riddell IV](https://www.uofmhealth.org/profile/362/james-riddell-iv-md), [Tanya Rosenblat](https://www.tanyarosenblat.org/), [Dean Yang](https://sites.lsa.umich.edu/deanyang/), and [Hang Yu](https://www.econhangyu.com/home)) 
 <details>

@@ -26,7 +26,7 @@ My experience in teaching comes from my roles instructing economics and mathemat
 | ECON 427 | Applied Econometrics Capstone  | Bachelors |  University of San Francisco | [Michael Jonas](https://scholar.google.com/citations?user=c97cvAwAAAAJ&hl=en) | [2020](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=189556) |
 | ECON 312 | Intermediate Macroeconomics  | Bachelors |  University of San Francisco | [Todd Fitch](https://www.usfca.edu/faculty/todd-fitch) | [2020](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186549) |
 | ECON 111 | Principles of Microeconomics  | Bachelors |  University of San Francisco | [Norman Lo](https://normanlo4319.github.io/Norman_Lo_Web/) | [2020](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186538) |
-| ECON 615 | Principles of Microeconomics  | Bachelors |  University of San Francisco | [Alessandra Cassar](https://www.alessandracassar.net/) | [2019](https://catalog.usfca.edu/preview_program.php?catoid=22&poid=13244&returnto=3107) |
+| ECON 615 | Mathematics for Economists  | Masters |  University of San Francisco | [Alessandra Cassar](https://www.alessandracassar.net/) | [2019](https://catalog.usfca.edu/preview_program.php?catoid=22&poid=13244&returnto=3107) |
 | ECON 112 | Principles of Macroeconomics  | Bachelors |  University of San Francisco | [Todd Fitch](https://www.usfca.edu/faculty/todd-fitch) | [2019](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186539) |
 
 

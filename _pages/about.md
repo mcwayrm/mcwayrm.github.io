@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- Should add a cover photo. Maybe from the field -->
 
-# Short Bibliography
+## Short Bibliography
 
 Ryan is an economic researcher. He is currently a second year PhD student in the Applied Economics program at the [University of Minnesota](https://apec.umn.edu/people/ryan-mcway). He is currently a research assistant working with [Chengyan Yue](https://horticulture.umn.edu/people/chengyan-yue) studying applications in nueroeconomics. Previously, Ryan held an appointment at the University of Michigan, [Institute for Social Research](https://isr.umich.edu/) and [Population Studies Center](https://www.psc.isr.umich.edu/people/staff.html) working alongside Prof. [Dean Yang](https://sites.lsa.umich.edu/deanyang/). Ryan is also a graduate student member of the [Minnesota Population Center](https://pop.umn.edu/people/ryan-mcway), an active member of the [Johnson Polasky Lab](https://johnsonpolaskylab.umn.edu/home/about-lab),  an active member of the [Development Economics @ Michigan](https://devecon.umich.edu/people/alumni/) community, and a member of [Econ Lab Without Borders](https://www.alessandracassar.net/econ-lab-without-borders.html). Ryan is a student member of the [American Econoimc Association (AEA)](https://www.aeaweb.org/), the [Agricultural & Applied Econoimcs Association (AAEA)](https://www.aaea.org/), and the Association of [Environmental and Resource Economists (AERE)](https://www.aere.org/).
 

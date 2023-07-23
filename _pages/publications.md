@@ -11,7 +11,7 @@ author_profile: true
 ## Journal Articles
 
 
-2\. [*Does Board Gender Diversity and Remuneration Impact Earnings Quality? Evidence from Spanish Firms*](https://www.emerald.com/insight/content/doi/10.1108/GM-04-2021-0113/full/html)
+2. [*Does Board Gender Diversity and Remuneration Impact Earnings Quality? Evidence from Spanish Firms*](https://www.emerald.com/insight/content/doi/10.1108/GM-04-2021-0113/full/html)
   
 &nbsp;&nbsp;&nbsp;  (with [Paolo Saono](https://www.slu.edu/madrid/academics/faculty/paolo-saona.php), [Laura Muro](https://www.slu.edu/madrid/academics/faculty/laura-muro.php), and [Pablo San Martin](https://www.facea.ucsc.cl/persona/pablo-san-martin/))
 &nbsp;&nbsp;&nbsp; Gender in Management, 2023, Forthcoming
@@ -22,12 +22,12 @@ author_profile: true
 </details>
 
 >  * **Open Access:** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965107), [Research Gate](https://www.researchgate.net/publication/356381356_Does_Board_Gender_Diversity_and_Remuneration_Impact_Earnings_Quality_Evidence_from_Spanish_Firms)
->  
+>  * **Replication:** Per the request of a co-author, the replication packet is not publically posted. For any parties interested in replication of our results may reach out directly and I can provide them with our replication packet contingent that it not be made pubically avaliable and only used for their replication study.
 >  * **Keywords:** `Earnings Quality` `Board Gender Diversity` `Board Remuneration` `Spain`
 
 
 
-1\. [*Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education*](https://journals.sagepub.com/doi/abs/10.1177/05694345211054515?journalCode=aexb)
+1. [*Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education*](https://journals.sagepub.com/doi/abs/10.1177/05694345211054515?journalCode=aexb)
 
 &nbsp;&nbsp;&nbsp; The American Economist, 2022, 67(1), 5 - 23
 <details>

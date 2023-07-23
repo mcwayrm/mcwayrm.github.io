@@ -11,7 +11,7 @@ author_profile: true
 
 ---------------------------------------
 
-2\. *Global Ports*
+2. *Global Ports*
 
   > This dataframe provides a crosssection of the characteristics of port cities currently in operation. This covers 5,644 port cities globally as of 2020. This information was collected by combining information from [Wikidepida](https://en.wikipedia.org/wiki/List_of_cruise_ships), [Natrual Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/ports/) and [Central Intelligence Agency](https://www.cia.gov/library/publications/the-world-factbook/fields/388.html). The primary application of this data is for analyses that involve port level attributes.
   >  
@@ -23,7 +23,7 @@ author_profile: true
   * **[DOI](https://www.researchgate.net/publication/348607255_Global_Ports_Metadata):** 10.13140/RG.2.2.17074.43208
   * **Last Updated:** Jan. 19th 2021 
 
-1\. *Cruise Ship Characteristics Information*
+1. *Cruise Ship Characteristics Information*
 
   > This dataframe provides a crosssection of the characteristics of cruise ship vessels currently in operation. This covers 525 vessels as the beginning of 2020. This information was collected by combining information from [Wikidepida](https://en.wikipedia.org/wiki/List_of_cruise_ships) and [Vessel Finder](https://www.vesselfinder.com/vessels). The primary application of this data is for cruise tourism or cruise ship activity.
   >  

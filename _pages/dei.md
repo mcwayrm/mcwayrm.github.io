@@ -9,9 +9,9 @@ author_profile: true
 
 [^1]:  Bellemare, Marc F. (2022). Doing Economics: What You Should Have Learned in Grad School - But Didn't. Cambridge Massachusetts: The MIT Press. p. 150
 
-Currently, I sit on the [DEI Committee](https://isrdi.umn.edu/equity-diversity/dei) at the University of Minnesota, Institute for Social Research and Data Innovation (ISRDI). In this role, I have helped with the promotion of diverse scholars within the social science community. A major accomplishment of this committee being our Diversity Fellowship Program matching aspiring scholars from under-represented backgrounds with established reserachers and research projects at ISRDI. 
+Currently, I sit on the [DEI Committee](https://isrdi.umn.edu/equity-diversity/dei) at the University of Minnesota, Institute for Social Research and Data Innovation (ISRDI). In this role, I have helped with the promotion of diverse scholars within the social science community. A major accomplishment of this committee being our Diversity Fellowship Program matching aspiring scholars from under-represented backgrounds with established reserachers and research projects at ISRDI. Additionally, we curated a research support toolkit for ISRDI members in an attempt to democratize the hidden curriculum that underscores success and advancement in academia.  
 
-In my previous work as a research associate at the University Michigan, I have worked with several African scholars from Ghana, Malawi, and Mozambique. To support their further pursuit wihtin the economics profession, I have provided guidance as well as letters of support for them to pursue Master's programs and fellowships.
+In my previous work as a research associate at the University Michigan, I have worked with several African scholars from Ghana, Malawi, and Mozambique. To support their further pursuit within the economics profession, I have provided guidance as well as letters of support for them to pursue Master's programs and fellowships.
 
 
 <!-- Diversity, Equity, and Inclusion (DEI)
