@@ -36,7 +36,7 @@ author_profile: true
 4. *The locusts have no king, yet go they forth all of them by bands’ (Proverbs 30:27): Locust Swarms and Economic
 Damages* (with Mustafa Zahid)
 
-3. *The Economic Value of Protected Areas* (with Matthew Braaskma)
+3. *The Economic Value of Protected Areas in Conservation* (with Matthew Braaskma)
 
 2. *American Tornadoes: Tornado Shocks on U.S. Metropolises* (with Jesse Antilla-Hughes)
 

@@ -21,15 +21,15 @@ I have conducted fieldwork in five countries either for research or supporting N
 
 **Keywords:** `Public Health` `RCT` `HIV/AIDS` `COVID-19` `Social Distancing` `Knowledge` `Stigma` `Vaccination` `Community Health Workers` `Mozambique`
 
-<img src="/images/interview.jpg" width="350" height="350">
+<img src="/images/interview.jpg" width="75%">
 
-<img src="/images/interview_unidade_a_220520.jpg" width="350" height="350">
+<img src="/images/interview_unidade_a_220520.jpg" width="75%">
 
-<img src="/images/mountain_220531.jpg" width="350" height="350">
+<img src="/images/mountain_220531.jpg" width="75%">
 
-<img src="/images/unidade_g_group_3_220520.jpg" width="350" height="350">
+<img src="/images/unidade_g_group_3_220520.jpg" width="75%">
 
-<img src="/images/village_ambience_220330.JPG" width="350" height="350">
+<img src="/images/village_ambience_220330.JPG" width="75%">
 
 
 
@@ -42,11 +42,11 @@ I have conducted fieldwork in five countries either for research or supporting N
 **Keywords:** `BRAC` `RCT` `Targeting the Ultra Poor` `Graduation Program` `Mental Health` `VSLA` `Uganda`
 
 
-<img src="/images/ronald_in_field.jpg" width="350" height="350">
+<img src="/images/ronald_in_field.jpg" width="75%">
 
-<img src="/images/kampala_market_place.jpg" width="350" height="350">
+<img src="/images/kampala_market_place.jpg" width="75%">
 
-<img src="/images/ester_dufluff.jpg" width="350" height="350">
+<img src="/images/ester_dufluff.jpg" width="75%">
 
 <!--
 Madrid, Spain
@@ -79,7 +79,7 @@ STL | LIFT Additionally assisted in local program engaging vulenarble youth with
 
 **Keywords:** `Global Brigades` `Financial Literacy` `VSLA` `Honduras`
 
-<img src="/images/landscape_buena_vista.jpg" width="350" height="350" class="center">
+<img src="/images/landscape_buena_vista.jpg" width="75%">
 
 
 
@@ -90,11 +90,11 @@ STL | LIFT Additionally assisted in local program engaging vulenarble youth with
 
 **Keywords:** `Piazza Grande` `Migration` `Homelessness` `Mental Health` `Italy`
 
-<img src="/images/happy_center_sign.jpg" width="350" height="350">
+<img src="/images/happy_center_sign.jpg" width="75%">
 
-<img src="/images/happy_center_party.jpg" width="350" height="350">
+<img src="/images/happy_center_party.jpg" width="75%">
 
-<img src="/images/happy_center_room.jpg" width="350" height="350">
+<img src="/images/happy_center_room.jpg" width="75%">
 
 
 
@@ -105,10 +105,10 @@ STL | LIFT Additionally assisted in local program engaging vulenarble youth with
 
 **Keywords:** `Service Leadership` `Education` `Gang Violence` `Belize`
 
-<img src="/images/ryan_teaching_st_martin_porres.png" width="350" height="350">
+<img src="/images/ryan_teaching_st_martin_porres.png" width="75%">
 
-<img src="/images/saint_martin_de_porres.JPG" width="350" height="350">
+<img src="/images/saint_martin_de_porres.JPG" width="75%">
 
-<img src="/images/belize_city.JPG" width="350" height="350">
+<img src="/images/belize_city.JPG" width="75%">
 
 
