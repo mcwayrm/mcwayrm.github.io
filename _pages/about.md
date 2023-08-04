@@ -14,11 +14,11 @@ redirect_from:
 Ryan is an economic researcher. He is currently a second year PhD student in the Applied Economics program at the [University of Minnesota](https://apec.umn.edu/people/ryan-mcway). 
 He is currently a research assistant working with [Chengyan Yue](https://horticulture.umn.edu/people/chengyan-yue) studying applications in neuroeconomics. 
 Previously, Ryan held an appointment at the University of Michigan, [Institute for Social Research](https://isr.umich.edu/) and [Population Studies Center](https://www.psc.isr.umich.edu/people/staff.html) working alongside Prof. [Dean Yang](https://sites.lsa.umich.edu/deanyang/). 
-Ryan is also a graduate student member of the [Minnesota Population Center](https://pop.umn.edu/people/ryan-mcway), an active member of the [Johnson Polasky Lab](https://johnsonpolaskylab.umn.edu/home/about-lab), and a member of [Econ Lab Without Borders](https://www.alessandracassar.net/econ-lab-without-borders.html). 
-Ryan is a student member of the [American Econoimc Association (AEA)](https://www.aeaweb.org/), the [Agricultural & Applied Econoimcs Association (AAEA)](https://www.aaea.org/), and the Association of [Environmental and Resource Economists (AERE)](https://www.aere.org/).
+Ryan is also a graduate student member of the [Minnesota Population Center](https://pop.umn.edu/people/ryan-mcway), an active member of the [Johnson Polasky Lab](https://johnsonpolaskylab.umn.edu/lab-team), and a member of [Econ Lab Without Borders](https://www.alessandracassar.net/econ-lab-without-borders.html). 
+Ryan is a student member of the [American Economic Association (AEA)](https://www.aeaweb.org/), the [Agricultural & Applied Economics Association (AAEA)](https://www.aaea.org/), and the Association of [Environmental and Resource Economists (AERE)](https://www.aere.org/).
 
 His [research](/research/) aims are focused on improving development outcomes in regional and global settings.  
-Ryan's research interests focus on Applied Microeconomics with specific concentrations in development economics, behavioral economics, environmental economics, and urban economics. 
+Ryan's research interests focus on applied microeconomics with specific concentrations in development economics, behavioral economics, environmental economics, and urban economics. 
 Ryan has conducted household and over-the-phone field surveys in a variety of [countries](/fieldwork/). 
 Ryan completed his MS in International and Development Economics at the University of San Francisco (USF), and his BS in Economics and BS in International Business at Saint Louis University (SLU). 
 Ryan is an alumni of the [Development Economics @ Michigan](https://devecon.umich.edu/people/alumni/) community.
