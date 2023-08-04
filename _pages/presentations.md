@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **2023**
-  * [Upper Mississippi River Basin Ecosystem Services Project (UMRBESP) Workshop]()
+  * [Upper Mississippi River Basin Ecosystem Services Project (UMRBESP) Workshop](/files/UMRBESP_workshop_program_230803.pdf)
   * [Nordic Conference in Development Economics (NCDE)](https://www.gu.se/en/school-business-economics-law/economics/overview-and-detailed-program-for-ncde2023)
   * [CFANS Research Symposium, University of Minnesota](https://drive.google.com/file/d/1aiigGWexwoxBbugpZSNcOiIydszv5geh/view)
   * [Applied Economics Seminar Series, University of Minnesota](https://apecseminar.github.io/past_schedules/schedule_2023_spring.html)
