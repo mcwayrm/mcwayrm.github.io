@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 
+**2023**
+<details>
+  <summary> <strong> <a href="https://ageconsearch.umn.edu/record/337161?ln=en">Minnesota Applied Economist Vol. 741, Summer Issue</a> </strong> <a> July </a> </summary>
+      <blockquote> 
+       Recognition of the CF Future Leaders Fellowship. 
+     </blockquote>
+</details>
+
 **2022**
 
 <details>
