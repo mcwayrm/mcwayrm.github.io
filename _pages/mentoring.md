@@ -32,6 +32,7 @@ A part of my role in academia is to assist others in achieving their goals. Thro
 
 ## Research Assistants
 
+| Research Assistant |  | Placement |
 | [Ivan Manhique](https://www.researchgate.net/profile/Ivan-Manhique) | &rarr; | University of Essex |
 | :---        |    :----:   |          ---: |
 | [Kwasi Tabiri](https://gh.linkedin.com/kwasi-gyabaa-tabiri-143021a1) | &rarr; | McGill University |
@@ -45,6 +46,7 @@ A part of my role in academia is to assist others in achieving their goals. Thro
 
 ## Mentorship Programs
 
+| Mentee |  | Placement |
 | [Joeseph Glaser](https://www.linkedin.com/in/joseph-glaser-284455265) | Service Leadership Program | &rarr; | TBD |
 | :---        | :---        |    :----:   |          ---: |
 | [Nick Parafiniuk](https://dspslu.wixsite.com/website-1/contact-us-1) | Service Leadership Program | &rarr; | TBD |

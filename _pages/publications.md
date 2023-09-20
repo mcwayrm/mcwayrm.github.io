@@ -8,7 +8,7 @@ author_profile: true
 <!-- Title, Coauthors, Abstract, Paper link, preprint researchgate link, LaTeX presentation, twitter thread, video explanation, replication code, replication data, media coverage -->
 
 
-## Journal Articles
+# Journal Articles
 
 
 2. [*Does Board Gender Diversity and Remuneration Impact Earnings Quality? Evidence from Spanish Firms*](https://www.emerald.com/insight/content/doi/10.1108/GM-04-2021-0113/full/html)

@@ -31,9 +31,9 @@ Ryan is an alumni of the [Development Economics @ Michigan](https://devecon.umic
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Development Economics***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Environmental Economics***
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Behavioral Economics***
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Environmental Economics***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Urban Economics***
 

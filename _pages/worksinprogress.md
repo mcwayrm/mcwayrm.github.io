@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-## Working Papers
+# Working Papers
 
 
 1. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* [Under Review]
@@ -30,7 +30,7 @@ author_profile: true
 
 
 
-## Works in Progress
+# Works in Progress
 
 
 4. *The locusts have no king, yet go they forth all of them by bands’ (Proverbs 30:27): Locust Swarms and Economic
