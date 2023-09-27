@@ -12,7 +12,7 @@ author_profile: true
 # Working Papers
 
 
-1. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* [Under Review]
+2. *A Systematic Review and Meta-Analysis of the Impact of Early Childhood Development on Child Health Outcomes* [Under Review]
 
 &nbsp;&nbsp;&nbsp;  (with [Palavi Prabhakar](https://ug.linkedin.com/in/pallavi-prabhakar-55b48485), and [Ayo Ellis](https://www.pasrc.org/members/individuals/ayo-d-ellis))
 <details>
@@ -27,6 +27,20 @@ author_profile: true
 >  
 >  * **Keywords:** `Early Childhood Development` `Health` `Meta-anlaysis` `Systematic Review`
 
+
+1. *Market Access and Quality Upgrading: Evidence from Four Field Experiments. A Replication Study of Bold et al. (American Economic Review, 2022)* [Under Review]
+
+&nbsp;&nbsp;&nbsp;  (with [Karim Nchare](), and [Pu Sun]())
+<details>
+  <summary> <strong> Abstract: </strong> </summary>
+      <blockquote> Bold et al. (2022) investigate the effect of providing access to a larger, centralized market where quality is rewarded with a premium on farm productivity and framing incomes from smallholder maize farmers in western Uganda, using a series of randomized experiments and a difference-in-differences approach. We successfully reproduce the results of this study using the publicly provided replication packet. Then test the robustness of these results by re-defining treatment and outcome variables, testing for model misspecification and the leverage of outliers, and testing for non-random selection in the Fisher-permutation process. Our results show that the findings in Bold et al. (2022) are robust to a variety of decisions in the research process. This evokes confidence in the internal validity of the findings. 
+     </blockquote>
+</details>
+
+>  * **Open Access:** [I4R Discussion Paper Series](https://www.rwi-essen.de/fileadmin/user_upload/RWI/Publikationen/I4R_Discussion_Paper_Series/072_I4R_McWay_Nchare_Sun.pdf)
+>  * **Replication:** [ZBW Journal Data Archive](https://journaldata.zbw.eu/dataset/bold-et-al-american-economic-review-2022)
+>  
+>  * **Keywords:**  `Reproducibility` `Replication` `Farm Productivity` `Economic Development`
 
 
 
