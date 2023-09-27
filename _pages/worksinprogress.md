@@ -30,7 +30,7 @@ author_profile: true
 
 1. *Market Access and Quality Upgrading: Evidence from Four Field Experiments. A Replication Study of Bold et al. (American Economic Review, 2022)* [Under Review]
 
-&nbsp;&nbsp;&nbsp;  (with [Karim Nchare](), and [Pu Sun]())
+&nbsp;&nbsp;&nbsp;  (with [Karim Nchare](https://sites.google.com/view/karimnchare/accueil), and [Pu Sun](https://ca.linkedin.com/in/%E7%92%9E-%E5%AD%99-513373194/en))
 <details>
   <summary> <strong> Abstract: </strong> </summary>
       <blockquote> Bold et al. (2022) investigate the effect of providing access to a larger, centralized market where quality is rewarded with a premium on farm productivity and framing incomes from smallholder maize farmers in western Uganda, using a series of randomized experiments and a difference-in-differences approach. We successfully reproduce the results of this study using the publicly provided replication packet. Then test the robustness of these results by re-defining treatment and outcome variables, testing for model misspecification and the leverage of outliers, and testing for non-random selection in the Fisher-permutation process. Our results show that the findings in Bold et al. (2022) are robust to a variety of decisions in the research process. This evokes confidence in the internal validity of the findings. 
