@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ryan McWay"
-excerpt: "Microeconomic and Development Researcher"
+excerpt: "Microeconomics Researcher"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,6 +22,22 @@ His [research](/research/) aims are focused on improving development outcomes in
 Ryan has conducted household and over-the-phone field surveys in a variety of [countries](/fieldwork/). 
 Ryan completed his MS in International and Development Economics at the University of San Francisco (USF), and his BS in Economics and BS in International Business at Saint Louis University (SLU). 
 Ryan is an alumni of the [Development Economics @ Michigan](https://devecon.umich.edu/people/alumni/) community.
+
+# Contact Information
+
+Email: mcway005@umn.edu
+
+Phone: +1 612 -- 625 -- 1222
+
+Personal Website: https://mcwayrm.github.io 
+
+UMN Department Website: https://apec.umn.edu/people/ryan-mcway
+
+Mailing Address: 
+
+> 1994 Buford Ave, 316A Ruttan Hall, 
+> Department of Applied Economics, University of Minnesota,  
+> Saint Paul, MN, USA 55108 -- 6040
 
 # [Curriculum Vitae](/cv/)
 
