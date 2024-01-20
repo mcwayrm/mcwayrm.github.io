@@ -25,16 +25,11 @@ Ryan is an alumni of the [Development Economics @ Michigan](https://devecon.umic
 
 # Contact Information
 
-Email: mcway005@umn.edu
-
-Phone: +1 612 -- 625 -- 1222
-
-Personal Website: https://mcwayrm.github.io 
-
-UMN Department Website: https://apec.umn.edu/people/ryan-mcway
-
-Mailing Address: 
-
+> **Email:** mcway005@umn.edu
+> **Phone:** +1 612 -- 625 -- 1222
+> **Personal Website:** https://mcwayrm.github.io 
+> **UMN Department Website:** https://apec.umn.edu/people/ryan-mcway
+> **Mailing Address:** 
 > 1994 Buford Ave, 316A Ruttan Hall, 
 > Department of Applied Economics, University of Minnesota,  
 > Saint Paul, MN, USA 55108 -- 6040
