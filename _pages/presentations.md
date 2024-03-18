@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 **2024** 
-  * [CFANS Research Symposium, University of Minnesota]()
-  * [Saint Louis University - Madrid Undergraduate Conference](/files/slu_ug_conference_2024.pdf)
+  * [CFANS Research Symposium, University of Minnesota](https://drive.google.com/file/d/1lCBgLmvMZrrLMb0kEnO_DbRokth565Kt/view)
+  * [Saint Louis University - Mission Meets Conference](/files/slu_ug_conference_2024.pdf)
   * [American Economic Association ASSA Annual Meeting](https://www.aeaweb.org/conference/2024/preliminary/2063?q=eNo1izEKgDAQBP-ytYUWNr5BO3s54oEHxoRcXFRE8ndPxG5nmbmhrCphG6_I6O4f0aFBqUCqwRmgQubkbQ3upMtQmZJbevGS9Q1pz0tI00qa_3g28UvF87cO4fO1U4x2tDVKeVwwHoopfA,,)
 
 **2023**
