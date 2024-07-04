@@ -1,0 +1,195 @@
+---
+title: "Teaching"
+comments: false
+---
+
+# Teaching Statement
+
+Forthcoming...
+
+# Instruction
+
+
+My experience in teaching comes from my roles instructing economics and mathematics from the undergraduate level to the doctoral level.
+
+
+## Instructor
+
+| Course | Title  | Level |  Institution | Course Link |
+| :---        |    :----:   |    :----:   |    :----:   |          ---: |
+| APEC 1201 | App. of Excel in Econ. & Mgmt.  | Bachelors |  University of Minnesota | [2024]() |
+|           | Applied Economics Math Review  | Doctoral |  University of Minnesota | [2023](https://github.com/mcwayrm/apec_math_review_2023) |
+
+
+
+## Teaching Assistant
+
+
+| Course | Title  | Level |  Institution | Instructor | Course Link |
+| :---        |    :----:   |    :----:   |    :----:   |    :----:   |          ---: |
+| APEC 3003 | Intro. to Applied Econometrics  | Bachelors |  University of Minnesota | [Charlotte Ambrozek](https://charlotteambrozek.weebly.com/) |  [2023](https://onestop2.umn.edu/pcas/viewCatalogCourse.do?courseId=814054) |
+| ECON 620 | Graduate Econometrics  | Masters |  University of San Francisco | [Jesse Antilla-Hughes](https://sites.google.com/site/jesseanttilahughes/) | [2020](https://catalog.usfca.edu/preview_program.php?catoid=22&poid=13244&returnto=3107) |
+| ECON 427 | Applied Econometrics Capstone  | Bachelors |  University of San Francisco | [Michael Jonas](https://scholar.google.com/citations?user=c97cvAwAAAAJ&hl=en) | [2020](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=189556) |
+| ECON 312 | Intermediate Macroeconomics  | Bachelors |  University of San Francisco | [Todd Fitch](https://www.usfca.edu/faculty/todd-fitch) | [2020](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186549) |
+| ECON 111 | Principles of Microeconomics  | Bachelors |  University of San Francisco | [Norman Lo](https://normanlo4319.github.io/Norman_Lo_Web/) | [2020](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186538) |
+| ECON 615 | Mathematics for Economists  | Masters |  University of San Francisco | [Alessandra Cassar](https://www.alessandracassar.net/) | [2019](https://catalog.usfca.edu/preview_program.php?catoid=22&poid=13244&returnto=3107) |
+| ECON 112 | Principles of Macroeconomics  | Bachelors |  University of San Francisco | [Todd Fitch](https://www.usfca.edu/faculty/todd-fitch) | [2019](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186539) |
+
+
+
+## Tutoring
+
+
+**University of San Francisco**
+
+
+<details>
+  <summary> <strong> BUS 302 Marketing Principles </strong> </summary>
+   <ul>
+     <li> Level: Undergraduate Course </li>
+     <li><a href="https://catalog.usfca.edu/preview_course_nopop.php?catoid=35&coid=530317" target="_blank">Course Link</a></li>
+   </ul>
+</details>  
+
+<details>
+  <summary> <strong> ECON 112 Principles of Macroeconomics </strong> </summary>
+   <ul>
+     <li> Level: Undergraduate Course </li>
+     <li><a href="https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186539" target="_blank">Course Link</a></li>
+   </ul>
+</details> 
+
+<details>
+  <summary> <strong> ECON 312 Intermediate Macroeconomics </strong> </summary>
+   <ul>
+     <li> Level: Undergraduate Course </li>
+     <li><a href="https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186549" target="_blank">Course Link</a></li>
+   </ul>
+</details> 
+
+<details>
+  <summary> <strong> ECON 372 Development Economics </strong> </summary>
+   <ul>
+     <li> Level: Undergraduate Course </li>
+     <li><a href="https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186554" target="_blank">Course Link</a></li>
+   </ul>
+</details> 
+
+<details>
+  <summary> <strong> MATH 104 Algebra and Trigonometry </strong> </summary>
+   <ul>
+     <li> Level: Undergraduate Course </li>
+     <li><a href="https://catalog.usfca.edu/preview_course_nopop.php?catoid=35&coid=531753" target="_blank">Course Link</a></li>
+   </ul>
+</details> 
+
+<details>
+  <summary> <strong> MATH 106 Business Statistics </strong> </summary>
+   <ul>
+     <li> Level: Undergraduate Course </li>
+     <li><a href="https://catalog.usfca.edu/preview_program.php?catoid=22&poid=34872&returnto=3104" target="_blank">Course Link</a></li>
+   </ul>
+</details> 
+
+
+<details>
+  <summary> <strong> SOC 150 Introduction to Sociology </strong> </summary>
+   <ul>
+     <li> Level: Undergraduate Course </li>
+     <li><a href="https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=188652" target="_blank">Course Link</a></li>
+   </ul>
+</details> 
+
+
+# Diversity, Equity, and Inclusion (DEI) Statement
+
+## Knowledge and Understanding of DEI
+
+<!-- - Diversity with respect to different identities: ethnic, socioeconomic, racial, gender, sexual orientation, disability, and cultural differences
+- Personal experience or perspective. 
+- Demographic data related to diversity in higher education.
+- Distinctions and connections between diversity, equity, inclusion, and belonging.
+- Core values that every faculty member should actively contribute to.
+
+References to important aspects of DEI. [^1]
+
+
+[^1]: My reference. -->
+
+"Privilege is entirely wasted on the privileged if it is not deployed to lift up those without it."[^1]
+
+[^1]:  Bellemare, Marc F. (2022). Doing Economics: What You Should Have Learned in Grad School - But Didn't. Cambridge Massachusetts: The MIT Press. p. 150
+
+
+## Track Record on DEI
+
+<!-- - Describes multiple activities in depth, with detailed information about both their role in the activities and the outcomes. Activities may span research, teaching and service, and could include applying their research skills or expertise to investigating diversity, equity, inclusion, and belonging.
+- Organized or spoken at workshops or other events (depending on career stage) aimed at increasing others' understanding of diversity, equity, inclusion, and belonging as one aspect of their track record.
+
+In my previous work as a research associate at the University Michigan, I have worked with several african scholars from Ghana, Malawi, and Mozambique. To support their further pursuit wihtin the economic field, I have provided guidance and provided letters of support for them to pursue Master's programs and fellowships. -->
+
+
+Currently, I sit on the [DEI Committee](https://isrdi.umn.edu/equity-diversity/dei) at the University of Minnesota, Institute for Social Research and Data Innovation (ISRDI). In this role, I have helped with the promotion of diverse scholars within the social science community. A major accomplishment of this committee being our Diversity Fellowship Program matching aspiring scholars from under-represented backgrounds with established reserachers and research projects at ISRDI. Additionally, we curated a [researcher support toolkit](https://isrdi.umn.edu/researcher-toolkit) for ISRDI members (and more broadly) in an attempt to democratize the hidden curriculum that underscores success and advancement in academia. Lastly, I have supported the curation of articles by authors from diverse backgrounds on research topics related to margianlized communities which we promote through Research Friday's -- disseminating and promoting their work via social media.
+
+In my previous work as a research associate at the University Michigan, I have worked with several African scholars from Ghana, Malawi, and Mozambique. To support their further pursuit within the economics profession, I have provided guidance as well as letters of support for them to pursue Master's programs and fellowships.
+
+
+## Plans for Advancing DEI
+
+<!-- - Include a section on promoting pursuing a PhD for underrepresented groups in introductory economics course.
+- Add a resources page to my personal website to democractize resources within the economics profession to level the playing field for those from under-resourced communities
+- Continue to collaborate with partners within LMIC countries for my fieldwork. In doing so, promote their advancement within the field and encourage their collaboration as coauthors on relevant research.  -->
+
+Forthcoming...
+
+
+
+
+# Mentorship
+
+A part of my role in academia is to assist others in achieving their goals. Through direct employment, instruction, and programs, I have supported several individuals in pursuing their academic and career aspirations. 
+
+<!--
+ 
+## Doctoral Thesis
+
+| Year       | [Ivan Manhique](https://www.researchgate.net/profile/Ivan-Manhique) | Thesis Title | &rarr; | University of Essex |
+| :---        | :---        | :---        |    :----:   |          ---: |
+| Year        | [Ivan Manhique](https://www.researchgate.net/profile/Ivan-Manhique) |  Thesis Title | &rarr; | University of Essex |
+
+    
+## Masters Thesis
+
+| Year       | [Ivan Manhique](https://www.researchgate.net/profile/Ivan-Manhique) | Thesis Title | &rarr; | University of Essex |
+| :---        | :---        | :---        |    :----:   |          ---: |
+| Year        | [Ivan Manhique](https://www.researchgate.net/profile/Ivan-Manhique) |  Thesis Title | &rarr; | University of Essex |
+    
+## Undergraduate Thesis
+
+| Year       | [Ivan Manhique](https://www.researchgate.net/profile/Ivan-Manhique) | Thesis Title | &rarr; | University of Essex |
+| :---        | :---        | :---        |    :----:   |          ---: |
+| Year        | [Ivan Manhique](https://www.researchgate.net/profile/Ivan-Manhique) |  Thesis Title | &rarr; | University of Essex |
+
+-->
+
+## Research Assistants
+
+| Research Assistant |  | Placement |
+| :---        |    :----:   |          ---: |
+| [Ivan Manhique](https://www.researchgate.net/profile/Ivan-Manhique) | &rarr; | University of Essex |
+| [Kwasi Tabiri](https://gh.linkedin.com/kwasi-gyabaa-tabiri-143021a1) | &rarr; | McGill University |
+| Erik Tiersten-Nyman | &rarr; | Federal Reserve Bank of Chicago |
+| [Laston Manja](https://laston-manja.github.io/) | &rarr; | University of Michigan |
+| [Arika Kayastha](https://www.linkedin.com/in/arika-kayastha) | &rarr; | International Monetary Fund |
+| [Dedrick McCord](https://www.linkedin.com/in/dedrick-mccord-73699aaa) | &rarr; | Atlanta Public School System |
+| [Sidi Cheng](https://wilder.vcu.edu/people/doctoral-students/sidi-cheng.html) | &rarr; | Virginia Commonwealth University |
+| Chenhao Yu | &rarr; | University of Chicago |
+
+
+## Mentorship Programs
+
+| Mentee |  | Placement |
+| :---        | :---        |    :----:   |          ---: |
+| [Oizamsi (Victoria) Momoh]() | GAIN Mentorship Program | &rarr; | TBD |
+| [Joeseph Glaser](https://www.linkedin.com/in/joseph-glaser-284455265) | Service Leadership Program | &rarr; | TBD |
+| [Nick Parafiniuk](https://dspslu.wixsite.com/website-1/contact-us-1) | Service Leadership Program | &rarr; | TBD |

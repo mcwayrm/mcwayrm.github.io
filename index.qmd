@@ -1,0 +1,61 @@
+---
+title: "Ryan McWay"
+image: ./images/headshot_no_glasses_2022.jpg
+about:
+  template: trestles
+  links:
+    - text: 'mcway005@umn.edu'
+      url: "mailto:mcway005@umn.edu"
+      icon: envelope-fill
+    - text: GitHub
+      icon: github
+      url: "https://github.com/mcwayrm"
+    - text: Google Scholar
+      icon: googlescholar
+      url: "https://scholar.google.com/citations?hl=en&user=CgZJ2xsAAAAJ&view_op=list_works&gmla=AJsN-F7FujaXp6tYphdvaoJsNFjHQkZJv7xA1frKa9u_Kk2GY79eS5jMBkUgxx8yO3x8lqwQVjIGH7FijMlUv72eOB37qsycaSQKiw60T56jsLjHCf3jE1A"
+    - text: LinkedIn
+      url: "https://linkedin.com/in/ryan-mcway/"
+      icon: linkedin
+    - text: ORCID
+      icon: orcid
+      url: "https://orcid.org/0000-0003-4492-7804"
+    - text: ResearchGate
+      icon: researchgate
+      url: "https://www.researchgate.net/profile/Ryan_Mcway"
+
+comments: false
+---
+
+
+## Short Bibliography
+
+Ryan is a third year PhD student in the Applied Economics program at the [University of Minnesota](https://apec.umn.edu/people/ryan-mcway). 
+<!-- He is currently a research assistant working with Prof. [Chengyan Yue](https://horticulture.umn.edu/people/chengyan-yue) studying applications in neuroeconomics.  -->
+Previously, Ryan held an appointment at the University of Michigan, through the [Institute for Social Research](https://isr.umich.edu/) and [Population Studies Center](https://www.psc.isr.umich.edu/people/staff.html) working alongside Prof. [Dean Yang](https://sites.lsa.umich.edu/deanyang/). 
+Ryan is also a graduate student member of the [Minnesota Population Center](https://pop.umn.edu/people/ryan-mcway), and is an active member of the [Johnson Polasky Lab](https://johnsonpolaskylab.umn.edu/lab-team) and Glewwe Development Lab. 
+Ryan is a student member of the [American Economic Association (AEA)](https://www.aeaweb.org/), the [Agricultural & Applied Economics Association (AAEA)](https://www.aaea.org/), and the [Association of Environmental and Resource Economists (AERE)](https://www.aere.org/).
+
+His research lies at the intersection of environmental economics and development economics. Using causal inference methods to identify structural models, Ryan takes an applied microeconomics approach to questions related to the tradeoffs between economic growth and enivornmental preservation, behavioral and market-related soluations to climate adaptation and mitigation, as well as the equilibrium effect of policies interventions aimed at economic growth. While his primary fields lie within environment and development, Ryan more broadly studies questions within applied microeconomics related to behavioral economics and urban economics topics. Ryan works with both observational and primary data, with extensive past and on-going fieldwork for primary data collection.
+
+Ryan completed his MS in International and Development Economics at the University of San Francisco (USF), and his BS in Economics and BS in International Business at Saint Louis University (SLU). 
+Ryan is an alumni of the [Development Economics @ Michigan](https://devecon.umich.edu/people/alumni/) community.
+
+## Contact Information
+
+- **Email:** mcway005@umn.edu
+- **Phone:** +1 612 -- 625 -- 1222
+- **Personal Website:** https://mcwayrm.github.io 
+- **UMN Department Website:** https://apec.umn.edu/people/ryan-mcway
+- **Mailing Address:** 
+  - 1994 Buford Ave, 316A Ruttan Hall, 
+  -  Department of Applied Economics, University of Minnesota, 
+  - Saint Paul, MN, USA 55108 -- 6040
+
+<img src="/images/brac_fieldwork.jpg" width="75%">
+
+<!-- 
+  osf              : "https://osf.io/s93vq/"
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4423972"
+  publons          : "https://www.webofscience.com/wos/author/record/2999401"
+  academia         : "https://umich.academia.edu/RyanMcWay"
+  repec            : "https://ideas.repec.org/f/pmc334.html" -->
