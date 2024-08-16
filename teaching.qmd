@@ -7,10 +7,52 @@ comments: false
 
 Forthcoming...
 
+<!--
+
+https://docs.google.com/document/d/15bkj6GG60wbiSDvtQFHASi5oDRczDeDC-wvKTeC5A6s/edit
+  - student learning goals
+  - teaching methods
+  - measuring student learning
+  - personalization (personal experience shape teaching)
+  - addressing diversity in the classroom and technology
+
+ An important element of your teaching statement is self-awareness or reflectiveness. As a starting point, consider:
+
+    How do you adapt your classroom to respond to student population needs?
+    How do you consider student needs and feedback in the development of your courses overall?
+    How do you motivate and engage students?
+    How do you know when your approach is successful?
+
+You want this statement to demonstrate the following to a search committee:
+
+    You have thought through a deliberate approach to course design, content selection, and material delivery (new and potential courses you have taught or are proposing)
+    You will continue to develop, learn, and grow as a teacher
+    You will consider and engage the needs of the student population at their institution. -->
+
+
 # Instruction
 
 
 My experience in teaching comes from my roles instructing economics and mathematics from the undergraduate level to the doctoral level.
+
+<!-- 
+## Lecture Notes
+
+- Microeconomic Theory
+  - Consumer Behavior
+  - Risk and Uncertainty
+  - Production
+  - Partial Equilbrium and Welfare
+  - General Equilbrium
+  - Game Theory
+- Macroeconomic Theory
+- Reduced Form Econometrics
+- Structural Econometrics
+- Environmental Economics
+- Development Economics
+- Behavioral Economics
+- Bioeconomics -- Evolutionary Pyschology Approach
+- History of Economic Thought -->
 
 
 ## Instructor
@@ -105,7 +147,8 @@ My experience in teaching comes from my roles instructing economics and mathemat
 
 ## Knowledge and Understanding of DEI
 
-<!-- - Diversity with respect to different identities: ethnic, socioeconomic, racial, gender, sexual orientation, disability, and cultural differences
+<!-- 
+- Diversity with respect to different identities: ethnic, socioeconomic, racial, gender, sexual orientation, disability, and cultural differences
 - Personal experience or perspective. 
 - Demographic data related to diversity in higher education.
 - Distinctions and connections between diversity, equity, inclusion, and belonging.
@@ -147,7 +190,7 @@ Forthcoming...
 
 # Mentorship
 
-A part of my role in academia is to assist others in achieving their goals. Through direct employment, instruction, and programs, I have supported several individuals in pursuing their academic and career aspirations. 
+A part of my role in academia is to assist others in achieving their goals. Through direct employment, instruction, and mentorship programs, I have supported several individuals in pursuing their academic and career aspirations. 
 
 <!--
  
