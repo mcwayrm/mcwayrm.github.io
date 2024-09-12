@@ -1,3 +1,26 @@
+---
+about:
+    links:
+        - text: 'mcway005@umn.edu'
+            url: "mailto:mcway005@umn.edu"
+            icon: envelope-fill
+        - text: GitHub
+            icon: github
+            url: "https://github.com/mcwayrm"
+        - text: Google Scholar
+            icon: googlescholar
+            url: "https://scholar.google.com/citations?hl=en&user=CgZJ2xsAAAAJ&view_op=list_works&gmla=AJsN-F7FujaXp6tYphdvaoJsNFjHQkZJv7xA1frKa9u_Kk2GY79eS5jMBkUgxx8yO3x8lqwQVjIGH7FijMlUv72eOB37qsycaSQKiw60T56jsLjHCf3jE1A"
+        - text: LinkedIn
+            url: "https://linkedin.com/in/ryan-mcway/"
+            icon: linkedin
+        - text: ORCID
+            icon: orcid
+            url: "https://orcid.org/0000-0003-4492-7804"
+        - text: ResearchGate
+            icon: researchgate
+            url: "https://www.researchgate.net/profile/Ryan_Mcway"
+---
+
 <html>
     <h1>Curriculum Vitae</h1>
     <body>

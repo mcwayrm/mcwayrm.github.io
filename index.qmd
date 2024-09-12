@@ -5,9 +5,9 @@ about:
   template: marquee
   image-width: 35em
   links:
-    - text: 'mcway005@umn.edu'
-      url: "mailto:mcway005@umn.edu"
-      icon: envelope-fill
+    # - text: 'mcway005@umn.edu'
+    #   url:  "mailto:mcway005@umn.edu"
+    #   icon: envelope-fill
     - text: GitHub
       icon: github
       url: "https://github.com/mcwayrm"
@@ -41,7 +41,7 @@ Ryan is a student member of the [American Economic Association (AEA)](https://ww
 His research lies at the intersection of environmental economics and development economics. Using causal inference methods to identify structural models, Ryan takes an applied microeconomics approach to questions related to the tradeoffs between economic growth and environmental preservation, behavioral and market-related solutions to climate adaptation and mitigation, as well as the equilibrium effect of policy interventions aimed at economic growth. While his primary fields lie within environment and development, Ryan more broadly studies questions within applied microeconomics related to behavioral economics and urban economics topics. Ryan works with both observational and primary data, with extensive past and on-going fieldwork for primary data collection.
 
 Ryan completed his MS in International and Development Economics at the University of San Francisco (USF), and his BS in Economics and BS in International Business at Saint Louis University (SLU). 
-Ryan is an alumni of the [Development Economics @ Michigan](https://devecon.umich.edu/people/alumni/) community.
+Ryan is an alumni of the [Development Economics @ Michigan](https://devecon.umich.edu/people/alumni/) community, and the [The Institute for Research on Women and Gender](https://irwg.umich.edu/content/ryan-mcway).
 
 </div>
 
