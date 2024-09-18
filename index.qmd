@@ -5,9 +5,9 @@ about:
   template: marquee
   image-width: 35em
   links:
-    # - text: 'mcway005@umn.edu'
-    #   url:  "mailto:mcway005@umn.edu"
-    #   icon: envelope-fill
+    - text: 'mcway005@umn.edu'
+      url:  'mailto:mcway005@umn.edu'
+      icon: envelope-fill
     - text: GitHub
       icon: github
       url: "https://github.com/mcwayrm"
