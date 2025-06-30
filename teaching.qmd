@@ -3,9 +3,9 @@ title: "Teaching"
 comments: false
 ---
 
-# Teaching Statement
+<!-- # Teaching Statement
 
-Forthcoming...
+Forthcoming... -->
 
 <!--
 
@@ -33,7 +33,7 @@ You want this statement to demonstrate the following to a search committee:
 # Instruction
 
 
-My experience in teaching comes from my roles instructing economics and mathematics from the undergraduate level to the doctoral level.
+<!-- My experience in teaching comes from my roles instructing economics and mathematics from the undergraduate level to the doctoral level. -->
 
 <!-- 
 ## Lecture Notes
@@ -145,7 +145,7 @@ My experience in teaching comes from my roles instructing economics and mathemat
 
 # Diversity, Equity, and Inclusion (DEI) Statement
 
-## Knowledge and Understanding of DEI
+<!-- ## Knowledge and Understanding of DEI -->
 
 <!-- 
 - Diversity with respect to different identities: ethnic, socioeconomic, racial, gender, sexual orientation, disability, and cultural differences
@@ -164,7 +164,7 @@ References to important aspects of DEI. [^1]
 [^1]:  Bellemare, Marc F. (2022). Doing Economics: What You Should Have Learned in Grad School - But Didn't. Cambridge Massachusetts: The MIT Press. p. 150
 
 
-## Track Record on DEI
+<!-- ## Track Record on DEI -->
 
 <!-- - Describes multiple activities in depth, with detailed information about both their role in the activities and the outcomes. Activities may span research, teaching and service, and could include applying their research skills or expertise to investigating diversity, equity, inclusion, and belonging.
 - Organized or spoken at workshops or other events (depending on career stage) aimed at increasing others' understanding of diversity, equity, inclusion, and belonging as one aspect of their track record.
@@ -172,18 +172,20 @@ References to important aspects of DEI. [^1]
 In my previous work as a research associate at the University Michigan, I have worked with several african scholars from Ghana, Malawi, and Mozambique. To support their further pursuit wihtin the economic field, I have provided guidance and provided letters of support for them to pursue Master's programs and fellowships. -->
 
 
-Currently, I sit on the [DEI Committee](https://isrdi.umn.edu/equity-diversity/dei) at the University of Minnesota, Institute for Social Research and Data Innovation (ISRDI). In this role, I have helped with the promotion of diverse scholars within the social science community. A major accomplishment of this committee being our Diversity Fellowship Program matching aspiring scholars from under-represented backgrounds with established reserachers and research projects at ISRDI. Additionally, we curated a [researcher support toolkit](https://isrdi.umn.edu/researcher-toolkit) for ISRDI members (and more broadly) in an attempt to democratize the hidden curriculum that underscores success and advancement in academia. Lastly, I have supported the curation of articles by authors from diverse backgrounds on research topics related to margianlized communities which we promote through Research Friday's -- disseminating and promoting their work via social media.
+Most recently, I sat on the [DEI Committee](https://isrdi.umn.edu/equity-diversity/dei) at the University of Minnesota, Institute for Social Research and Data Innovation (ISRDI). In this role, I have helped with the promotion of diverse scholars within the social science community. A major accomplishment of this committee being our Diversity Fellowship Program matching aspiring scholars from under-represented backgrounds with established reserachers and research projects at ISRDI. Additionally, we curated a [researcher support toolkit](https://isrdi.umn.edu/researcher-toolkit) for ISRDI members (and more broadly) in an attempt to democratize the hidden curriculum that underscores success and advancement in academia. Lastly, I have supported the curation of articles by authors from diverse backgrounds on research topics related to margianlized communities which we promote through Research Friday's -- disseminating and promoting their work via social media.
+
+Additionally, I have acted as a mentor through the [Graduate Applications International Network (GAIN)](https://gain-network.net/mentors). This network provides application assistance to African scholars pursuing masters and doctorates in the United States in in Europe. 
 
 In my previous work as a research associate at the University Michigan, I have worked with several African scholars from Ghana, Malawi, and Mozambique. To support their further pursuit within the economics profession, I have provided guidance as well as letters of support for them to pursue Master's programs and fellowships.
 
 
-## Plans for Advancing DEI
+<!-- ## Plans for Advancing DEI -->
 
 <!-- - Include a section on promoting pursuing a PhD for underrepresented groups in introductory economics course.
 - Add a resources page to my personal website to democractize resources within the economics profession to level the playing field for those from under-resourced communities
 - Continue to collaborate with partners within LMIC countries for my fieldwork. In doing so, promote their advancement within the field and encourage their collaboration as coauthors on relevant research.  -->
 
-Forthcoming...
+<!-- Forthcoming... -->
 
 
 

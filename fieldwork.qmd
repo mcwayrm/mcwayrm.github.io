@@ -14,11 +14,11 @@ I have conducted fieldwork in several countries either for research or supportin
 
 ## Morroco
 
-Forthcoming...
+> The Ministry of Education in Morocco introduced the Pioneer Schools Program (PSP) in 2023. Over the past two years, we have been using a matched difference in difference technique to assess this education reform across primary schools in the country. A mixture of teaching at the right level (TaRL), teacher certificates, teacher coaching, and pedagogy change, this program is typical of large scale education reform in developing countries. 
 
 ## Jordan
 
-Forthcoming...
+> We are examining the impact of a AI chatbot for mathematics assistance to Grade 6 students in Jordan. This education technology, Darsel, is emblematic of the current advancements and approach to cost-effective EdTech in developing countries. 
 
 
 ## Beira, Mozambique

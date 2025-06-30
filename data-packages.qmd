@@ -79,9 +79,9 @@ Talk with Paolo about highlighting this
 
 -->
 
-# Statistical Packages
+<!-- # Statistical Packages
 
-Forthcoming...
+Forthcoming... -->
 
 <!--Include Title, Data updated, Version, Quick description, link to sources to create dataframe, link to access dataframe, Codebook or Metadata as neccessary, suggested citation -->
 
