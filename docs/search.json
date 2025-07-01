@@ -1,52 +1,66 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Course\nTitle\nLevel\nInstitution\nCourse Link\n\n\n\n\nAPEC 1201\nApp. of Excel in Econ. & Mgmt.\nBachelors\nUniversity of Minnesota\n2024\n\n\n\nApplied Economics Math Review\nDoctoral\nUniversity of Minnesota\n2023\n\n\n\n\n\n\n\n\n\nCourse\nTitle\nLevel\nInstitution\nInstructor\nCourse Link\n\n\n\n\nAPEC 3003\nIntro. to Applied Econometrics\nBachelors\nUniversity of Minnesota\nCharlotte Ambrozek\n2023\n\n\nECON 620\nGraduate Econometrics\nMasters\nUniversity of San Francisco\nJesse Antilla-Hughes\n2020\n\n\nECON 427\nApplied Econometrics Capstone\nBachelors\nUniversity of San Francisco\nMichael Jonas\n2020\n\n\nECON 312\nIntermediate Macroeconomics\nBachelors\nUniversity of San Francisco\nTodd Fitch\n2020\n\n\nECON 111\nPrinciples of Microeconomics\nBachelors\nUniversity of San Francisco\nNorman Lo\n2020\n\n\nECON 615\nMathematics for Economists\nMasters\nUniversity of San Francisco\nAlessandra Cassar\n2019\n\n\nECON 112\nPrinciples of Macroeconomics\nBachelors\nUniversity of San Francisco\nTodd Fitch\n2019\n\n\n\n\n\n\nUniversity of San Francisco\n\n\n BUS 302 Marketing Principles \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n ECON 112 Principles of Macroeconomics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n ECON 312 Intermediate Macroeconomics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n ECON 372 Development Economics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n MATH 104 Algebra and Trigonometry \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n MATH 106 Business Statistics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n SOC 150 Introduction to Sociology \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link"
+    "text": "Unintended Consequences of Lockdowns, COVID-19 and the Shadow Pandemic in India. A Reproduction Study of Ravindran and Shah. (Nature Human Behavior, 2023) Link\n\n\nThe Political Consequences of Resource Scarcity: Targeted Spending in a Water-stressed Democracy. A Replication Study of Mahadevan and Shenoy (Journal of Public Economics, 2023) Link\n\n\nOutsourcing Education: Experimental Evidence from Liberia. A Replication Study of Romero, Sandefur, and Sandholtz (American Economic Review, 2020) Link\n\n\nSpatial Polarisation. A Replication Study of Cerina et al. (The Economic Journal, 2023) Link\n\n\nComparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science Link\n\n\nMass Reproducibility and Replicability: A New Hope Link"
   },
   {
-    "objectID": "teaching.html#instructor",
-    "href": "teaching.html#instructor",
-    "title": "Teaching",
+    "objectID": "research.html#development-papers",
+    "href": "research.html#development-papers",
+    "title": "Research",
+    "section": "Development Papers",
+    "text": "Development Papers\n\nThe Impact of Early Childhood Development Interventions on Children’s Health in Developing Countries: A Systematic Review and Meta-analysis of Randomized Controlled Trials, joint with Pallavi Prabhakar and Ayo Ellis. NHH Dept. of Economics Discussion Paper. 2022, (14/2022) Link\n\n\nCruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education. The American Economist. 2022, 67 (1), 5 – 23. Link"
+  },
+  {
+    "objectID": "research.html#miscellaneous",
+    "href": "research.html#miscellaneous",
+    "title": "Research",
+    "section": "Miscellaneous",
+    "text": "Miscellaneous\n\nMarket Access and Quality Upgrading: Evidence from Four Field Experiments. A Replication Study of Bold et al. (American Economic Review, 2022), joint with Karim Nchare and Pu Sun. Journal of Comments and Replications in Economics. 2024, 3 (2024-2). Link\n\n\nDoes Board Gender Diversity and Remuneration Impact Earnings Quality? An Empirical Analysis of Spanish Firms, joint with Paolo Saono, Laura Muro, and Pablo San Martin. Gender in Management: An International Journal. 2024, 39 (1), 18 – 51. Link\n\n\nStata Tip: Consistency and Communication in Team Dofiles, joint with James Allen IV and Hang Yu. SSRN Working Paper Series. 2021, (3965114) Link\n\n\nContrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms, joint with Paolo Saono, Laura Muro, and Mauricio Jara-Bertin. ResearchGate Working Paper Series. 2019 (2.2.11103.00163) Link"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ryan McWay",
     "section": "",
-    "text": "Course\nTitle\nLevel\nInstitution\nCourse Link\n\n\n\n\nAPEC 1201\nApp. of Excel in Econ. & Mgmt.\nBachelors\nUniversity of Minnesota\n2024\n\n\n\nApplied Economics Math Review\nDoctoral\nUniversity of Minnesota\n2023"
+    "text": "Ryan is a fourth year PhD student in the Applied Economics program at the University of Minnesota. His research lies at the intersection of environmental economics and development economics. Using causal inference methods to identify structural models, Ryan takes an applied microeconomics approach to assess the value of ecosystems in economic production and economic development, and firm behavior under market failures. \n\nPreviously, Ryan held an appointment at the University of Michigan, through the Institute for Social Research and Population Studies Center working alongside Prof. Dean Yang. Ryan is also a graduate student member of the Minnesota Population Center, and is an active member of the Natural Capital Project: The Earth-Economy Modelers (NatCap TEEMs) and Glewwe Development Lab. Ryan is a student member of the American Economic Association (AEA), the Agricultural & Applied Economics Association (AAEA), and the Association of Environmental and Resource Economists (AERE).\nRyan completed his MS in International and Development Economics at the University of San Francisco (USF), and his BS in Economics and BS in International Business at Saint Louis University (SLU). Ryan is an alumni of the Development Economics @ Michigan community, and the The Institute for Research on Women and Gender.\n\n\n\nEmail: mcway005@umn.edu\nPhone:s +1 612 – 625 – 1222\nPersonal Website: https://mcwayrm.github.io ss\nUMN Department Website: https://apec.umn.edu/people/ryan-mcway\nMailing Address:\n\n1994 Buford Ave, 316A Ruttan Hall,\nDepartment of Applied Economics, University of Minnesota,\nSaint Paul, MN, USA 55108 – 6040"
   },
   {
-    "objectID": "teaching.html#teaching-assistant",
-    "href": "teaching.html#teaching-assistant",
-    "title": "Teaching",
+    "objectID": "index.html#short-bibliography",
+    "href": "index.html#short-bibliography",
+    "title": "Ryan McWay",
     "section": "",
-    "text": "Course\nTitle\nLevel\nInstitution\nInstructor\nCourse Link\n\n\n\n\nAPEC 3003\nIntro. to Applied Econometrics\nBachelors\nUniversity of Minnesota\nCharlotte Ambrozek\n2023\n\n\nECON 620\nGraduate Econometrics\nMasters\nUniversity of San Francisco\nJesse Antilla-Hughes\n2020\n\n\nECON 427\nApplied Econometrics Capstone\nBachelors\nUniversity of San Francisco\nMichael Jonas\n2020\n\n\nECON 312\nIntermediate Macroeconomics\nBachelors\nUniversity of San Francisco\nTodd Fitch\n2020\n\n\nECON 111\nPrinciples of Microeconomics\nBachelors\nUniversity of San Francisco\nNorman Lo\n2020\n\n\nECON 615\nMathematics for Economists\nMasters\nUniversity of San Francisco\nAlessandra Cassar\n2019\n\n\nECON 112\nPrinciples of Macroeconomics\nBachelors\nUniversity of San Francisco\nTodd Fitch\n2019"
+    "text": "Ryan is a fourth year PhD student in the Applied Economics program at the University of Minnesota. His research lies at the intersection of environmental economics and development economics. Using causal inference methods to identify structural models, Ryan takes an applied microeconomics approach to assess the value of ecosystems in economic production and economic development, and firm behavior under market failures. \n\nPreviously, Ryan held an appointment at the University of Michigan, through the Institute for Social Research and Population Studies Center working alongside Prof. Dean Yang. Ryan is also a graduate student member of the Minnesota Population Center, and is an active member of the Natural Capital Project: The Earth-Economy Modelers (NatCap TEEMs) and Glewwe Development Lab. Ryan is a student member of the American Economic Association (AEA), the Agricultural & Applied Economics Association (AAEA), and the Association of Environmental and Resource Economists (AERE).\nRyan completed his MS in International and Development Economics at the University of San Francisco (USF), and his BS in Economics and BS in International Business at Saint Louis University (SLU). Ryan is an alumni of the Development Economics @ Michigan community, and the The Institute for Research on Women and Gender.\n\n\n\nEmail: mcway005@umn.edu\nPhone:s +1 612 – 625 – 1222\nPersonal Website: https://mcwayrm.github.io ss\nUMN Department Website: https://apec.umn.edu/people/ryan-mcway\nMailing Address:\n\n1994 Buford Ave, 316A Ruttan Hall,\nDepartment of Applied Economics, University of Minnesota,\nSaint Paul, MN, USA 55108 – 6040"
   },
   {
-    "objectID": "teaching.html#tutoring",
-    "href": "teaching.html#tutoring",
-    "title": "Teaching",
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "Ryan McWay",
     "section": "",
-    "text": "University of San Francisco\n\n\n BUS 302 Marketing Principles \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n ECON 112 Principles of Macroeconomics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n ECON 312 Intermediate Macroeconomics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n ECON 372 Development Economics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n MATH 104 Algebra and Trigonometry \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n MATH 106 Business Statistics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n SOC 150 Introduction to Sociology \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link"
+    "text": "Email: mcway005@umn.edu\nPhone:s +1 612 – 625 – 1222\nPersonal Website: https://mcwayrm.github.io ss\nUMN Department Website: https://apec.umn.edu/people/ryan-mcway\nMailing Address:\n\n1994 Buford Ave, 316A Ruttan Hall,\nDepartment of Applied Economics, University of Minnesota,\nSaint Paul, MN, USA 55108 – 6040"
   },
   {
-    "objectID": "teaching.html#research-assistants",
-    "href": "teaching.html#research-assistants",
-    "title": "Teaching",
-    "section": "Research Assistants",
-    "text": "Research Assistants\n\n\n\nResearch Assistant\n\nPlacement\n\n\n\n\nIvan Manhique\n→\nUniversity of Essex\n\n\nKwasi Tabiri\n→\nMcGill University\n\n\nErik Tiersten-Nyman\n→\nFederal Reserve Bank of Chicago\n\n\nLaston Manja\n→\nUniversity of Michigan\n\n\nArika Kayastha\n→\nInternational Monetary Fund\n\n\nDedrick McCord\n→\nAtlanta Public School System\n\n\nSidi Cheng\n→\nVirginia Commonwealth University\n\n\nChenhao Yu\n→\nUniversity of Chicago"
+    "objectID": "data-packages.html",
+    "href": "data-packages.html",
+    "title": "Data & Packages",
+    "section": "",
+    "text": "This page provides the publically avaliable datasets that I have created. Feel free to use them at your disposal, but if you would please cite your sources. A citation is provided for each dataframe. Note that some of the data listed below is not created by myself soley. Rather, some are datasets to which I have contributed towards. For these, please acknowledge all parties involved in the development of these datasets. For dataframes used in replicating my previous work, please refer to my research page where I try to provide access to the replication code and data for published work.\nAdditionally, this page houses statistical packages I have created. None are perfect, so feel free to email me feedback as well as feel free to log an issue on the source code housed on my GitHub page."
   },
   {
-    "objectID": "teaching.html#mentorship-programs",
-    "href": "teaching.html#mentorship-programs",
-    "title": "Teaching",
-    "section": "Mentorship Programs",
-    "text": "Mentorship Programs\n\n\n\nMentee\n\nPlacement\n\n\n\n\n\nOizamsi (Victoria) Momoh\nGAIN Mentorship Program\n→\nTBD\n\n\nJoeseph Glaser\nService Leadership Program\n→\nTBD\n\n\nNick Parafiniuk\nService Leadership Program\n→\nTBD"
+    "objectID": "data-packages.html#global-ports",
+    "href": "data-packages.html#global-ports",
+    "title": "Data & Packages",
+    "section": "2. Global Ports",
+    "text": "2. Global Ports\n\nThis dataframe provides a crosssection of the characteristics of port cities currently in operation. This covers 5,644 port cities globally as of 2020. This information was collected by combining information from Wikidepida, Natrual Earth and Central Intelligence Agency. The primary application of this data is for analyses that involve port level attributes.\nMcWay, Ryan. (2021). Global Ports. Version 1. https://github.com/mcwayrm/data_port_cities/blob/main/global_ports.dta. Extracted: [Date of Extraction]\n\n\nKeywords: Port Cities Terminals\nDataset\nCodebook\nDOI: 10.13140/RG.2.2.17074.43208\nLast Updated: Jan. 19th 2021"
   },
   {
-    "objectID": "teaching.html#footnotes",
-    "href": "teaching.html#footnotes",
-    "title": "Teaching",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nBellemare, Marc F. (2022). Doing Economics: What You Should Have Learned in Grad School - But Didn’t. Cambridge Massachusetts: The MIT Press. p. 150↩︎"
+    "objectID": "data-packages.html#cruise-ship-characteristics-information",
+    "href": "data-packages.html#cruise-ship-characteristics-information",
+    "title": "Data & Packages",
+    "section": "1. Cruise Ship Characteristics Information",
+    "text": "1. Cruise Ship Characteristics Information\n\nThis dataframe provides a crosssection of the characteristics of cruise ship vessels currently in operation. This covers 525 vessels as the beginning of 2020. This information was collected by combining information from Wikidepida and Vessel Finder. The primary application of this data is for cruise tourism or cruise ship activity.\nMcWay, Ryan. (2020). Cruise Ship Characteristics Information. Version 1. https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info.csv. Extracted: [Date of Extraction].\n\n\nKeywords: Cruise Ships Cruise Tourism Crew Passengers\nDataset\nCodebook\nDOI: 10.13140/RG.2.2.13528.52488\nLast Updated: Oct. 14th 2020"
   },
   {
     "objectID": "fieldwork.html",
@@ -112,45 +126,52 @@
     "text": "Footnotes\n\n\nSen, Amartya (2001). Development as freedom. Oxford New York: Oxford University Press. p. 291↩︎\nSen, Amartya (1985). Commodities and capabilities. Amsterdam New York New York, N.Y., U.S.A: North-Holland Sole distributors for the U.S.A. and Canada, Elsevier Science Pub. Co.↩︎"
   },
   {
-    "objectID": "data-packages.html",
-    "href": "data-packages.html",
-    "title": "Data & Packages",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "This page provides the publically avaliable datasets that I have created. Feel free to use them at your disposal, but if you would please cite your sources. A citation is provided for each dataframe. Note that some of the data listed below is not created by myself soley. Rather, some are datasets to which I have contributed towards. For these, please acknowledge all parties involved in the development of these datasets. For dataframes used in replicating my previous work, please refer to my research page where I try to provide access to the replication code and data for published work.\nAdditionally, this page houses statistical packages I have created. None are perfect, so feel free to email me feedback as well as feel free to log an issue on the source code housed on my GitHub page."
+    "text": "Course\nTitle\nLevel\nInstitution\nCourse Link\n\n\n\n\nECON 3750\nBehavioral and Experimental Economics\nBachelors\nHamline University\n2025\n\n\nAPEC 1201\nApp. of Excel in Econ. & Mgmt.\nBachelors\nUniversity of Minnesota\n2024\n\n\n\nApplied Economics Math Review\nDoctoral\nUniversity of Minnesota\n2023\n\n\n\n\n\n\n\n\n\nCourse\nTitle\nLevel\nInstitution\nInstructor\nCourse Link\n\n\n\n\nAPEC 3003\nIntro. to Applied Econometrics\nBachelors\nUniversity of Minnesota\nCharlotte Ambrozek\n2023\n\n\nECON 620\nGraduate Econometrics\nMasters\nUniversity of San Francisco\nJesse Antilla-Hughes\n2020\n\n\nECON 427\nApplied Econometrics Capstone\nBachelors\nUniversity of San Francisco\nMichael Jonas\n2020\n\n\nECON 312\nIntermediate Macroeconomics\nBachelors\nUniversity of San Francisco\nTodd Fitch\n2020\n\n\nECON 111\nPrinciples of Microeconomics\nBachelors\nUniversity of San Francisco\nNorman Lo\n2020\n\n\nECON 615\nMathematics for Economists\nMasters\nUniversity of San Francisco\nAlessandra Cassar\n2019\n\n\nECON 112\nPrinciples of Macroeconomics\nBachelors\nUniversity of San Francisco\nTodd Fitch\n2019\n\n\n\n\n\n\nUniversity of San Francisco\n\n\n BUS 302 Marketing Principles \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n ECON 112 Principles of Macroeconomics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n ECON 312 Intermediate Macroeconomics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n ECON 372 Development Economics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n MATH 104 Algebra and Trigonometry \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n MATH 106 Business Statistics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n SOC 150 Introduction to Sociology \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link"
   },
   {
-    "objectID": "data-packages.html#global-ports",
-    "href": "data-packages.html#global-ports",
-    "title": "Data & Packages",
-    "section": "2. Global Ports",
-    "text": "2. Global Ports\n\nThis dataframe provides a crosssection of the characteristics of port cities currently in operation. This covers 5,644 port cities globally as of 2020. This information was collected by combining information from Wikidepida, Natrual Earth and Central Intelligence Agency. The primary application of this data is for analyses that involve port level attributes.\nMcWay, Ryan. (2021). Global Ports. Version 1. https://github.com/mcwayrm/data_port_cities/blob/main/global_ports.dta. Extracted: [Date of Extraction]\n\n\nKeywords: Port Cities Terminals\nDataset\nCodebook\nDOI: 10.13140/RG.2.2.17074.43208\nLast Updated: Jan. 19th 2021"
-  },
-  {
-    "objectID": "data-packages.html#cruise-ship-characteristics-information",
-    "href": "data-packages.html#cruise-ship-characteristics-information",
-    "title": "Data & Packages",
-    "section": "1. Cruise Ship Characteristics Information",
-    "text": "1. Cruise Ship Characteristics Information\n\nThis dataframe provides a crosssection of the characteristics of cruise ship vessels currently in operation. This covers 525 vessels as the beginning of 2020. This information was collected by combining information from Wikidepida and Vessel Finder. The primary application of this data is for cruise tourism or cruise ship activity.\nMcWay, Ryan. (2020). Cruise Ship Characteristics Information. Version 1. https://github.com/mcwayrm/data_cruise_ship_info/blob/main/cruise_ship_info.csv. Extracted: [Date of Extraction].\n\n\nKeywords: Cruise Ships Cruise Tourism Crew Passengers\nDataset\nCodebook\nDOI: 10.13140/RG.2.2.13528.52488\nLast Updated: Oct. 14th 2020"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ryan McWay",
+    "objectID": "teaching.html#instructor",
+    "href": "teaching.html#instructor",
+    "title": "Teaching",
     "section": "",
-    "text": "Ryan is a fourth year PhD student in the Applied Economics program at the University of Minnesota. His research lies at the intersection of environmental economics and development economics. Using causal inference methods to identify structural models, Ryan takes an applied microeconomics approach to assess the value of ecosystems in economic production and economic development, and firm behavior under market failures. \n\nPreviously, Ryan held an appointment at the University of Michigan, through the Institute for Social Research and Population Studies Center working alongside Prof. Dean Yang. Ryan is also a graduate student member of the Minnesota Population Center, and is an active member of the Natural Capital Project: The Earth-Economy Modelers (NatCap TEEMs) and Glewwe Development Lab. Ryan is a student member of the American Economic Association (AEA), the Agricultural & Applied Economics Association (AAEA), and the Association of Environmental and Resource Economists (AERE).\nRyan completed his MS in International and Development Economics at the University of San Francisco (USF), and his BS in Economics and BS in International Business at Saint Louis University (SLU). Ryan is an alumni of the Development Economics @ Michigan community, and the The Institute for Research on Women and Gender.\n\n\n\nEmail: mcway005@umn.edu\nPhone:s +1 612 – 625 – 1222\nPersonal Website: https://mcwayrm.github.io ss\nUMN Department Website: https://apec.umn.edu/people/ryan-mcway\nMailing Address:\n\n1994 Buford Ave, 316A Ruttan Hall,\nDepartment of Applied Economics, University of Minnesota,\nSaint Paul, MN, USA 55108 – 6040"
+    "text": "Course\nTitle\nLevel\nInstitution\nCourse Link\n\n\n\n\nECON 3750\nBehavioral and Experimental Economics\nBachelors\nHamline University\n2025\n\n\nAPEC 1201\nApp. of Excel in Econ. & Mgmt.\nBachelors\nUniversity of Minnesota\n2024\n\n\n\nApplied Economics Math Review\nDoctoral\nUniversity of Minnesota\n2023"
   },
   {
-    "objectID": "index.html#short-bibliography",
-    "href": "index.html#short-bibliography",
-    "title": "Ryan McWay",
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
     "section": "",
-    "text": "Ryan is a fourth year PhD student in the Applied Economics program at the University of Minnesota. His research lies at the intersection of environmental economics and development economics. Using causal inference methods to identify structural models, Ryan takes an applied microeconomics approach to assess the value of ecosystems in economic production and economic development, and firm behavior under market failures. \n\nPreviously, Ryan held an appointment at the University of Michigan, through the Institute for Social Research and Population Studies Center working alongside Prof. Dean Yang. Ryan is also a graduate student member of the Minnesota Population Center, and is an active member of the Natural Capital Project: The Earth-Economy Modelers (NatCap TEEMs) and Glewwe Development Lab. Ryan is a student member of the American Economic Association (AEA), the Agricultural & Applied Economics Association (AAEA), and the Association of Environmental and Resource Economists (AERE).\nRyan completed his MS in International and Development Economics at the University of San Francisco (USF), and his BS in Economics and BS in International Business at Saint Louis University (SLU). Ryan is an alumni of the Development Economics @ Michigan community, and the The Institute for Research on Women and Gender.\n\n\n\nEmail: mcway005@umn.edu\nPhone:s +1 612 – 625 – 1222\nPersonal Website: https://mcwayrm.github.io ss\nUMN Department Website: https://apec.umn.edu/people/ryan-mcway\nMailing Address:\n\n1994 Buford Ave, 316A Ruttan Hall,\nDepartment of Applied Economics, University of Minnesota,\nSaint Paul, MN, USA 55108 – 6040"
+    "text": "Course\nTitle\nLevel\nInstitution\nInstructor\nCourse Link\n\n\n\n\nAPEC 3003\nIntro. to Applied Econometrics\nBachelors\nUniversity of Minnesota\nCharlotte Ambrozek\n2023\n\n\nECON 620\nGraduate Econometrics\nMasters\nUniversity of San Francisco\nJesse Antilla-Hughes\n2020\n\n\nECON 427\nApplied Econometrics Capstone\nBachelors\nUniversity of San Francisco\nMichael Jonas\n2020\n\n\nECON 312\nIntermediate Macroeconomics\nBachelors\nUniversity of San Francisco\nTodd Fitch\n2020\n\n\nECON 111\nPrinciples of Microeconomics\nBachelors\nUniversity of San Francisco\nNorman Lo\n2020\n\n\nECON 615\nMathematics for Economists\nMasters\nUniversity of San Francisco\nAlessandra Cassar\n2019\n\n\nECON 112\nPrinciples of Macroeconomics\nBachelors\nUniversity of San Francisco\nTodd Fitch\n2019"
   },
   {
-    "objectID": "index.html#contact-information",
-    "href": "index.html#contact-information",
-    "title": "Ryan McWay",
+    "objectID": "teaching.html#tutoring",
+    "href": "teaching.html#tutoring",
+    "title": "Teaching",
     "section": "",
-    "text": "Email: mcway005@umn.edu\nPhone:s +1 612 – 625 – 1222\nPersonal Website: https://mcwayrm.github.io ss\nUMN Department Website: https://apec.umn.edu/people/ryan-mcway\nMailing Address:\n\n1994 Buford Ave, 316A Ruttan Hall,\nDepartment of Applied Economics, University of Minnesota,\nSaint Paul, MN, USA 55108 – 6040"
+    "text": "University of San Francisco\n\n\n BUS 302 Marketing Principles \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n ECON 112 Principles of Macroeconomics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n ECON 312 Intermediate Macroeconomics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n ECON 372 Development Economics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n MATH 104 Algebra and Trigonometry \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n MATH 106 Business Statistics \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link\n\n\n\n\n\n SOC 150 Introduction to Sociology \n\n\n\nLevel: Undergraduate Course\n\n\nCourse Link"
+  },
+  {
+    "objectID": "teaching.html#research-assistants",
+    "href": "teaching.html#research-assistants",
+    "title": "Teaching",
+    "section": "Research Assistants",
+    "text": "Research Assistants\n\n\n\nResearch Assistant\n\nPlacement\n\n\n\n\nIvan Manhique\n→\nUniversity of Essex\n\n\nKwasi Tabiri\n→\nMcGill University\n\n\nErik Tiersten-Nyman\n→\nFederal Reserve Bank of Chicago\n\n\nLaston Manja\n→\nUniversity of Michigan\n\n\nArika Kayastha\n→\nInternational Monetary Fund\n\n\nDedrick McCord\n→\nAtlanta Public School System\n\n\nSidi Cheng\n→\nVirginia Commonwealth University\n\n\nChenhao Yu\n→\nUniversity of Chicago"
+  },
+  {
+    "objectID": "teaching.html#mentorship-programs",
+    "href": "teaching.html#mentorship-programs",
+    "title": "Teaching",
+    "section": "Mentorship Programs",
+    "text": "Mentorship Programs\n\n\n\nMentee\n\nPlacement\n\n\n\n\n\nOizamsi (Victoria) Momoh\nGAIN Mentorship Program\n→\nTBD\n\n\nJoeseph Glaser\nService Leadership Program\n→\nTBD\n\n\nNick Parafiniuk\nService Leadership Program\n→\nTBD"
+  },
+  {
+    "objectID": "teaching.html#footnotes",
+    "href": "teaching.html#footnotes",
+    "title": "Teaching",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nBellemare, Marc F. (2022). Doing Economics: What You Should Have Learned in Grad School - But Didn’t. Cambridge Massachusetts: The MIT Press. p. 150↩︎"
   }
 ]

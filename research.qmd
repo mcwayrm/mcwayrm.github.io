@@ -1,0 +1,54 @@
+---
+title: "Research"
+comments: false
+---
+
+# Working Papers
+
+> Unintended Consequences of Lockdowns, COVID-19 and the Shadow Pandemic in India. A Reproduction Study of
+Ravindran and Shah. (Nature Human Behavior, 2023) [Link](https://www.econstor.eu/bitstream/10419/318264/1/I4R-DP230.pdf)
+
+> The Political Consequences of Resource Scarcity: Targeted Spending in a Water-stressed Democracy. A Replication
+Study of Mahadevan and Shenoy (Journal of Public Economics, 2023) [Link](https://www.econstor.eu/bitstream/10419/318265/1/I4R-DP231.pdf)
+
+> Outsourcing Education: Experimental Evidence from Liberia. A Replication Study of Romero, Sandefur, and
+Sandholtz (American Economic Review, 2020) [Link](https://osf.io/dnyu5/)
+
+> Spatial Polarisation. A Replication Study of Cerina et al. (The Economic Journal, 2023) [Link]()
+
+> Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative
+Social Science [Link](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf)
+
+> Mass Reproducibility and Replicability: A New Hope [Link](https://docs.iza.org/dp16912.pdf)
+
+
+# Publications
+
+<!-- ## Environment Papers -->
+
+## Development Papers
+
+> The Impact of Early Childhood Development Interventions on Children’s Health in Developing Countries: A
+Systematic Review and Meta-analysis of Randomized Controlled Trials, joint with Pallavi Prabhakar and Ayo Ellis.
+**NHH Dept. of Economics Discussion Paper**. 2022, (14/2022) [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4240945)
+
+> Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education. **The
+American Economist**. 2022, 67 (1), 5 – 23. [Link](https://journals.sagepub.com/doi/10.1177/05694345211054515)
+
+## Miscellaneous
+
+
+> Market Access and Quality Upgrading: Evidence from Four Field Experiments. A Replication Study of Bold et al.
+(American Economic Review, 2022), joint with Karim Nchare and Pu Sun. **Journal of Comments and
+Replications in Economics**. 2024, 3 (2024-2). [Link](https://www.jcr-econ.org/market-access-and-quality-upgrading-replication/)
+
+> Does Board Gender Diversity and Remuneration Impact Earnings Quality? An Empirical Analysis of Spanish
+Firms, joint with Paolo Saono, Laura Muro, and Pablo San Martin. **Gender in Management: An
+International Journal**. 2024, 39 (1), 18 – 51. [Link](https://www.emerald.com/insight/content/doi/10.1108/gm-04-2021-0113/full/html)
+
+> Stata Tip: Consistency and Communication in Team Dofiles, joint with James Allen IV and Hang Yu. **SSRN
+Working Paper Series**. 2021, (3965114) [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965114)
+
+> Contrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms, joint
+with Paolo Saono, Laura Muro, and Mauricio Jara-Bertin. **ResearchGate Working Paper Series**. 2019
+(2.2.11103.00163) [Link](https://www.researchgate.net/publication/338165813_Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms)

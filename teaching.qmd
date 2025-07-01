@@ -59,7 +59,8 @@ You want this statement to demonstrate the following to a search committee:
 
 | Course | Title  | Level |  Institution | Course Link |
 | :---        |    :----:   |    :----:   |    :----:   |          ---: |
-| APEC 1201 | App. of Excel in Econ. & Mgmt.  | Bachelors |  University of Minnesota | [2024]() |
+| ECON 3750 | Behavioral and Experimental Economics  | Bachelors |  Hamline University | [2025](https://www.coursicle.com/hamline/courses/ECON/3750/) |
+| APEC 1201 | App. of Excel in Econ. & Mgmt.  | Bachelors |  University of Minnesota | [2024](https://umn.lol/class/APEC1201/applications-of-excel-in-economics-and-management) |
 |           | Applied Economics Math Review  | Doctoral |  University of Minnesota | [2023](https://github.com/mcwayrm/apec_math_review_2023) |
 
 
