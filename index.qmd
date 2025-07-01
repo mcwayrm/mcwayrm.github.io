@@ -28,7 +28,7 @@ comments: false
 ---
 
 
-## Short Bibliography
+# Short Bibliography
 
 <div style="text-align: justify">
 
@@ -44,11 +44,13 @@ Ryan is a student member of the [American Economic Association (AEA)](https://ww
 Ryan completed his MS in International and Development Economics at the University of San Francisco (USF), and his BS in Economics and BS in International Business at Saint Louis University (SLU). 
 Ryan is an alumni of the [Development Economics @ Michigan](https://devecon.umich.edu/people/alumni/) community, and the [The Institute for Research on Women and Gender](https://irwg.umich.edu/content/ryan-mcway).
 
-## Contact Information
+</div>
+
+# Contact Information
 
 - **Email:** mcway005@umn.edu
-- **Phone:s** +1 612 -- 625 -- 1222
-- **Personal Website:** https://mcwayrm.github.io ss
+- **Phone:** +1 612 -- 625 -- 1222
+- **Personal Website:** https://mcwayrm.github.io
 - **UMN Department Website:** https://apec.umn.edu/people/ryan-mcway
 - **Mailing Address:** 
   - 1994 Buford Ave, 316A Ruttan Hall, 
@@ -56,7 +58,7 @@ Ryan is an alumni of the [Development Economics @ Michigan](https://devecon.umic
   - Saint Paul, MN, USA 55108 -- 6040
 
 
-</div>
+
 
 <img src="/images/brac_fieldwork.jpg" width="75%">
 
