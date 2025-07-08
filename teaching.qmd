@@ -70,6 +70,8 @@ You want this statement to demonstrate the following to a search committee:
 
 | Course | Title  | Level |  Institution | Instructor | Course Link |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |          ---: |
+| APEC 1101 | Principles of Microeconomics  | Bachelors |  University of Minnesota | [Jay Coggins](https://apec.umn.edu/people/jay-coggins) |  [2025](https://ccaps.umn.edu/college-in-the-schools/courses/principles-microeconomics) |
+| APEC 5032 | Economic Data Analysis  | Masters |  University of Minnesota | [Elizabeth Davis](https://apec.umn.edu/people/elizabeth-davis) |  [2024](https://umtc.catalog.prod.coursedog.com/courses/7953521) |
 | APEC 3003 | Intro. to Applied Econometrics  | Bachelors |  University of Minnesota | [Charlotte Ambrozek](https://charlotteambrozek.weebly.com/) |  [2023](https://onestop2.umn.edu/pcas/viewCatalogCourse.do?courseId=814054) |
 | ECON 620 | Graduate Econometrics  | Masters |  University of San Francisco | [Jesse Antilla-Hughes](https://sites.google.com/site/jesseanttilahughes/) | [2020](https://catalog.usfca.edu/preview_program.php?catoid=22&poid=13244&returnto=3107) |
 | ECON 427 | Applied Econometrics Capstone  | Bachelors |  University of San Francisco | [Michael Jonas](https://scholar.google.com/citations?user=c97cvAwAAAAJ&hl=en) | [2020](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=189556) |
