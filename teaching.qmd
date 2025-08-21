@@ -224,6 +224,8 @@ A part of my role in academia is to assist others in achieving their goals. Thro
 
 | Research Assistant |  | Placement |
 | :---        |    :----:   |          ---: |
+| [Youssef Assarssah](https://www.hks.harvard.edu/centers/cid/about-cid/people/fellows/youssef-assarssah) | &rarr; | Harvard University |
+| [Gabriella Cecchini](https://blogs.worldbank.org/en/team/g/gabriela-paczko-bozko-cecchini) | &rarr; | World Bank |
 | [Ivan Manhique](https://www.researchgate.net/profile/Ivan-Manhique) | &rarr; | University of Essex |
 | [Kwasi Tabiri](https://gh.linkedin.com/kwasi-gyabaa-tabiri-143021a1) | &rarr; | McGill University |
 | Erik Tiersten-Nyman | &rarr; | Federal Reserve Bank of Chicago |
@@ -238,6 +240,8 @@ A part of my role in academia is to assist others in achieving their goals. Thro
 
 | Mentee |  | Placement |
 | :---        | :---        |    :----:   |          ---: |
-| [Oizamsi (Victoria) Momoh]() | GAIN Mentorship Program | &rarr; | TBD |
-| [Joeseph Glaser](https://www.linkedin.com/in/joseph-glaser-284455265) | Service Leadership Program | &rarr; | TBD |
-| [Nick Parafiniuk](https://dspslu.wixsite.com/website-1/contact-us-1) | Service Leadership Program | &rarr; | TBD |
+| [Brendon Wong](https://www.linkedin.com/in/brendon-wong-55b259215/) | USF Alumni Network | &rarr; | University of California, Irvine |
+| [Oizamsi (Victoria) Momoh](https://www.linkedin.com/in/oizamsi-victoria-momoh/?originalSubdomain=ng) | GAIN Mentorship Program | &rarr; | Kickoff Africa |
+
+<!-- | [Joeseph Glaser](https://www.linkedin.com/in/joseph-glaser-284455265) | Service Leadership Program | &rarr; | TBD |
+| [Nick Parafiniuk](https://dspslu.wixsite.com/website-1/contact-us-1) | Service Leadership Program | &rarr; | TBD | -->
