@@ -28,7 +28,7 @@ comments: false
 ---
 
 
-# Short Bibliography
+# Short Biography
 
 <div style="text-align: justify">
 
