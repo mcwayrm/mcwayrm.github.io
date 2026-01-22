@@ -72,6 +72,7 @@ You want this statement to demonstrate the following to a search committee:
 
 | Course | Title  | Level |  Institution | Instructor | Course Link | Class Size |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |      :----:   |         ---: |
+| APEC 3611 | Conservation Biology  | Bachelors |  University of Minnesota | [Justin Johnson](https://justinandrewjohnson.com/) |  [2026](https://justinandrewjohnson.com/teaching/apec_3611/) | 18 |
 | FW 8452 | Conservation Biology  | Doctoral |  University of Minnesota | [Justin Johnson](https://justinandrewjohnson.com/) |  [2025](https://umtc.catalog.prod.coursedog.com/courses/0099111) | 20 |
 | APEC 1101 | Principles of Microeconomics  | Bachelors |  University of Minnesota | [Jay Coggins](https://apec.umn.edu/people/jay-coggins) |  [2025](https://ccaps.umn.edu/college-in-the-schools/courses/principles-microeconomics) | 123 |
 | APEC 5032 | Economic Data Analysis  | Masters |  University of Minnesota | [Elizabeth Davis](https://apec.umn.edu/people/elizabeth-davis) |  [2024](https://umtc.catalog.prod.coursedog.com/courses/7953521) | 4 |
