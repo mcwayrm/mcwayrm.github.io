@@ -38,7 +38,7 @@ comments: false
 
 ## Labor Papers 
 
-> Spatial Polarisation. A Replication Study of Cerina et al. (The Economic Journal, 2023) joint with Noah Arman Kouchekinia and Xu Xu Cong. **Journal of Applied Econometrics**. Forthcoming. [Link]()
+> Spatial Polarisation. A Replication Study of Cerina et al. (The Economic Journal, 2023) joint with Noah Arman Kouchekinia and Xu Xu Cong. **Journal of Applied Econometrics**. 2026. Forthcoming. [Link](https://doi.org/10.1002/jae.70036)
 
 ## Methodology Papers
 
