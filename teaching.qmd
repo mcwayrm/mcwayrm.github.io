@@ -57,11 +57,11 @@ You want this statement to demonstrate the following to a search committee:
 
 ## Instructor
 
-**Total Number of Students Taught:** 71
+**Total Number of Students Taught:** 99
 
 | Course | Title  | Level |  Institution | Course Link | Class Size | Student Ratings |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |           ---: |
-| ECON 294-05 | Economics of Sustainable Development  | Bachelors |  Macalester College | [2026](https://www.macalester.edu/economics/schedules/#crs32785) | TBD | TBD |
+| ECON 294-05 | Economics of Sustainable Development  | Bachelors |  Macalester College | [2026](https://www.macalester.edu/economics/schedules/#crs32785) | 28 | TBD |
 | ECON 3750 | Behavioral and Experimental Economics  | Bachelors |  Hamline University | [2025](https://www.coursicle.com/hamline/courses/ECON/3750/) | 22 | 6.27/7 |
 | APEC 1201 | App. of Excel in Econ. & Mgmt.  | Bachelors |  University of Minnesota | [2024](https://umn.lol/class/APEC1201/applications-of-excel-in-economics-and-management) | 37 | 5.33/6 |
 |           | Applied Economics Math Review  | Doctoral |  University of Minnesota | [2023](https://github.com/mcwayrm/apec_math_review_2023) | 12 | ----- |
