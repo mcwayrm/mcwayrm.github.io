@@ -19,6 +19,8 @@ website:
         text: Fieldwork
       - href: data-packages.qmd
         text: Data & Packages
+      - href: https://mcwayrm.github.io/thematrix/
+        text: The Matrix
 
 format:
   html:
