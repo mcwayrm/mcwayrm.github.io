@@ -5,13 +5,13 @@ comments: false
 
 # Working Papers
 
-> Unintended Consequences of Lockdowns, COVID-19 and the Shadow Pandemic in India. A Reproduction Study of Ravindran and Shah. (Nature Human Behavior, 2023) [Link](https://www.econstor.eu/bitstream/10419/318264/1/I4R-DP230.pdf)
+> *Economic Contribution of Wild Pollinators: An Application of Gross-Ecosystem Product (GEP)*, joint with Subin Poudel and Lingling Liu. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6907296)
 
-> Outsourcing Education: Experimental Evidence from Liberia. A Replication Study of Romero, Sandefur, and Sandholtz (American Economic Review, 2020) [Link](https://osf.io/dnyu5/)
+> *Unintended Consequences of Lockdowns, COVID-19 and the Shadow Pandemic in India. A Reproduction Study of Ravindran and Shah. (Nature Human Behavior, 2023)* [Link](https://www.econstor.eu/bitstream/10419/318264/1/I4R-DP230.pdf)
 
-> Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science [Link](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf)
+> *Outsourcing Education: Experimental Evidence from Liberia. A Replication Study of Romero, Sandefur, and Sandholtz (American Economic Review, 2020)* [Link](https://osf.io/dnyu5/)
 
-> Mass Reproducibility and Replicability: A New Hope [Link](https://docs.iza.org/dp16912.pdf)
+
 
 
 # Publications
@@ -19,27 +19,33 @@ comments: false
 
 ## Environment Papers
 
-> The Political Consequences of Resource Scarcity: Targeted Spending in a Water-stressed Democracy. A Replication Study of Mahadevan and Shenoy (Journal of Public Economics, 2023), joint with Matthew Braaksma. **World Development Perspective**. 2025, 39 (100707). [Link](https://www.econstor.eu/bitstream/10419/318265/1/I4R-DP231.pdf)
+> *The Political Consequences of Resource Scarcity: Targeted Spending in a Water-stressed Democracy. A Replication Study of Mahadevan and Shenoy (Journal of Public Economics, 2023)*, joint with Matthew Braaksma. **World Development Perspective**. 2025, 39 (100707). [Link](https://www.econstor.eu/bitstream/10419/318265/1/I4R-DP231.pdf)
 
 ## Development Papers
 
-> Market Access and Quality Upgrading: Evidence from Four Field Experiments. A Replication Study of Bold et al. (American Economic Review, 2022), joint with Karim Nchare and Pu Sun. **Journal of Comments and Replications in Economics**. 2024, 3 (2024-2). [Link](https://www.ojs.jcr-econ.org/index.php/jcre/article/view/27)
+> *Impact Evaluation of the Darsel Math Personalized Learning Platform in Jordan*, joint with Caroline Krafft, Paul Glewwe, Tessa Bold, Abdulhamid Haidar, Paola Giannattasio, and Mojtaba Mahdipour. **Journal of Development Economics. Stage 1 Conditionally Accepted.** [Link](https://afosterri.org/jdepreresults/wp-content/uploads/2026/03/krafft-glewwe-bold-haidar-mcway-giannattasio-mahdipour-darsel-ma-f51efe23269b8e914fe8fbf1db8e73df.pdf)
 
-> Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education. **The American Economist**. 2022, 67 (1), 5 – 23. [Link](https://journals.sagepub.com/doi/10.1177/05694345211054515)
+> *Market Access and Quality Upgrading: Evidence from Four Field Experiments. A Replication Study of Bold et al. (American Economic Review, 2022)*, joint with Karim Nchare and Pu Sun. **Journal of Comments and Replications in Economics**. 2024, 3 (2024-2). [Link](https://www.ojs.jcr-econ.org/index.php/jcre/article/view/27)
 
-> The Impact of Early Childhood Development Interventions on Children’s Health in Developing Countries: A Systematic Review and Meta-analysis of Randomized Controlled Trials, joint with Pallavi Prabhakar and Ayo Ellis. **NHH Dept. of Economics Discussion Paper**. 2022, (14/2022). [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4240945)
+> *Cruising Through School: General Equilibrium Effects of Cruise Ship Arrivals on Employment and Education*. **The American Economist**. 2022, 67 (1), 5 – 23. [Link](https://journals.sagepub.com/doi/10.1177/05694345211054515)
+
+> *The Impact of Early Childhood Development Interventions on Children’s Health in Developing Countries: A Systematic Review and Meta-analysis of Randomized Controlled Trials*, joint with Pallavi Prabhakar and Ayo Ellis. **NHH Dept. of Economics Discussion Paper**. 2022, (14/2022). [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4240945)
 
 
 ## Business Papers
 
-> Does Board Gender Diversity and Remuneration Impact Earnings Quality? An Empirical Analysis of Spanish Firms, joint with Paolo Saono, Laura Muro, and Pablo San Martin. **Gender in Management: An International Journal**. 2024, 39 (1), 18 – 51. [Link](https://www.emerald.com/insight/content/doi/10.1108/gm-04-2021-0113/full/html)
+> *Does Board Gender Diversity and Remuneration Impact Earnings Quality? An Empirical Analysis of Spanish Firms*, joint with Paolo Saono, Laura Muro, and Pablo San Martin. **Gender in Management: An International Journal**. 2024, 39 (1), 18 – 51. [Link](https://www.emerald.com/insight/content/doi/10.1108/gm-04-2021-0113/full/html)
 
-> Contrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms, joint with Paolo Saono, Laura Muro, and Mauricio Jara-Bertin. **ResearchGate Working Paper Series**. 2019 (2.2.11103.00163) [Link](https://www.researchgate.net/publication/338165813_Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms)
+> *Contrasting Incentives for Earnings Management: Board Activity and Board Remuneration in Spanish Firms*, joint with Paolo Saono, Laura Muro, and Mauricio Jara-Bertin. **ResearchGate Working Paper Series**. 2019 (2.2.11103.00163) [Link](https://www.researchgate.net/publication/338165813_Contrasting_Incentives_for_Earnings_Management_Board_Activity_and_Board_Remuneration_in_Spanish_Firms)
 
 ## Labor Papers 
 
-> Spatial Polarisation. A Replication Study of Cerina et al. (The Economic Journal, 2023) joint with Noah Arman Kouchekinia and Xu Xu Cong. **Journal of Applied Econometrics**. 2026. Forthcoming. [Link](https://doi.org/10.1002/jae.70036)
+> *Spatial Polarisation. A Replication Study of Cerina et al. (The Economic Journal, 2023)* joint with Noah Arman Kouchekinia and Xu Xu Cong. **Journal of Applied Econometrics**. 2026. Forthcoming. [Link](https://doi.org/10.1002/jae.70036)
 
 ## Methodology Papers
 
-> Stata Tip: Consistency and Communication in Team Dofiles, joint with James Allen IV and Hang Yu. **SSRN Working Paper Series**. 2021, (3965114) [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965114)
+> *Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science*, joint with Abel Brodeur, David Valenta, Alexandru Marcoci, et al. **Proceedings of the National Academy of the Sciences**. 2026, 123 (22). [Link](https://www.pnas.org/doi/10.1073/pnas.2524747123)
+
+> *Reproducibility and Robustness of Economics and Political Science Research*, joint with Abel Brodeur, Derek Mikola, Nikolai Cook, Edward Miguel, et al. **Nature**. 2026, 652 (8108), 151 – 156. [Link](https://www.nature.com/articles/s41586-026-10251-x)
+
+> *Stata Tip: Consistency and Communication in Team Dofiles*, joint with James Allen IV and Hang Yu. **SSRN Working Paper Series**. 2021, (3965114) [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965114)
