@@ -73,6 +73,7 @@ You want this statement to demonstrate the following to a search committee:
 
 | Course | Title  | Level |  Institution | Instructor | Course Link | Class Size |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |      :----:   |         ---: |
+| APEC 1101 | Principles of Microeconomics  | Bachelors |  University of Minnesota | [Jay Coggins](https://apec.umn.edu/people/jay-coggins) |  [2026](https://ccaps.umn.edu/college-in-the-schools/courses/principles-microeconomics) |  |
 | APEC 3611 | Environmental and Natural Resource Economics  | Bachelors |  University of Minnesota | [Justin Johnson](https://justinandrewjohnson.com/) |  [2026](https://justinandrewjohnson.com/teaching/apec_3611/) | 18 |
 | FW 8452 | Conservation Biology  | Doctoral |  University of Minnesota | [Justin Johnson](https://justinandrewjohnson.com/) |  [2025](https://umtc.catalog.prod.coursedog.com/courses/0099111) | 20 |
 | APEC 1101 | Principles of Microeconomics  | Bachelors |  University of Minnesota | [Jay Coggins](https://apec.umn.edu/people/jay-coggins) |  [2025](https://ccaps.umn.edu/college-in-the-schools/courses/principles-microeconomics) | 123 |
@@ -244,7 +245,7 @@ A part of my role in academia is to assist others in achieving their goals. Thro
 
 ## Mentorship Programs
 
-| Mentee |  | Placement |
+| Mentee | Network |   | Placement |
 | :---        | :---        |    :----:   |          ---: |
 | [Brendon Wong](https://www.linkedin.com/in/brendon-wong-55b259215/) | USF Alumni Network | &rarr; | University of California, Irvine |
 | [Oizamsi (Victoria) Momoh](https://www.linkedin.com/in/oizamsi-victoria-momoh/?originalSubdomain=ng) | GAIN Mentorship Program | &rarr; | Kickoff Africa |
