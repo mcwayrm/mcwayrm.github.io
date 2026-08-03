@@ -8,9 +8,11 @@ comments: false
 
 
 1. **Regenerative Agriculture and Farmer Profitability: Modeling Adoption for Scalable Climate Mitigation** [Link]()
+
 > **Abstract:** Agriculture is a major source of greenhouse gas emissions, but large-scale climate mitigation in this sector depends on whether conservation practices are privately profitable for farmers. This paper studies two core regenerative practices in U.S. row-crop systems --- cover cropping and no till --- and asks whether adoption improves farm profitability while building soil carbon. Empirically, I combine a panel of corn, soybean, and wheat farmers in the Midwest from 2010 - 2025 with a machine-learned county-year soil panel trained on ground-truth soil tests to examine farmer decisions and outcomes to changes in the soil. I estimate reduced-form using a staggered difference-in-difference design to address endogenous adoption. I then map the estimated relationships into a structural model of farmer decision-making to evaluate adoption incentives under heterogeneous farm conditions. I find that long-run improvements in soil organic carbon (SOC) drive long-run production gains, but profitability is muted by switching costs of adoption. This suggests that large-scale climate mitigation in row crop production is limited not by agronomic potential, but by private adoption costs, which can be addressed through appropriately designed policy interventions. 
 
 2. **Scaling Education Reform: Evidence from Morocco's Pioneer Schools Program** [Link]()
+
 > **Abstract:** TBD... Currently under revisions from third year data collection.
 
 # Working Papers
