@@ -32,7 +32,7 @@ comments: false
 
 <div style="text-align: justify">
 
-Ryan is a fifth year PhD student in the Applied Economics program at the [University of Minnesota](https://apec.umn.edu/people/ryan-mcway). **Ryan is currently on the 2026-27 Job Market. His Job Market Paper can be found [HERE](./files/...).**
+Ryan is a fifth year PhD student in the Applied Economics program at the [University of Minnesota](https://apec.umn.edu/people/ryan-mcway). **Ryan is currently on the 2026-27 Job Market. His Job Market Paper can be found [HERE](research.qmd).**
 His research lies at the intersection of environmental economics and development economics. Using causal inference methods to identify structural models, Ryan takes an applied microeconomics approach to assess the value of ecosystems in economic production and economic development, and firm behavior under market failures.
  <!-- While his primary fields lie within environment and development, Ryan more broadly studies questions within applied microeconomics related to behavioral economics and urban economics topics. Ryan works with both observational and primary data, with extensive past and on-going fieldwork for primary data collection. -->
 
