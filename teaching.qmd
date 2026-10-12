@@ -57,11 +57,11 @@ You want this statement to demonstrate the following to a search committee:
 
 ## Instructor
 
-**Total Number of Students Taught:** 89
+**Total Number of Students Taught:** 114
 
 | Course | Title  | Level |  Institution | Course Link | Class Size | Student Ratings |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |           ---: |
-| QMBE 3740 | Data Mining  | Bachelors |   Hamline University | [2026](https://bulletin.hamline.edu/preview_program.php?catoid=42&poid=5390&returnto=2598) |  |   |
+| QMBE 3740 | Data Mining  | Bachelors |   Hamline University | [2026](https://bulletin.hamline.edu/preview_program.php?catoid=42&poid=5390&returnto=2598) | 25 |   |
 | ECON 294-05 | Economics of Sustainable Development  | Bachelors |  Macalester College | [2026](https://www.macalester.edu/economics/schedules/#crs32785) | 18 | 4.58/5 |
 | ECON 3750 | Behavioral and Experimental Economics  | Bachelors |  Hamline University | [2025](https://bulletin.hamline.edu/preview_program.php?catoid=42&poid=5326&returnto=2470) | 22 | 6.27/7 |
 | APEC 1201 | App. of Excel in Econ. & Mgmt.  | Bachelors |  University of Minnesota | [2024](https://umn.lol/class/APEC1201/applications-of-excel-in-economics-and-management) | 37 | 5.33/6 |
@@ -69,11 +69,29 @@ You want this statement to demonstrate the following to a search committee:
 
 
 
+## Student Testimonials:
+
+> "One of if not the best class I have taken so far at macalester." - Economics of Sustainable Development (ECON 294-05)
+
+> "He was always super friendly and welcoming." - Economics of Sustainable Development (ECON 294-05)
+
+> "Ryan was extremely quick at responding to any concerns I had." - Economics of Sustainable Development (ECON 294-05)
+
+> "Really good at explaining stuff and always gave satisfactory responses to in class questions and emails." - Economics of Sustainable Development (ECON 294-05)
+
+> "The project was an awesome chance to try out the behavioral experiments." - Behavioral and Experimental Economics (ECON3750-1/MKTG3755-1)
+
+> "The lectures helped with quizzes and the games made it a fun learning experience" - Behavioral and Experimental Economics (ECON3750-1/MKTG3755-1) 
+
+> "Ryan seems to be really professional with all he do, he has a lot of knowledge about this kind of classes, and also he is a really good teacher" - App. of Excel in Econ. & Mgmt. (APEC 1201)
+
+> "Ryan was a very active listener and was there to be understanding of technical problems I was having. He answered all of my questions and treated everyone fairly" - App. of Excel in Econ. & Mgmt. (APEC 1201)
+
 ## Teaching Assistant
 
 | Course | Title  | Level |  Institution | Instructor | Course Link | Class Size |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |      :----:   |         ---: |
-| APEC 1101 | Principles of Microeconomics  | Bachelors |  University of Minnesota | [Jay Coggins](https://apec.umn.edu/people/jay-coggins) |  [2026](https://ccaps.umn.edu/college-in-the-schools/courses/principles-microeconomics) |  |
+| APEC 1101 | Principles of Microeconomics  | Bachelors |  University of Minnesota | [Jay Coggins](https://apec.umn.edu/people/jay-coggins) |  [2026](https://ccaps.umn.edu/college-in-the-schools/courses/principles-microeconomics) | 121 |
 | APEC 3611 | Environmental and Natural Resource Economics  | Bachelors |  University of Minnesota | [Justin Johnson](https://justinandrewjohnson.com/) |  [2026](https://justinandrewjohnson.com/teaching/apec_3611/) | 18 |
 | FW 8452 | Conservation Biology  | Doctoral |  University of Minnesota | [Justin Johnson](https://justinandrewjohnson.com/) |  [2025](https://umtc.catalog.prod.coursedog.com/courses/0099111) | 20 |
 | APEC 1101 | Principles of Microeconomics  | Bachelors |  University of Minnesota | [Jay Coggins](https://apec.umn.edu/people/jay-coggins) |  [2025](https://ccaps.umn.edu/college-in-the-schools/courses/principles-microeconomics) | 123 |
@@ -85,7 +103,6 @@ You want this statement to demonstrate the following to a search committee:
 | ECON 111 | Principles of Microeconomics  | Bachelors |  University of San Francisco | [Norman Lo](https://normanlo4319.github.io/Norman_Lo_Web/) | [2020](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186538) | 48 |
 | ECON 615 | Mathematics for Economists  | Masters |  University of San Francisco | [Alessandra Cassar](https://www.alessandracassar.net/) | [2019](https://catalog.usfca.edu/preview_program.php?catoid=22&poid=13244&returnto=3107) | 24 |
 | ECON 112 | Principles of Macroeconomics  | Bachelors |  University of San Francisco | [Todd Fitch](https://www.usfca.edu/faculty/todd-fitch) | [2019](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186539) | 54 |
-
 
 
 ## Tutoring
