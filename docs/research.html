@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -178,7 +207,7 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="./files/JMP/McWay-JMP-Environment.pdf">Manuscript Link</a></p>
 <p><a href="./files/JMP/McWay-JMP-Environment-Appendix.pdf">Supplementary Materials</a></p>
 <blockquote class="blockquote">
-<p><strong>Abstract:</strong> The climate-mitigation potential of agricultural conservation practices depends in part on whether farmers find them privately profitable. This paper studies the profit motivation for adoption of cover cropping and conservation tillage in Midwestern corn, soybean, and wheat production. I combine farm financial records for 2000–2025 with a machine-learned county-year panel of predicted soil organic carbon (SOC). Using a doubly robust staggered difference-in-differences design, I estimate practice- and crop-specific effects on net returns, revenues, expenses, yields, insurance outcomes, and predicted SOC. The results reveal a heterogeneous profit premium: estimated net returns increase by $79.40 per acre for corn cover crops and $22.50 for soybean reduced tillage, while most other comparisons are inconclusive. Positive predicted-SOC effects occur in selected crop-practice comparisons, but neither financial nor soil responses are uniform. To understand long-run soil capital dynamics, I develop a dynamic structural model linking management, production costs, and insurance to soil-stock accumulation and future returns. Together, the empirical analysis and model distinguish observed private returns from agronomic potential and clarify the intertemporal incentives relevant to conservation policy.</p>
+<p><strong>Abstract:</strong> The climate-mitigation potential of agricultural conservation practices depends in part on whether farmers find them privately profitable. This paper studies the profit motivation for adoption of cover cropping and conservation tillage in Midwestern corn, soybean, and wheat production. I combine farm financial records for 2000–2025 with a machine-learned county-year panel of predicted soil organic carbon (SOC). Using a doubly robust staggered difference-in-differences design, I estimate practice- and crop-specific effects on profitability and soil health. The results reveal a heterogeneous profit premium: estimated net returns increase by $79.40 per acre for corn cover crops and $22.50 for soybean reduced tillage, while most other comparisons vary considerably. Under fixed mineral-soil assumptions, the reduced-tillage SOC difference after 15 years reaches 45.88 and 43.21 tonnes <span class="math inline">\(CO_2\)</span> ha for corn and soybeans. Scaling these point estimates to national harvested acreage yields illustrative stock equivalents of 1.69 and 1.50 billion tonnes <span class="math inline">\(CO_2\)</span>, respectively. To understand long-run soil capital dynamics, I develop a dynamic structural model linking management, production costs, and insurance to soil-stock accumulation and future returns. Together, the empirical analysis and model distinguish observed private returns from agronomic potential and clarify the intertemporal incentives relevant to conservation policy.</p>
 </blockquote>
 <!-- 1. **Scaling Education Reform: Evidence from Morocco's Pioneer Schools Program** [Link]()
 
